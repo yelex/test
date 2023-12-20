@@ -115,5 +115,7 @@ driver.get("https://www.vprok.ru/product/miratorg-mirat-steyk-iz-sheyk-sv-gzms40
 time.sleep(10)
 soup = BeautifulSoup(driver.page_source, 'html.parser')
 
+with open('readme.txt', 'w') as f:
+    f.write(soup.text)
 print(soup.find('h1', {'class': re.compile('Title_title__nvodu')}).text)
 driver.quit()
