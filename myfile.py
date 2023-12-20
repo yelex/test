@@ -15,6 +15,9 @@ options.add_argument("--enable-javascript")
 driver = uc.Chrome(options=options)
 
 driver.get("https://www.vprok.ru/")
+
+with open('readme_common.txt', 'w') as f:
+    f.write(BeautifulSoup(driver.page_source, 'html.parser').text)
 time.sleep(3)
 
 cookies = [
