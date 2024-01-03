@@ -51,7 +51,8 @@ for i in range(0, len(proxies)):
 		print(soup)
 
 		if 'ошибка' not in soup.text:
-			print(soup.text)
+			with open("output.txt", "a") as f:
+				print(soup.text, file=f)
 			break
 		# if WebDriverWait(driver, 5).until(EC.title_contains('Масло')):
 		# 	break
