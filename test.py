@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.service import Service
-
+from bs4 import BeautifulSoup
 
 service = Service(executable_path=r'/usr/bin/chromedriver')
 options = webdriver.ChromeOptions()
@@ -17,4 +17,5 @@ options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
 driver = webdriver.Chrome(options=options, service=service)
 driver.get("https://www.vprok.ru/")
-print(driver.title)
+soup = BeautifulSoup(driver.page_source, 'html.parser')
+print(soup)
