@@ -47,6 +47,7 @@ for i in range(0, len(proxies)):
 		driver = webdriver.Chrome(options=options,service=service)
 
 		driver.get("https://www.vprok.ru/product/iz-vologdy-iz-volog-maslo-krest-sliv-72-5-fol-180g--307205")
+		time.sleep(5)
 		soup = BeautifulSoup(driver.page_source, 'html.parser')
 		if soup:
 			print(soup.text)
