@@ -1,27 +1,20 @@
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.chrome.service import Service
 
 
+service = Service(executable_path=r'/usr/bin/chromedriver')
+options = webdriver.ChromeOptions()
 
-
-  # this call executes the js in the page
-from bs4 import BeautifulSoup
-
-from fake_useragent import UserAgent
-from requests_html import HTMLSession
-import time
-session = HTMLSession()
-ua = UserAgent()
-
-headers={"User-Agent": ua.chrome}
-
-r = session.get('https://www.vprok.ru/product/grushi-konferens-1kg--303700', headers=headers)
-
-r.html.render()
-time.sleep(15)
-r.html.render()
-
-print(r.html.find('h1')[0].text)
-# soup = BeautifulSoup(r.content)
-# print(soup)
-# print(soup.find('h1', {'class': 'Title_title__nvodu Title_titleBig__AnZT4'}).text)
-# print(soup.find('span', {'class': 'Price_price__QzA8L Price_size_XL__MHvC1 Price_role_discount__l_tpE'}).text)
-# print(soup.find('span', {'class': 'Price_price__QzA8L Price_size_XS__ESEhJ Price_role_old__r1uT1'}).text)
+print("Process started")
+options.add_argument('--no-sandbox')
+options.add_argument("--headless=new")
+options.add_argument("start-maximized")
+options.add_experimental_option("excludeSwitches", ["enable-automation"])
+options.add_experimental_option('useAutomationExtension', False)
+driver = webdriver.Chrome(options=options, service=service)
+driver.get("https://www.vprok.ru/")
+print(driver.title)
