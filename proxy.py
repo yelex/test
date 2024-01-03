@@ -45,11 +45,17 @@ for i in range(0, len(proxies)):
 		options.add_experimental_option('useAutomationExtension', False)
 		options.add_argument('--proxy-server={}'.format(proxies[i]))
 		driver = webdriver.Chrome(options=options,service=service)
-
-		driver.get("https://www.vprok.ru/product/iz-vologdy-iz-volog-maslo-krest-sliv-72-5-fol-180g--307205")
-		time.sleep(5)
+		driver.get("https://www.vprok.ru/")
 		soup = BeautifulSoup(driver.page_source, 'html.parser')
 		if soup:
+			print('1')
+			print(soup.text)
+		time.sleep(10)
+		driver.get("https://www.vprok.ru/product/iz-vologdy-iz-volog-maslo-krest-sliv-72-5-fol-180g--307205")
+		
+		soup = BeautifulSoup(driver.page_source, 'html.parser')
+		if soup:
+			print('2')
 			print(soup.text)
 
 		if 'Масло' in soup.text:
