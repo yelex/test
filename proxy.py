@@ -50,9 +50,11 @@ for i in range(0, len(proxies)):
 		if soup:
 			print('1')
 			print(soup.text)
-		time.sleep(10)
+		if 'Выполняется проверка' in soup.text:
+			time.sleep(10)
 		driver.get("https://www.vprok.ru/product/iz-vologdy-iz-volog-maslo-krest-sliv-72-5-fol-180g--307205")
-		
+		if 'Выполняется проверка' in soup.text:
+			time.sleep(10)
 		soup = BeautifulSoup(driver.page_source, 'html.parser')
 		if soup:
 			print('2')
