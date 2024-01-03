@@ -49,8 +49,11 @@ for i in range(0, len(proxies)):
 		driver.get("https://www.vprok.ru/product/iz-vologdy-iz-volog-maslo-krest-sliv-72-5-fol-180g--307205")
 		soup = BeautifulSoup(driver.page_source, 'html.parser')
 		print(soup)
-		if WebDriverWait(driver, 5).until(EC.title_contains('Масло')):
+
+		if 'Масло' in soup.text:
 			break
+		# if WebDriverWait(driver, 5).until(EC.title_contains('Масло')):
+		# 	break
 	except Exception:
 		driver.quit()
 print("Proxy Invoked")
