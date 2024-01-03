@@ -48,9 +48,10 @@ for i in range(0, len(proxies)):
 
 		driver.get("https://www.vprok.ru/product/iz-vologdy-iz-volog-maslo-krest-sliv-72-5-fol-180g--307205")
 		soup = BeautifulSoup(driver.page_source, 'html.parser')
-		print(soup)
+		if soup:
+			print(soup.text)
 
-		if 'ошибка' not in soup.text:
+		if 'Масло' in soup.text:
 			with open("output.txt", "a") as f:
 				print(soup.text, file=f)
 			break
