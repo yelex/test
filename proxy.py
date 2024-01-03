@@ -50,7 +50,8 @@ for i in range(0, len(proxies)):
 		soup = BeautifulSoup(driver.page_source, 'html.parser')
 		print(soup)
 
-		if 'Масло' in soup.text:
+		if 'ошибка' not in soup.text:
+			print(soup.text)
 			break
 		# if WebDriverWait(driver, 5).until(EC.title_contains('Масло')):
 		# 	break
