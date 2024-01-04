@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 import time
 # from get_fake_headers import get_headers
 
@@ -46,7 +47,8 @@ urls = pd.read_csv(r'./final_links.csv', index_col=0, sep=';')
 urls_vprok = urls.loc[urls['site_code']=='perekrestok','site_link']
 
 for link in urls_vprok:
-    time.sleep(10)
+    random_time = np.abs(np.random.randn())*10
+    time.sleep(random_time)
     print(link)
     
     classes = dict()
