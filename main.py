@@ -64,18 +64,17 @@ for link in urls_vprok:
         r = requests.get(link, headers=HEADERS, timeout=20)
     soup = BeautifulSoup(r.text, "html.parser")
 
-    if 'Если считаете, что произошла ошибка' in soup.text:
-        for i in range(5):
-            try:
-                renew_tor_ip()
-                session = get_session()
-                r = session.get(link, headers=HEADERS, timeout=20)
-                soup = BeautifulSoup(r.text, "html.parser")
-                if 'Если считаете, что произошла ошибка' not in soup.text:
-                    break
-            except Exception as e:
-                print(e)
-                continue
+    while 'Если считаете, что произошла ошибка' in soup.text:
+        try:
+            renew_tor_ip()
+            session = get_session()
+            r = session.get(link, headers=HEADERS, timeout=20)
+            soup = BeautifulSoup(r.text, "html.parser")
+            if 'Если считаете, что произошла ошибка' not in soup.text:
+                break
+        except Exception as e:
+            print(e)
+            continue
 
     title_div = soup.find(classes['title'][0], {'class': classes['title'][-1]})
     if not title_div:
