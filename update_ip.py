@@ -22,7 +22,7 @@ def get_session():
 
 def renew_tor_ip():
     with Controller.from_port(port = 9051) as controller:
-        controller.authenticate(password="MyStr0n9P#D")
+        controller.authenticate(password="password")
         controller.signal(Signal.NEWNYM)
 
 
