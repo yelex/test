@@ -60,15 +60,15 @@ for link in urls_vprok:
     classes['price_old'] = ['span', 'Price_price__QzA8L Price_size_XS__ESEhJ Price_role_old__r1uT1']
     if is_use_tor:
         session = get_session()
-        r = session.get(link, headers=HEADERS, timeout=10)
+        r = session.get(link, headers=HEADERS, timeout=20)
     else:
-        r = requests.get(link, headers=HEADERS, timeout=10)
+        r = requests.get(link, headers=HEADERS, timeout=20)
     soup = BeautifulSoup(r.text, "html.parser")
-    
+
     if 'Если считаете, что произошла ошибка' in soup.text:
         renew_tor_ip()
         session = get_session()
-        r = session.get(link, headers=HEADERS, timeout=10)
+        r = session.get(link, headers=HEADERS, timeout=20)
         soup = BeautifulSoup(r.text, "html.parser")
 
     title_div = soup.find(classes['title'][0], {'class': classes['title'][-1]})
