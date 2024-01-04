@@ -73,7 +73,5 @@ for link in urls_vprok:
         price_new = price_regular_div.text
         price_old = ''
 
-    print(f'''title: {title}\n
-              price_new: {price_new}\n
-              price_old: {price_old}\n''')
+    print(f'''title: {title}\nprice_new: {price_new}\nprice_old: {price_old}\n''')
     
