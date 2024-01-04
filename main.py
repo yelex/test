@@ -71,6 +71,8 @@ for link in urls_vprok:
                 session = get_session()
                 r = session.get(link, headers=HEADERS, timeout=20)
                 soup = BeautifulSoup(r.text, "html.parser")
+                if 'Если считаете, что произошла ошибка' not in soup.text:
+                    break
             except Exception as e:
                 print(e)
                 continue
