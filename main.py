@@ -66,10 +66,15 @@ for link in urls_vprok:
     soup = BeautifulSoup(r.text, "html.parser")
 
     if 'Если считаете, что произошла ошибка' in soup.text:
-        renew_tor_ip()
-        session = get_session()
-        r = session.get(link, headers=HEADERS, timeout=20)
-        soup = BeautifulSoup(r.text, "html.parser")
+        for i in range(5):
+            try:
+                renew_tor_ip()
+                session = get_session()
+                r = session.get(link, headers=HEADERS, timeout=20)
+                soup = BeautifulSoup(r.text, "html.parser")
+            except Exception as e:
+                print(e)
+                continue
 
     title_div = soup.find(classes['title'][0], {'class': classes['title'][-1]})
     if not title_div:
