@@ -46,7 +46,7 @@ HEADERS = {'Accept': '*/*',
 
 urls = pd.read_csv(r'./final_links.csv', index_col=0, sep=';')
 urls_vprok = urls.loc[urls['site_code']=='perekrestok','site_link']
-is_use_tor = False
+session = False
 
 for link in urls_vprok:
     random_time = np.abs(np.random.randn())*10
@@ -58,8 +58,7 @@ for link in urls_vprok:
     classes['price_regular'] = ['span', 'Price_price__QzA8L Price_size_XL__MHvC1 Price_role_regular__X6X4D']
     classes['price_discount'] = ['span', 'Price_price__QzA8L Price_size_XL__MHvC1 Price_role_discount__l_tpE']
     classes['price_old'] = ['span', 'Price_price__QzA8L Price_size_XS__ESEhJ Price_role_old__r1uT1']
-    if is_use_tor:
-        session = get_session()
+    if session:
         r = session.get(link, headers=HEADERS, timeout=20)
     else:
         r = requests.get(link, headers=HEADERS, timeout=20)
