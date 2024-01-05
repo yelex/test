@@ -19,7 +19,7 @@ HEADERS = {'Accept': '*/*',
 TIMEOUT = 60
 
 urls = pd.read_csv(r'./final_links.csv', index_col=0, sep=';')
-urls_vprok = urls.loc[urls['site_code']=='perekrestok','site_link']
+urls_vprok = urls.loc[(urls['site_code']=='perekrestok')&(urls['category_id']>16),'site_link']
 session = False
 
 data = []
