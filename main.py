@@ -22,7 +22,7 @@ session = False
 
 data = []
 
-for link in urls_vprok[50:62]:
+for link in urls_vprok:
     random_time = np.abs(np.random.randn())*10
     time.sleep(random_time)
     print(f'{link}{'\n'}')
