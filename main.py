@@ -25,7 +25,8 @@ data = []
 for link in urls_vprok:
     random_time = np.abs(np.random.randn())*10
     time.sleep(random_time)
-    print(f'{link}{'\n'}')
+    print(f'{link}')
+    print('\n')
     
     classes = dict()
     classes['title'] = ['h1', 'Title_title__nvodu']
