@@ -11,14 +11,9 @@ def get_session():
     session.proxies['http']='socks5h://localhost:9050'
     session.proxies['https']='socks5h://localhost:9050'
 
-    try:
-        r = session.get('http://httpbin.org/ip')
-    except Exception as e:
-        print(str(e))
-    else:
-        print(r.text)
+    r = session.get('http://httpbin.org/ip')
+    print(r.text)
     return session
-
 
 def renew_tor_ip():
     with Controller.from_port(port = 9051) as controller:
