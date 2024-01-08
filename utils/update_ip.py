@@ -11,14 +11,12 @@ def get_session():
     session.proxies['http']='socks5h://localhost:9050'
     session.proxies['https']='socks5h://localhost:9050'
 
-    r = session.get('http://httpbin.org/ip')
-    print(r.text)
     return session
 
-def renew_tor_ip():
+def renew_tor_ip(password='password'):
     with Controller.from_port(port = 9051) as controller:
-        controller.authenticate(password="password")
-        controller.signal(Signal.NEWNYM)
+        controller.authenticate(password=password)
+        controller.signal(Signal.NEWNYM)        
 
 
 if __name__ == "__main__":
