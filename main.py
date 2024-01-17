@@ -11,6 +11,9 @@ import re
 from sys import platform
 # from get_fake_headers import get_headers
 
+
+# TODO: прописать Singleton
+
 session = False
 
 classes = dict()
@@ -41,18 +44,16 @@ def get_data_from_link(link, headers=HEADERS, timeout=TIMEOUT):
     if session:
         r = session.get(link, headers=headers, timeout=timeout)
     else:
+        print('im here')
         r = requests.get(link, headers=headers, timeout=timeout)
     soup = BeautifulSoup(r.text, "html.parser")
 
     # while 'Если считаете, что произошла ошибка' in soup.text:
-    while True:
+    while 'Если считаете, что произошла ошибка' in soup.text:
         try:
             update_session()
             r = session.get(link, headers=headers, timeout=timeout)
             soup = BeautifulSoup(r.text, "html.parser")
-            if soup:
-                if 'Если считаете, что произошла ошибка' not in soup.text:
-                    break
         except Exception as e:
             print(e)
     
