@@ -25,16 +25,6 @@ classes['price_old'] = ['span', 'Price_price__QzA8L Price_size_XS__ESEhJ Price_r
 def get_urls(urls=URLS):
     return urls.loc[urls['site_code']=='perekrestok','site_link']
 
-def set_session(new_session):
-    global session
-    session = new_session
-
-def update_session():
-    renew_tor_ip(password=f"{'mypassword' if platform == 'darwin' else 'password'}")
-    session = get_session()
-    print(session.get('https://httpbin.org/ip').text)
-    set_session(new_session=session)
-
 def get_data_from_link(link, headers=HEADERS, timeout=TIMEOUT):
     '''
     Сделать сессию вовне
