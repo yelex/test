@@ -10,21 +10,18 @@ class Global(Singleton):
     def __init__(self):
         self.request_session = None
         self.tor_session = None
-        
+
         self._set_request_session()
         self._set_tor_session()
 
     def _set_request_session(self):
-        self.request_session = self.create_session()
+        self.request_session = requests.session()
 
     def _set_tor_session(self):
-        self.tor_session = self.create_session()
+        self.tor_session = requests.session()
         self.tor_session.proxies = {}
         self.tor_session.proxies['http']='socks5h://localhost:9050'
         self.tor_session.proxies['https']='socks5h://localhost:9050'
-
-    def create_session(self):
-        return requests.session()
 
     def set_session(self, new_session):
         self.session = new_session
