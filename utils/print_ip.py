@@ -10,6 +10,3 @@ def print_ip(is_tor=True):
 def get_ip_info():
     print_ip(is_tor=True)
     print_ip(is_tor=False)
-
-if __name__ == '__main__':
-    get_ip_info()

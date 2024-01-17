@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 import time
-from utils.update_ip import renew_tor_ip, get_session
+from utils.update_tor_ip import renew_tor_ip, get_session
 import datetime
 from utils.tools import wspex, wspex_space
 from utils.constants import URLS, HEADERS, TIMEOUT
