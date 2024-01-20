@@ -3,10 +3,11 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 import time
-from utils.update_tor_ip import renew_tor_ip, get_session
+from utils.ip import update_tor_ip
 import datetime
 from utils.tools import wspex, wspex_space
 from utils.constants import URLS, HEADERS, TIMEOUT
+from utils.global_state import Global
 import re
 from sys import platform
 # from get_fake_headers import get_headers
@@ -14,35 +15,36 @@ from sys import platform
 
 # TODO: прописать Singleton
 
-session = False
-
 classes = dict()
 classes['title'] = ['h1', 'Title_title__nvodu']
 classes['price_regular'] = ['span', 'Price_price__QzA8L Price_size_XL__MHvC1 Price_role_regular__X6X4D']
 classes['price_discount'] = ['span', 'Price_price__QzA8L Price_size_XL__MHvC1 Price_role_discount__l_tpE']
 classes['price_old'] = ['span', 'Price_price__QzA8L Price_size_XS__ESEhJ Price_role_old__r1uT1']
 
-def get_urls(urls=URLS):
-    return urls.loc[urls['site_code']=='perekrestok','site_link']
+is_tor = False
 
-def get_data_from_link(link, headers=HEADERS, timeout=TIMEOUT):
+def get_data_from_link(link, is_tor=is_tor, 
+                       headers=HEADERS, timeout=TIMEOUT):
     '''
     Сделать сессию вовне
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
     '''
-    global session
-    if session:
-        r = session.get(link, headers=headers, timeout=timeout)
+    # TODO: дописать конфиг с is_tor
+
+    if is_tor:
+        r = Global().tor_session.get(link, headers=headers, timeout=timeout)
     else:
         print('im here')
-        r = requests.get(link, headers=headers, timeout=timeout)
+        r = Global().request_session.get(link, headers=headers, timeout=timeout)
     soup = BeautifulSoup(r.text, "html.parser")
 
     # while 'Если считаете, что произошла ошибка' in soup.text:
     while 'Если считаете, что произошла ошибка' in soup.text:
         try:
-            update_session()
-            r = session.get(link, headers=headers, timeout=timeout)
+            if not is_tor:
+                is_tor = True
+            update_tor_ip()
+            r = Global().tor_session.get(link, headers=headers, timeout=timeout)
             soup = BeautifulSoup(r.text, "html.parser")
         except Exception as e:
             print(e)

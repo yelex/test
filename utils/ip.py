@@ -1,9 +1,15 @@
+from utils.global_state import Global
+import json
 import time
 from platform import platform
-from print_ip import print_ip
 from stem.control import Controller
 from stem.control import Signal
 
+def print_ip(is_tor=True):
+    session = Global().tor_session if is_tor else Global().request_session
+    json_ip = session.get('https://httpbin.org/ip').text
+    ip = json.loads(json_ip)['origin']
+    print(f"{'Tor IP' if is_tor else 'IP'}: {ip}")
 
 def update_tor_ip():
     password = 'mypassword' if 'mac' in platform() else 'password'
