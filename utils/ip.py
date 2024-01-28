@@ -2,6 +2,11 @@ import json
 import time
 from platform import platform
 from stem.control import Controller
+import sys
+import os
+
+sys.path.insert(0, os.path.abspath('../'))
+
 from utils.global_state import Global
 
 def print_ip(is_tor: bool =True) -> None:
