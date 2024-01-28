@@ -5,9 +5,9 @@ from stem.control import Controller
 import sys
 import os
 
-sys.path.insert(0, os.path.abspath('../'))
+sys.path.insert(0, os.path.abspath('./'))
 
-from utils.global_state import Global
+from globals.global_state import Global
 
 def print_ip(is_tor: bool =True) -> None:
     session = Global().tor_session if is_tor else Global().request_session
