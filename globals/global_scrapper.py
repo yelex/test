@@ -6,6 +6,7 @@ import sys
 import os
 from tqdm import tqdm
 
+print(os.path.abspath('./'))
 sys.path.insert(0, os.path.abspath('./'))
 from utils.constants import URLS
 from global_state import Global
