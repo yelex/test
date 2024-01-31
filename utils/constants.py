@@ -1,4 +1,5 @@
 import pandas as pd
+import sys
 
 HEADERS = {'Accept': '*/*', 
            'Connection': 'keep-alive',
@@ -8,4 +9,6 @@ HEADERS = {'Accept': '*/*',
            'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Referer': 'https://google.com'}
 
 TIMEOUT = 120
-URLS = pd.read_csv(r'./links/final_links.csv', index_col=0, sep=';')
+URLS = pd.read_csv(r'./links/final_links.csv' if sys.platform == 'linux' 
+                   else r'../links/final_links.csv', 
+                   index_col=0, sep=';')
