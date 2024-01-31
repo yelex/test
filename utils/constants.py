@@ -1,7 +1,4 @@
 import pandas as pd
-import sys
-
-sys.path.insert(0, os.path.abspath('../') if sys.platform == 'linux' else os.path.abspath('./'))
 
 HEADERS = {'Accept': '*/*', 
            'Connection': 'keep-alive',
