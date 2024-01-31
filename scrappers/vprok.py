@@ -40,10 +40,10 @@ def get_data_from_link(link, global_=global_,
         r = global_.request_session.get(link, headers=headers, timeout=timeout)
 
     soup = BeautifulSoup(r.text, "html.parser")
-    print(soup)
+    # print(soup)
     # while 'Если считаете, что произошла ошибка' in soup.text:
     while 'Ваш ID запроса к ресурсу' in soup.text or soup.find('span', {'class': 'UiLayoutPageEmpty_contactsSecondaryText__erIsZ'}) is not None:
-        print(soup.text)
+        # print(soup.text)
         try:
             if not global_.is_tor_vprok:
                 print('i set is_tor_vprok')
@@ -56,12 +56,14 @@ def get_data_from_link(link, global_=global_,
             r = global_.tor_session.get(link, headers=headers, timeout=timeout)
             # print(r.content)
             soup = BeautifulSoup(r.text, "html.parser")
+            if not soup.find(classes['title'][0], {'class': classes['title'][-1]}):
+                print('  Нет названия, пробую другой IP\n')
+                continue
         except Exception as e:
             print(e)
     
     title_div = soup.find(classes['title'][0], {'class': classes['title'][-1]})
     if not title_div:
-        print(soup, file=open('text.txt', 'w', encoding="utf-8"))
         print('  Нет названия\n')
         return False
     
