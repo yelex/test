@@ -15,7 +15,7 @@ from scrappers import vprok
 def main():
     db_connection = create_engine(DB_CONNECTION_STR)
     urls_vprok = URLS.loc[URLS.site_link.str.contains('vprok'), 'site_link']
-    
+
     categories_df = pd.read_sql('select * from parser_app_category_titles', con=db_connection)
     global_ = Global()
 
@@ -59,8 +59,7 @@ def main():
                             'site_unit': vprok_data['site_unit'],
                             'site_link': link,
                             'site_code': 'vprok'}])
-            res = pd.concat([res, one_row_res], ignore_index=True)
-            print(res.columns)            
+            res = pd.concat([res, one_row_res], ignore_index=True)          
               
     res.to_csv('data.csv')
     res.to_sql(name='parser_app_pricesraw', con=db_connection, if_exists='append', index=False)
