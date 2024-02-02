@@ -48,6 +48,7 @@ def main():
 
             print('---------------------')
             print(1)
+            print(2)
             one_row_res = pd.DataFrame([{'date': datetime.datetime.now().date().strftime(r"%Y-%m-%d"),
                             'miss': 0,
                             'type': 'food',
