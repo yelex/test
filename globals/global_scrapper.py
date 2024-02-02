@@ -15,6 +15,7 @@ from scrappers import vprok
 def main():
     db_connection = create_engine(DB_CONNECTION_STR)
     urls_vprok = URLS.loc[URLS.site_link.str.contains('vprok'), 'site_link']
+    
     categories_df = pd.read_sql('select * from parser_app_category_titles', con=db_connection)
     global_ = Global()
 
@@ -22,7 +23,7 @@ def main():
                         'site_title', 'price_new', 'price_old', 'site_unit',
                         'site_link', 'site_code'])
     i = 0
-    for link in tqdm(urls_vprok[:20]):
+    for link in tqdm(urls_vprok):
         i += 1
         time.sleep(np.abs(np.random.randn())*3)
         print('\nglobal scrapper Global is vprok', global_.is_tor_vprok)
