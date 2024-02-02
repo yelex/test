@@ -87,7 +87,11 @@ def get_data_from_link(link, global_=global_,
         price_new = float(re.search(r'\d+\.*\d+', wspex(price_regular_div.text).replace(',', '.'))[0])
         price_old = ''
     site_unit = get_weight_by_title(title)
-    return {'site_title': title, 'price_new': price_new, 'price_old': price_old, 'site_unit': site_unit}
+
+    return {'site_title': title, 
+            'price_new': price_new, 
+            'price_old': price_old, 
+            'site_unit': site_unit}
 
 if __name__ == '__main__':
     link = 'https://www.vprok.ru/product/mandariny-marokko-1kg--314636'
