@@ -33,6 +33,7 @@ def main():
             category_title = categories_df.loc[categories_df.category_id==category_id,'category_title'].values[0]
 
             print({'type': 'food',
+                   'miss': 0,
                     'date': datetime.datetime.now().date().strftime(r"%Y-%m-%d"),
                     'category_id': category_id,
                     'category_title': category_title,
@@ -47,6 +48,7 @@ def main():
             print('---------------------')
 
             one_row_res = pd.DataFrame([{'date': datetime.datetime.now().date().strftime(r"%Y-%m-%d"),
+                            'miss': 0,
                             'type': 'food',
                             'category_id': category_id,
                             'category_title': category_title,
