@@ -26,29 +26,14 @@ def main():
     for link in tqdm(urls_vprok):
         i += 1
         time.sleep(np.abs(np.random.randn())*3)
-        print('\nglobal scrapper Global is vprok', global_.is_tor_vprok)
+        if global_.is_tor_vprok:
+            print('\nTOR ON')
         vprok_data = vprok.get_data_from_link(link, global_ = global_)
         print(categories_df.loc[categories_df.category_id==URLS.loc[URLS['site_link']==link, 'category_id'].values[0],'category_title'].values[0])
         if vprok_data:
             category_id = URLS.loc[URLS['site_link']==link, 'category_id'].values[0]
             category_title = categories_df.loc[categories_df.category_id==category_id,'category_title'].values[0]
-
-            print({'type': 'food',
-                   'miss': 0,
-                    'date': datetime.datetime.now().date().strftime(r"%Y-%m-%d"),
-                    'category_id': category_id,
-                    'category_title': category_title,
-                    'site_code': 'vprok',
-                    'site_title': vprok_data['site_title'],
-                    'site_link': link,
-                    'site_unit': vprok_data['site_unit'],
-                    'price_new': vprok_data['price_new'],
-                    'price_old': vprok_data['price_old']})
-        
-
-            print('---------------------')
-
-            one_row_res = pd.DataFrame([{'date': datetime.datetime.now().date().strftime(r"%Y-%m-%d"),
+            price_dict = {'date': datetime.datetime.now().date().strftime(r"%Y-%m-%d"),
                             'miss': 0,
                             'type': 'food',
                             'category_id': category_id,
@@ -58,7 +43,10 @@ def main():
                             'price_old': vprok_data['price_old'],
                             'site_unit': vprok_data['site_unit'],
                             'site_link': link,
-                            'site_code': 'vprok'}])
+                            'site_code': 'vprok'}
+            print(price_dict)
+            print('---------------------')
+            one_row_res = pd.DataFrame([price_dict])
             res = pd.concat([res, one_row_res], ignore_index=True)          
               
     res.to_csv('data.csv')
