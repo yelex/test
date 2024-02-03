@@ -65,4 +65,4 @@ def main(to_sql=True):
         res.to_sql(name='parser_app_pricesraw', con=db_connection, if_exists='append', index=False)
 
 if __name__ == '__main__':
-    main(to_sql=False)
+    main(to_sql=True)
