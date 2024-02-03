@@ -1,3 +1,6 @@
+# Data from scrappers
+data.csv
+
 # Django #
 *.log
 *.pot

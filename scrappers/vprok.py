@@ -33,28 +33,20 @@ def get_data_from_link(link, global_=global_,
     '''
 
     if global_.is_tor_vprok:
-        print(global_.tor_session)
         r = global_.tor_session.get(link, headers=headers, timeout=timeout)
     else:
-        print(link + '\n')
         r = global_.request_session.get(link, headers=headers, timeout=timeout)
 
     soup = BeautifulSoup(r.text, "html.parser")
-    # print(soup)
-    # while 'Если считаете, что произошла ошибка' in soup.text:
+
     while 'Ваш ID запроса к ресурсу' in soup.text or soup.find('span', {'class': 'UiLayoutPageEmpty_contactsSecondaryText__erIsZ'}) is not None:
-        # print(soup.text)
         try:
             if not global_.is_tor_vprok:
-                print('i set is_tor_vprok')
                 global_.is_tor_vprok = True
                 print('Global().is_tor_vprok: ', global_.is_tor_vprok)
             update_tor_ip()
             print_ip(is_tor = True)
-            print('we are blocked')
-            print(global_.tor_session.proxies)
             r = global_.tor_session.get(link, headers=headers, timeout=timeout)
-            # print(r.content)
             soup = BeautifulSoup(r.text, "html.parser")
             if not soup.find(classes['title'][0], {'class': classes['title'][-1]}):
                 print('  Нет названия, пробую другой IP\n')
@@ -79,7 +71,12 @@ def get_data_from_link(link, global_=global_,
         # discount
         price_new_div = soup.find(classes['price_discount'][0], {'class': classes['price_discount'][-1]})
         price_old_div = soup.find(classes['price_old'][0], {'class': classes['price_old'][-1]})
-        price_new = float(re.search(r'\d+\.*\d+', wspex(price_new_div.text).replace(',', '.'))[0])
+        try:
+            price_new = float(re.search(r'\d+\.*\d+', wspex(price_new_div.text).replace(',', '.'))[0])
+        except:
+            print(soup)
+            raise AssertionError
+        
         price_old = float(re.search(r'\d+\.*\d+', wspex(price_old_div.text).replace(',', '.'))[0])
         
     else:
@@ -93,7 +90,7 @@ def get_data_from_link(link, global_=global_,
             'site_unit': site_unit}
 
 if __name__ == '__main__':
-    link = 'https://www.vprok.ru/product/mandariny-marokko-1kg--314636'
+    link = 'https://www.vprok.ru/product/cherkizovo-cherkiz-grud-po-dom-mar-kat-b-ohl-vu-1kg--313530'
     print(get_data_from_link(link))
 
 

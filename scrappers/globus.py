@@ -43,6 +43,10 @@ def get_data_from_link(link, global_=global_,
 
     products_div = soup.find(classes['products_div'][0], {'class': classes['products_div'][-1]})
 
+    if not products_div:
+        print('  Нет товара по ссылке\n')
+        return False
+    
     title_div = products_div.find(classes['title'][0], {'class': classes['title'][-1]})
     if not title_div:
         print('  Нет названия\n')
@@ -51,14 +55,9 @@ def get_data_from_link(link, global_=global_,
     is_avaliable = products_div.find(classes['is_avaliable'][0], {'class': classes['is_avaliable'][-1]})['style']
     if 'none' not in is_avaliable:
         print(' Товар временно отсутствует!')
-        print(is_avaliable)
         return False
     
     title = wspex_space(title_div.text)
-
-    # if ('Временно' in soup.text) or ('Распродано' in soup.text):
-    #     print(f'  Распродано: {title}\n')
-    #     return False
 
     price_div = products_div.find(classes['price_div'][0], {'class': classes['price_div'][-1]})
 
@@ -100,6 +99,7 @@ def get_data_from_link(link, global_=global_,
 
 if __name__ == '__main__':
     link = 'https://online.globus.ru/products/muka-pshenichnaya-globus-khlebopekarnaya-2-kg/'
+    link = 'https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/'
     print(get_data_from_link(link))
 
 
