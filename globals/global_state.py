@@ -11,6 +11,7 @@ class Global(Singleton):
         self.request_session = None
         self.tor_session = None
         self.is_tor_vprok = False
+        self.is_tor_globus = False
 
         self._set_request_session()
         self._set_tor_session()
@@ -29,3 +30,6 @@ class Global(Singleton):
 
     def set_is_tor_vprok(self, is_tor: bool):
         self.is_tor_vprok = is_tor
+
+    def set_is_tor_globus(self, is_tor: bool):
+        self.is_tor_globus = is_tor

@@ -2,13 +2,12 @@ from bs4 import BeautifulSoup
 import sys
 import os
 import re
-import time
 
 sys.path.insert(0, os.path.abspath('./'))
 
 from utils.ip import update_tor_ip, print_ip
 from utils.tools import wspex, wspex_space
-from utils.constants import HEADERS, TIMEOUT
+from utils.constants import HEADERS_VPROK, TIMEOUT
 from utils.weight import get_weight_by_title
 from globals.global_state import Global
 
@@ -27,7 +26,7 @@ classes['price_old'] = ['span', 'Price_price__QzA8L Price_size_XS__ESEhJ Price_r
 global_ = Global()
 
 def get_data_from_link(link, global_=global_,
-                       headers=HEADERS, timeout=TIMEOUT):
+                       headers=HEADERS_VPROK, timeout=TIMEOUT):
     '''
     Сделать сессию вовне
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
