@@ -7,12 +7,12 @@ from utils.constants import PIECE_UNITS, KG_UNITS, GRAM_UNITS, LITRE_UNITS, ML_U
 from utils.tools import wspex_space
 
 def get_weight_by_title(title: str) -> str:
-    kg_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(KG_UNITS) + r')' + '(?:\s+|$)'
-    g_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(GRAM_UNITS) + r')' + '(?:\s+|$)'
-    l_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(LITRE_UNITS) + r')' + '(?:\s+|$)'
-    ml_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(ML_UNITS) + r')' + '(?:\s+|$)'
-    piece_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(PIECE_UNITS) + r')' + '(?:\s+|$)'
-    tenpiece_pattern = r'\s*(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(TENPIECE_UNITS) + r')' + '(?:\s+|$)'
+    kg_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(KG_UNITS) + r')' + r'(?:\s+|$)'
+    g_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(GRAM_UNITS) + r')' + r'(?:\s+|$)'
+    l_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(LITRE_UNITS) + r')' + r'(?:\s+|$)'
+    ml_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(ML_UNITS) + r')' + r'(?:\s+|$)'
+    piece_pattern = r'\s+(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(PIECE_UNITS) + r')' + r'(?:\s+|$)'
+    tenpiece_pattern = r'\s*(?:\d{1,4}[×,.]\d{1,4}|\d{0,4})\s*(?:' + r'|'.join(TENPIECE_UNITS) + r')' + r'(?:\s+|$)'
 
 
     patterns = [piece_pattern, tenpiece_pattern, kg_pattern, g_pattern, l_pattern, ml_pattern]
