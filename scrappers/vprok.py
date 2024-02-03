@@ -46,7 +46,12 @@ def get_data_from_link(link, global_=global_,
                 print('Global().is_tor_vprok: ', global_.is_tor_vprok)
             update_tor_ip()
             print_ip(is_tor = True)
-            r = global_.tor_session.get(link, headers=headers, timeout=timeout)
+            try:
+                r = global_.tor_session.get(link, headers=headers, timeout=timeout)
+            except Exception as e:
+                print('Exception has raised:', e)
+                continue
+
             soup = BeautifulSoup(r.text, "html.parser")
             if not soup.find(classes['title'][0], {'class': classes['title'][-1]}):
                 print('  Нет названия, пробую другой IP\n')
