@@ -11,7 +11,6 @@ HEADERS_VPROK = {'Accept': '*/*',
 
 HEADERS_GLOBUS = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15'}
 
-
 TIMEOUT = 120
 URLS = pd.read_csv(r'./links/final_links.csv', 
                    index_col=0, sep=';')
@@ -24,3 +23,7 @@ GRAM_UNITS = ['г', 'g', 'грамм', 'граммов', 'гр']  # в кг
 LITRE_UNITS = ['л', 'l', 'литр', 'литров', 'литра']
 ML_UNITS = ['мл', 'ml', 'миллилитров', 'миллилитра']
 TENPIECE_UNITS = ['10 шт', '10 шт.', '10шт', '10шт.', 'десяток', 'дес.']
+
+
+TOKEN = '6652904233:AAEA5YF9-eed_7juox6hGm6fxLgkJBbxHMc'
+LOG_CHANNEL = '-2117830128'
