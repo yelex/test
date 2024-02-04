@@ -76,14 +76,14 @@ def get_data_from_link(link, global_=global_,
                                     0.01 * int(price_text_kop_div.text)
 
     if price_text_old_div:
-        list_ = re.findall('\s+', wspex_space(price_text_old_div.text))
+        list_ = re.findall(r'\s+', wspex_space(price_text_old_div.text))
 
         if len(list_) == 2:
-            price_text = re.sub('\s+', '', wspex_space(price_text_old_div.text), count=1)
-            price_text = re.sub('\s+', '.', price_text)
+            price_text = re.sub(r'\s+', '', wspex_space(price_text_old_div.text), count=1)
+            price_text = re.sub(r'\s+', '.', price_text)
 
         else:
-            price_text = re.sub('\s+', '.', wspex_space(price_text_old_div.text))
+            price_text = re.sub(r'\s+', '.', wspex_space(price_text_old_div.text))
 
         price_old = float(price_text)
 

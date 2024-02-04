@@ -6,11 +6,16 @@ import sys
 import os
 from tqdm import tqdm
 from sqlalchemy import create_engine
+import logging
+
 
 sys.path.insert(0, os.path.abspath('./'))
 from utils.constants import URLS, DB_CONNECTION_STR
 from global_state import Global
 from scrappers import vprok, globus
+
+logging.basicConfig(level=logging.INFO, filename="py_log.log",filemode="w",
+                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', encoding='UTF-8')
 
 global_ = Global()
 urls_vprok = URLS.loc[URLS.site_link.str.contains('vprok'), 'site_link']
@@ -51,12 +56,14 @@ def main(to_sql=True):
     for link in tqdm(urls_vprok): # test
         time.sleep(np.abs(np.random.randn())*3)
         vprok_data = vprok.get_data_from_link(link, global_ = global_)
+        logging.info(vprok_data) if vprok_data else logging.warning(f'{link} отсутствуют данные') 
         one_row_df = get_data(link=link, data=vprok_data)
         res = pd.concat([res, one_row_df], ignore_index=True)         
 
     for link in tqdm(urls_globus):
         time.sleep(np.abs(np.random.randn())*3)
         globus_data = globus.get_data_from_link(link, global_ = global_)
+        logging.info(globus_data) if globus_data else logging.warning(f'{link} отсутствуют данные') 
         one_row_df = get_data(link=link, data=globus_data)
         res = pd.concat([res, one_row_df], ignore_index=True)  
               
@@ -65,4 +72,7 @@ def main(to_sql=True):
         res.to_sql(name='parser_app_pricesraw', con=db_connection, if_exists='append', index=False)
 
 if __name__ == '__main__':
-    main(to_sql=True)
+    try:
+        main(to_sql=True)
+    except Exception as e:
+        logging.error(e)

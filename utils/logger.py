@@ -1,11 +1,9 @@
-import telebot
-# from telebot import apihelper
+import logging
 
-from constants import TOKEN
-
-# apihelper.proxy = {'http':'socks5h://localhost:9050', 'https': 'socks5h://localhost:9050'}
-
-bot = telebot.TeleBot(TOKEN, parse_mode=None) # You can set parse_mode by default. HTML or MARKDOWN
-
-bot.send_message(chat_id='yellex', text="Choose one letter:")
-# bot.infinity_polling()
+logging.basicConfig(level=logging.INFO, filename="py_log.log",filemode="w",
+                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logging.debug("A DEBUG Message")
+logging.info("An INFO")
+logging.warning("A WARNING")
+logging.error("An ERROR")
+logging.critical("A message of CRITICAL severity")
