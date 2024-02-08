@@ -88,7 +88,7 @@ def get_data_from_link(link, global_=global_,
         price_old = float(price_text)
 
     else:
-        price_old = ''
+        price_old = -1.0
     site_unit = products_div.find(classes['site_unit'][0], 
                                   {'class': classes['site_unit'][-1]}).text.strip()
 

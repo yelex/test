@@ -86,7 +86,7 @@ def get_data_from_link(link, global_=global_,
         
     else:
         price_new = float(re.search(r'\d+\.*\d+', wspex(price_regular_div.text).replace(',', '.'))[0])
-        price_old = ''
+        price_old = -1.0
     site_unit = get_weight_by_title(title)
 
     return {'site_title': title, 
