@@ -32,10 +32,21 @@ def get_data_from_link(link, global_=global_,
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
     '''
 
-    if global_.is_tor_vprok:
-        r = global_.tor_session.get(link, headers=headers, timeout=timeout)
-    else:
-        r = global_.request_session.get(link, headers=headers, timeout=timeout)
+    while True:
+        try:
+            if global_.is_tor_vprok:
+                r = global_.tor_session.get(link, headers=headers, timeout=timeout)
+            else:
+                r = global_.request_session.get(link, headers=headers, timeout=timeout)
+            break
+        except Exception as e:
+            print('Произошло исключение при попытке соединения:', e)
+            if not global_.is_tor_vprok:
+                global_.is_tor_vprok = True
+                print('Global().is_tor_vprok: ', global_.is_tor_vprok)
+            update_tor_ip()
+            continue
+
 
     soup = BeautifulSoup(r.text, "html.parser")
 
