@@ -91,7 +91,6 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_VPROK, timeout=TIM
         return False
 
     title = wspex_space(title_div.text)
-    print(title)
 
     if ("Временно" in soup.text) or ("Распродано" in soup.text):
         print(f"  Распродано: {title}\n")
