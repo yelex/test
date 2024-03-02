@@ -91,6 +91,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_VPROK, timeout=TIM
         return False
 
     title = wspex_space(title_div.text)
+    print(title)
 
     if ("Временно" in soup.text) or ("Распродано" in soup.text):
         print(f"  Распродано: {title}\n")
@@ -116,9 +117,13 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_VPROK, timeout=TIM
             print(soup)
             raise AssertionError
 
-        price_old = float(
-            re.search(r"\d+\.*\d+", wspex(price_old_div.text).replace(",", "."))[0]
-        )
+        try:
+            price_old = float(
+                re.search(r"\d+\.*\d+", wspex(price_old_div.text).replace(",", "."))[0]
+            )
+        except:
+            print('Проблема со старой ценой')
+            return False
 
     else:
         price_new = float(
