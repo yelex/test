@@ -1,13 +1,15 @@
 from bs4 import BeautifulSoup
 import sys
 import os
-import re
-import pprint
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 sys.path.insert(0, os.path.abspath("./"))
 
 from utils.tools import wspex_space
 from utils.constants import HEADERS_GLOBUS, TIMEOUT
 from globals.global_state import Global
+import time
+import re
 
 classes = dict()
 
@@ -31,16 +33,15 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
     """
 
-    if global_.is_tor_globus:
-        print(global_.tor_session)
-        r = global_.tor_session.get(link, headers=headers, timeout=timeout)
-    else:
-        print(link + "\n")
-        r = global_.request_session.get(link, headers=headers, timeout=timeout)
+    service = Service(executable_path='./chromedrivers/chromedriver.exe')
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless=new")
+    driver = webdriver.Chrome(service=service, options=options)
 
-    soup = BeautifulSoup(r.content, "html.parser")
-    print(r.content)
-    print(soup)
+    driver.get(link)
+    time.sleep(5)
+    soup = BeautifulSoup(driver.page_source, 'lxml')
+
     products_div = soup.find(
         classes["products_div"][0], {"class": classes["products_div"][-1]}
     )
@@ -83,7 +84,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 
     try:
         price_new = int(price_text_rub_div.text.replace(" ", "")) + 0.01 * int(
-            price_text_kop_div.text
+            re.search(r'\d+', price_text_kop_div.text).group(0)
         )
     except:
         price_new = int(price_text_rub_div.text.replace("\xa0", "")) + 0.01 * int(
@@ -113,5 +114,5 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 if __name__ == "__main__":
     # link = 'https://online.globus.ru/products/muka-pshenichnaya-globus-khlebopekarnaya-2-kg/'
     # link = 'https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/'
-    link = "https://online.globus.ru/products/kotlety-kurinye-petruxa-master-domashnie-s-gribami-i-syrom-450-g-729995_ST"
+    link = "https://online.globus.ru/products/tushka-utki-ramenskij-delikates-potroshyonaya-v-yablochno-medovom-souse-up-17-205-kg-278988_KG"
     print(get_data_from_link(link))

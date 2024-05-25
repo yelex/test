@@ -36,9 +36,7 @@ TIMEOUT = 120
 URLS = pd.read_csv(r"./links/final_links.csv", index_col=0, sep=";")
 
 DB_CONNECTION_STR = (
-    "mysql+pymysql://root:Fokina12@localhost/ane_base"
-    if sys.platform != "linux"
-    else "mysql+pymysql://root:password@localhost/ane_base"
+    "mysql+pymysql://root:password@localhost/ane_base"
 )
 
 PIECE_UNITS = ["шт", "штук", "штуки", "штука", "пак", "пакетиков", "пак"]
