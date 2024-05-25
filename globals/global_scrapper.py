@@ -26,7 +26,9 @@ global_ = Global()
 urls_vprok = URLS.loc[URLS.site_link.str.contains("vprok"), "site_link"]
 urls_globus = URLS.loc[URLS.site_link.str.contains("globus"), "site_link"]
 
+print(DB_CONNECTION_STR)
 db_connection = create_engine(DB_CONNECTION_STR)
+print(2)
 categories_df = pd.read_sql(
     "select * from parser_app_category_titles", con=db_connection
 )
