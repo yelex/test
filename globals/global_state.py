@@ -39,6 +39,8 @@ class Global(Singleton):
         service = Service(executable_path=PATH_CHROMEDRIVER)
         options = webdriver.ChromeOptions()
         options.add_argument("--headless=new")
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')
         self.webdriver = webdriver.Chrome(service=service, options=options)
 
     def set_session(self, new_session):
