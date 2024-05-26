@@ -2,6 +2,7 @@ import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from utils.constants import PATH_CHROMEDRIVER
+import os
 
 
 class Singleton(object):
@@ -33,6 +34,8 @@ class Global(Singleton):
         self.tor_session.proxies["https"] = "socks5h://localhost:9050"
 
     def _set_webdriver(self):
+        os.chmod(PATH_CHROMEDRIVER, 0o755)  # for linux
+        
         service = Service(executable_path=PATH_CHROMEDRIVER)
         options = webdriver.ChromeOptions()
         options.add_argument("--headless=new")
