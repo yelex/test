@@ -37,8 +37,7 @@ print(2)
 
 def get_data(link: str, data: dict, categories_df=categories_df):
     if data:
-        category_id = URLS.loc[URLS["site_link"] == link,
-                               "category_id"].values[0]
+        category_id = URLS.loc[URLS["site_link"] == link, "category_id"].values[0]
         category_title = categories_df.loc[
             categories_df.category_id == category_id, "category_title"
         ].values[0]
@@ -53,7 +52,7 @@ def get_data(link: str, data: dict, categories_df=categories_df):
             "price_new": data["price_new"],
             "price_old": data["price_old"],
             "site_unit": data["site_unit"],
-            "site_link": link,
+            "site_link": link, 
             "site_code": site_code,
         }
         print(price_dict)
@@ -80,6 +79,17 @@ def main(to_sql=True):
         ]
     )
 
+    for link in tqdm(urls_globus):  # return when globus will be fixed
+        time.sleep(np.abs(np.random.randn()) * 3)
+        globus_data = globus.get_data_from_link(link, global_=global_)
+        (
+            logging.info(globus_data)
+            if globus_data
+            else logging.warning(f"{link} отсутствуют данные")
+        )
+        one_row_df = get_data(link=link, data=globus_data)
+        res = pd.concat([res, one_row_df], ignore_index=True)
+
     for link in tqdm(urls_vprok):  # test
         time.sleep(np.abs(np.random.randn()) * 3)
         vprok_data = vprok.get_data_from_link(link, global_=global_)
@@ -90,17 +100,6 @@ def main(to_sql=True):
         )
         one_row_df = get_data(link=link, data=vprok_data)
         res = pd.concat([res, one_row_df], ignore_index=True)
-
-    # for link in tqdm(urls_globus): # return when globus will be fixed
-    #     time.sleep(np.abs(np.random.randn()) * 3)
-    #     globus_data = globus.get_data_from_link(link, global_=global_)
-    #     (
-    #         logging.info(globus_data)
-    #         if globus_data
-    #         else logging.warning(f"{link} отсутствуют данные")
-    #     )
-    #     one_row_df = get_data(link=link, data=globus_data)
-    #     res = pd.concat([res, one_row_df], ignore_index=True)
 
     res.to_csv("data.csv")
     if to_sql:

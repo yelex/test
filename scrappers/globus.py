@@ -15,7 +15,7 @@ classes = dict()
 
 classes["products_div"] = ["div", "css-1hj20p7 css-146vzrl"]
 
-classes["title"] = ["h1", "css-qs82cc"]
+classes["title"] = ["span", "name"]
 classes["price_regular_rub"] = ["div", "css-10fcdyq"]
 classes["price_regular_kop"] = ["div", "css-1vx8352"]
 classes["price_old_rub"] = ["div", "css-19o902r"]
@@ -32,11 +32,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     Сделать сессию вовне
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
     """
-
-    service = Service(executable_path='./chromedrivers/chromedriver.exe')
-    options = webdriver.ChromeOptions()
-    options.add_argument("--headless=new")
-    driver = webdriver.Chrome(service=service, options=options)
+    driver = global_.webdriver
 
     driver.get(link)
     time.sleep(5)
@@ -50,7 +46,8 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
         print("  Нет товара по ссылке\n")
         return False
 
-    title_div = products_div.find(classes["title"][0], {"class": classes["title"][-1]})
+    title_div = soup.findAll(classes["title"][0],
+                                     {"itemprop": classes["title"][-1]})[-1]
     if not title_div:
         print("  Нет названия\n")
         return False
@@ -83,11 +80,11 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
         return False
 
     try:
-        price_new = int(price_text_rub_div.text.replace(" ", "")) + 0.01 * int(
+        price_new = float(price_text_rub_div.text.replace(" ", "")) + 0.01 * int(
             re.search(r'\d+', price_text_kop_div.text).group(0)
         )
     except:
-        price_new = int(price_text_rub_div.text.replace("\xa0", "")) + 0.01 * int(
+        price_new = float(price_text_rub_div.text.replace("\xa0", "")) + 0.01 * int(
             price_text_kop_div.text
         )
 
@@ -95,7 +92,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
         price_old_rub = price_text_old_rub_div.text
         price_old_kop = price_text_old_kop_div.text
 
-        price_old = int(price_old_rub + '.' + price_old_kop)
+        price_old = float(price_old_rub + '.' + price_old_kop)
 
     else:
         price_old = -1.0
@@ -114,5 +111,5 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 if __name__ == "__main__":
     # link = 'https://online.globus.ru/products/muka-pshenichnaya-globus-khlebopekarnaya-2-kg/'
     # link = 'https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/'
-    link = "https://online.globus.ru/products/tushka-utki-ramenskij-delikates-potroshyonaya-v-yablochno-medovom-souse-up-17-205-kg-278988_KG"
+    link = "https://online.globus.ru/products/govyazhya-noga-na-kosti-1-upakovka-500-950-g/"
     print(get_data_from_link(link))
