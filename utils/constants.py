@@ -51,4 +51,4 @@ TOKEN = "6652904233:AAEA5YF9-eed_7juox6hGm6fxLgkJBbxHMc"
 LOG_CHANNEL = "-2117830128"
 
 
-PATH_CHROMEDRIVER = "./chromedrivers/chromedriver.exe" if sys.platform=='win32' else './chromedrivers/chromedriver'
+PATH_CHROMEDRIVER = "./chromedrivers/chromedriver.exe" if sys.platform=='win32' else '/usr/lib/chromium-browser/chromedriver'
