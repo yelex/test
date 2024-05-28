@@ -1,8 +1,8 @@
 import requests
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
-from utils.constants import PATH_CHROMEDRIVER
-import os
+from webdriver_manager.chrome import ChromeDriverManager
 
 
 class Singleton(object):
@@ -22,7 +22,7 @@ class Global(Singleton):
 
         self._set_request_session()
         self._set_tor_session()
-        self._set_webdriver()
+        # self._set_webdriver() # return when globus will be repaired
 
     def _set_request_session(self):
         self.request_session = requests.session()
@@ -34,14 +34,16 @@ class Global(Singleton):
         self.tor_session.proxies["https"] = "socks5h://localhost:9050"
 
     def _set_webdriver(self):
-        os.chmod(PATH_CHROMEDRIVER, 0o755)  # for linux
-        
-        service = Service(executable_path=PATH_CHROMEDRIVER)
-        options = webdriver.ChromeOptions()
-        options.add_argument("--headless=new")
+        user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) ' \
+              'Chrome/123.0.0.0 Safari/537.36'
+
+        options = Options()
+        options.add_argument('--headless')
         options.add_argument('--no-sandbox')
-        # options.add_argument('--disable-dev-shm-usage')
-        self.webdriver = webdriver.Chrome(service=service, options=options)
+        options.add_argument('--disable-dev-shm-usage')
+        options.add_argument(f'user-agent={user_agent}')
+        self.webdriver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), 
+                                          options=options)
 
     def set_session(self, new_session):
         self.session = new_session
