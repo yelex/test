@@ -90,7 +90,7 @@ def main(to_sql=True):
     )
 
     for link in tqdm(urls_globus):  # return when globus will be fixed
-        time.sleep(np.abs(np.random.randn()) * 3)
+        
         globus_data = globus.get_data_from_link(link, global_=global_)
         (
             logging.info(globus_data)
