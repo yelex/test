@@ -3,7 +3,9 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+import os
 
+os.chmod('./chromedrivers/chromedriver', 0o755)
 
 class Singleton(object):
     def __new__(cls):
@@ -42,7 +44,8 @@ class Global(Singleton):
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
         options.add_argument(f'user-agent={user_agent}')
-        self.webdriver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), 
+        service = Service('./chromedrivers/chromedriver')
+        self.webdriver = webdriver.Chrome(service=service, 
                                           options=options)
 
     def set_session(self, new_session):

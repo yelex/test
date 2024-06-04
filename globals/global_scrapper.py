@@ -14,6 +14,8 @@ from utils.constants import URLS, DB_CONNECTION_STR
 from global_state import Global
 from scrappers import vprok, globus
 
+
+
 logging.basicConfig(
     level=logging.INFO,
     filename="py_log.log",
