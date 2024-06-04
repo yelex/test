@@ -28,14 +28,12 @@ urls_globus = URLS.loc[URLS.site_link.str.contains("globus"), "site_link"]
 
 print(DB_CONNECTION_STR)
 db_connection = mysql.connector.connect(
-  host="localhost",
-  user="root",
-  password="password",
-  database="ane_base",
-  autocommit=True,
-  auth_plugin='mysql_native_password',
-  use_pure=False,
-  connection_timeout=86400
+        host="localhost",
+        user='root',
+        password='password',
+        database="ane_base",
+        autocommit=True,
+        auth_plugin='mysql_native_password'
 )
 
 

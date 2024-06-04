@@ -1,5 +1,13 @@
 <html class="js-focus-visible" data-js-focus-visible="" lang="en">
  <head>
+  <script async="" src="https://static.indoleads.com/js/platform/container_v2.min.js">
+  </script>
+  <script async="" src="//x.cnt.my/async/track/?r=0.9699666168920487">
+  </script>
+  <script src="https://px.adhigh.net/t.js" type="text/javascript">
+  </script>
+  <script async="" src="https://px.adhigh.net/p/tracking.js?site_id=9074&amp;trk=&amp;product_id=44676&amp;product_price=539.99&amp;category_id=&amp;user_data=&amp;pixel_id=Product_page&amp;scr=800x600x24&amp;uit=1717531155541&amp;ifr=0&amp;tz=-180&amp;url=https%3A%2F%2Fonline.globus.ru%2Fproducts%2Fgovyazhya-grudinka-na-kosti-1-upakovka-350-650-g&amp;rf=&amp;pl=0" type="text/javascript">
+  </script>
   <meta charset="utf-8"/>
   <meta content="width=device-width" name="viewport"/>
   <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
@@ -8,13 +16,16 @@
   <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
   <link href="/site.webmanifest" rel="manifest"/>
   <link color="#5bbad5" href="/appLogo.svg" rel="mask-icon"/>
-  <link href="https://online.globus.ru/products/govyazhya-noga-na-kosti-1-upakovka-500-950-g" rel="canonical"/>
+  <link href="https://online.globus.ru/products/govyazhya-grudinka-na-kosti-1-upakovka-350-650-g" rel="canonical"/>
   <link href="https://chatservice.globus.ru/chat/frontend//bundle.css" rel="stylesheet"/>
   <meta content="#da532c" name="msapplication-TileColor"/>
   <meta content="#ffffff" name="theme-color"/>
   <meta content="Ensi Platform" name="generator"/>
-  <script async="" src="https://static.indoleads.com/js/platform/container_v2.min.js">
-  </script>
+  <title>
+   — купить в Москве в интернет-магазине «GLOBUS»
+  </title>
+  <meta content=" — купить в Москве в интернет-магазине «GLOBUS». Купить  по цене от  руб., производитель {название бренда}." name="description"/>
+  <meta content="index, follow" name="robots"/>
   <script>
    (function(w,l,uuid,userId){
              w[l]=w[l]||[];
@@ -24,7 +35,7 @@
                  'userId': userId,
              });
              
-         })(window,'dataLayer','01b7314f-aea9-494d-bfb7-53ba878587c4','');
+         })(window,'dataLayer','08d40f6a-516d-4845-9fc7-daea8e384de0','');
   </script>
   <script>
    (function(w,d,s,l,i){
@@ -35,11 +46,6 @@
          f.parentNode.insertBefore(j,f);
      })(window,document,'script','dataLayer','GTM-PJZW96N');
   </script>
-  <title>
-   — купить в Москве в интернет-магазине «GLOBUS»
-  </title>
-  <meta content=" — купить в Москве в интернет-магазине «GLOBUS». Купить  по цене от  руб., производитель {название бренда}." name="description"/>
-  <meta content="index, follow" name="robots"/>
   <meta charset="utf-8"/>
   <meta content="width=device-width" name="viewport"/>
   <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
@@ -48,12 +54,12 @@
   <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
   <link href="/site.webmanifest" rel="manifest"/>
   <link color="#5bbad5" href="/appLogo.svg" rel="mask-icon"/>
-  <link href="https://online.globus.ru/products/govyazhya-noga-na-kosti-1-upakovka-500-950-g" rel="canonical"/>
-  <link href="https://chatservice.globus.ru/chat/frontend//bundle.css" rel="stylesheet"/>
   <meta content="#da532c" name="msapplication-TileColor"/>
+  <link href="https://online.globus.ru/products/govyazhya-grudinka-na-kosti-1-upakovka-350-650-g" rel="canonical"/>
+  <link href="https://chatservice.globus.ru/chat/frontend//bundle.css" rel="stylesheet"/>
   <meta content="#ffffff" name="theme-color"/>
   <meta content="Ensi Platform" name="generator"/>
-  <meta content="18" name="next-head-count"/>
+  <meta content="17" name="next-head-count"/>
   <link as="style" href="/_next/static/css/2eac950b78234a72.css" rel="preload"/>
   <link data-n-g="" href="/_next/static/css/2eac950b78234a72.css" rel="stylesheet"/>
   <noscript data-n-css="">
@@ -77,17 +83,6 @@
   <script defer="" src="/_next/static/IWGLUsHQPuicnv-92Nc-U/_buildManifest.js">
   </script>
   <script defer="" src="/_next/static/IWGLUsHQPuicnv-92Nc-U/_ssgManifest.js">
-  </script>
-  <script async="" src="https://vk.com/js/api/openapi.js?169" type="text/javascript">
-  </script>
-  <script async="" src="https://vk.com/js/api/openapi.js?169" type="text/javascript">
-  </script>
-  <script async="" src="//st.hybrid.ai/txsp.js" type="text/javascript">
-  </script>
-  <style id="flocktoryStyleTag" type="text/css">
-   .flockapi-overlay_popup{background-color:#00000080;background-image:radial-gradient(ellipse closest-corner at 50% 50%,#0000004d 20%,#0009 100%);bottom:0;display:none;left:0;opacity:0;outline:0;overflow-x:auto;overflow-y:auto;position:fixed;right:0;top:0;z-index:100000}.flockapi-overlay_popup .flockapi-spinner{display:block}.flockapi-overlay_popup.flockapi-loaded .flockapi-spinner{display:none}.flockapi-wrapper{position:relative}.flockapi-wrapper_popup{display:none;margin:0 auto;opacity:0;position:relative;transform:scale(.8);transition:all .2s linear;z-index:1}.flockapi-wrapper_popup .flockapi-closebutton{right:20px;top:20px}.flockapi-wrapper_popup.flockapi-shown{transition-property:margin,left,top,transform,opacity}.flockapi-closebutton{background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAYAAAC5DOVpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAArNJREFUeNp8lDtv1EAUhWfmztheZ0MIibajQCAolgYJJBoQDRKiCH+ZEikQaGgCAaHQJEQhT7L2vDjHuw6bEJiV7bHn3u++V18bDkdam8dKqSKrvGe0fq2UVjFF3KdLa61yzt2edzHS7VLOz7TSq3hpc05vZDAYPCmcW3bWZWP0akppBPUvVJ6HzS+jDR/PnXM3oZuMmBpGlmRxOLxVlWVTuOIEFht8XAHwDmBfgYhXwErA1pwrlgZluV8U0BPTQD7KsF5QZVFcF5EAC8EY8VBdSCnfg8BnKMc5WAmDryBvy6o6cM5OjDGJ9kIIW7JQ1z9h2gO2CiWGGsUYD4EKOSFwC99j55HIGkAakRxaKy3yheNsWu83Ec03whRARzHG0AO10akHQvguru84e9mDxNL7Kahp20+Q2wZM9TCG0AER6jIT3AE1gZo5uo9kh6ooj3pQwq9t/RZBVCbMqotrG5aOCusewECmYqXLA3hwzFBhKBIEo6oN/gP2hxeqrP5eh23bvqcCFVkYa23D5zkI55S7rGjhieKlZi3JpkTPQVccq0uA+nOqAbON9+KDn/Wh/q9naFr1gkx19XKz89HlA0F15t/HVuzTCo2IhJ/Neuh86akXGXeNthljhAK2P66Cja11j6qqPMA0nDJHDCvFdIZKbaAIK6hwQQO4AquNibuNM7bQj3nYGN38EPt99NIpujx2+Qlxgny+syINnrtokREgjkBhPrWmQQIDgYR1oLKYgqCQetCkbd4iNA+YQuJTiGFHeqAmUBhm7IGYzRoeVQ1BsNSDTiZNs4EUsUHVDNb1ZghxB9NxA8CS09IDAVvEuMmJs3bSg3yIe1Bax+X/UU1+X6cc5alHfXKkrgfHiJ+JazH5HPqPrFmgJ3pawTnPps1pLftxF3EPWF38kf5CCjZ/CzAAhbuFTZwwFTQAAAAASUVORK5CYII=") 50% 50% no-repeat #fff;background-size:10px 10px;border-radius:10px;box-shadow:0 0 0 1px #0003,0 0 1px 0 #0000001a;cursor:pointer;height:20px;position:absolute;width:20px;z-index:1}.flockapi-spinner{display:none;left:50%;margin:-10px 0 0 -10px;position:absolute;top:50%}.flockapi-spinner,.flockapi-spinner:after{box-sizing:border-box;position:relative}.flockapi-spinner{color:#fff;display:block;height:20px;width:20px}.flockapi-spinner:after{animation:flock-ball-clip-rotate .75s linear infinite;background:#0000;border:2px solid;border-bottom:2px solid #0000;border-radius:100%;content:"";display:inline-block;height:100%;width:100%}@keyframes flock-ball-clip-rotate{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.flockapi-display_block{display:block;transition:.2s linear;transition-property:left,top,transform,opacity}.flockapi-show{display:block;opacity:1}.flockapi-show.flockapi-wrapper_popup{transform:scale(1)}.flockapi-wrapper iframe{left:0;position:absolute;top:0}.flockapi-insular-wrapper{display:none;overflow:hidden;visibility:hidden}.flockapi-insular-wrapper[data-widget-type=embedded]{position:static}.flockapi-insular-wrapper[data-widget-type=fixed]{position:fixed}.flockapi-insular-wrapper[data-widget-type=popup]{-webkit-overflow-scrolling:touch;background:#000c;bottom:0;height:auto;left:0;overflow-x:auto;overflow-y:auto;position:fixed;right:0;top:0;width:auto;z-index:1000}.flockapi-insular-wrapper[data-widget-type=popup] .flockapi-insular-widget{margin-left:auto;margin-right:auto}.flockapi-insular-wrapper.flockapi-show{display:block;visibility:visible}.flockapi-insular-widget{display:block}
-  </style>
-  <script async="" src="https://dss.hybrid.ai/Pixel/TrackTp?pid=628c884f7bc72f4fb8f7f594&amp;foadh=&amp;gapl=&amp;cs=&amp;pcs=&amp;vcs=" type="text/javascript">
   </script>
   <style data-emotion-css="2clpyw">
    .css-2clpyw{position:fixed;top:12px;right:32px;margin-left:32px;max-width:424px;z-index:9999;}@-webkit-keyframes fadeInRight{0%{opacity:0;-webkit-transform:translate3d(110%,0,0);-ms-transform:translate3d(110%,0,0);transform:translate3d(110%,0,0);}100%{opacity:1;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);}}@keyframes fadeInRight{0%{opacity:0;-webkit-transform:translate3d(110%,0,0);-ms-transform:translate3d(110%,0,0);transform:translate3d(110%,0,0);}100%{opacity:1;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);}}@-webkit-keyframes fadeOutRight{0%{opacity:1;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);}100%{-webkit-transform:translate3d(110%,0,0);-ms-transform:translate3d(110%,0,0);transform:translate3d(110%,0,0);}}@keyframes fadeOutRight{0%{opacity:1;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);}100%{-webkit-transform:translate3d(110%,0,0);-ms-transform:translate3d(110%,0,0);transform:translate3d(110%,0,0);}}@media (max-width:1023px){.css-2clpyw{top:8px;right:16px;margin-left:16px;}}
@@ -281,35 +276,17 @@
   <style data-emotion-css="6sswh7">
    .css-6sswh7{max-height:100%;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;}.css-6sswh7 .swiper-slide{cursor:pointer;}.css-6sswh7 .swiper-slide img{border-radius:8px;}.css-6sswh7 .active-thumb{border:1px solid #f98e04;border-radius:8px;overflow:hidden;}
   </style>
+  <style data-emotion-css="1b0euki">
+   .css-1b0euki{height:104px;width:152px;}@media (max-width:767px){.css-1b0euki{height:56px;width:88px;}}
+  </style>
   <style data-emotion-css="17jz71q">
    .css-17jz71q{width:100%;border-radius:0 0 4px 4px;}.css-17jz71q:disabled{background-color:#f4f4f4;border-color:#f4f4f4;opacity:0;cursor:default;-webkit-transition:opacity ease 200ms;transition:opacity ease 200ms;}
   </style>
   <style data-emotion-css="udgeb5">
    .css-udgeb5{position:relative;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;max-height:100%;max-width:100%;margin:0 48px;}@media (max-width:1023px){.css-udgeb5{margin:0;}}.css-udgeb5:hover button:enabled{opacity:1;}
   </style>
-  <style data-emotion-css="fr7za3">
-   .css-fr7za3{position:absolute;bottom:0;right:0;z-index:10;}
-  </style>
-  <style data-emotion-css="upu3j0">
-   .css-upu3j0{height:32px;}.css-upu3j0 + .css-upu3j0{margin-top:4px;}
-  </style>
-  <style data-emotion-css="nls69x">
-   .css-nls69x{height:100%;object-fit:contain;}
-  </style>
   <style data-emotion-css="atqsx7">
    .css-atqsx7{border-radius:inherit;height:100%;width:480px;}@media (max-width:1439px){.css-atqsx7{width:360px;}}@media (max-width:1023px){.css-atqsx7{width:256px;}}
-  </style>
-  <style data-emotion-css="1klcsrw">
-   .css-1klcsrw{cursor:pointer;color:#ffffff;}
-  </style>
-  <style data-emotion-css="4qctqu">
-   .css-4qctqu{position:relative;width:auto;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;overflow:hidden;cursor:pointer;color:#ffffff;}
-  </style>
-  <style data-emotion-css="bjativ">
-   .css-bjativ{max-width:100%;max-height:100%;min-height:100%;width:auto;height:0;margin:0 auto;object-fit:contain;}
-  </style>
-  <style data-emotion-css="r7ur3r">
-   .css-r7ur3r{position:absolute;height:auto;width:auto;max-width:none;max-height:none;left:0;top:0;opacity:0;-webkit-transition:opacity 0.3s;transition:opacity 0.3s;}
   </style>
   <style data-emotion-css="1e572f7">
    .css-1e572f7{position:absolute;top:50%;z-index:10;border:none !important;box-shadow:0 0 16px rgba(30,30,30,0.1);height:48px !important;width:48px !important;opacity:0;left:0;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);}.css-1e572f7:disabled{opacity:0;cursor:default !important;-webkit-transition:opacity ease 200ms;transition:opacity ease 200ms;display:none;}@media (max-width:1023px){.css-1e572f7{left:8px;}}
@@ -329,32 +306,8 @@
   <style data-emotion-css="zobvla">
    .css-zobvla{position:relative;-webkit-transition:width ease 200ms,margin ease 200ms;transition:width ease 200ms,margin ease 200ms;width:80px;height:80px;margin-right:16px;}@media (max-width:1439px){.css-zobvla{width:64px;height:64px;margin-right:8px;}}
   </style>
-  <style data-emotion-css="10ym259">
-   .css-10ym259{width:80px;height:80px;}@media (max-width:1439px){.css-10ym259{width:64px;height:64px;}}
-  </style>
-  <style data-emotion-css="g98gbd">
-   .css-g98gbd{object-fit:contain;}
-  </style>
-  <style data-emotion-css="57rymq">
-   .css-57rymq{-webkit-transition:font-size ease 200ms,line-height ease 200ms;transition:font-size ease 200ms,line-height ease 200ms;font-family:"Roboto",sans-serif;font-weight:500;line-height:1.25;-webkit-letter-spacing:-0.01em;-moz-letter-spacing:-0.01em;-ms-letter-spacing:-0.01em;letter-spacing:-0.01em;font-size:1.5rem;margin-top:0;margin-bottom:24px;color:#333333;}@media (max-width:1440px){.css-57rymq{font-size:calc(1.25rem + ((100vw - 48rem) / (90 - 48)) * (1.5 - 1.25));}}@media (max-width:768px){.css-57rymq{font-size:1.25rem;}}
-  </style>
-  <style data-emotion-css="1qm1lh">
-   .css-1qm1lh{margin-bottom:16px;}
-  </style>
-  <style data-emotion-css="1qym7kw">
-   .css-1qym7kw{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:12px;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;height:auto;}
-  </style>
-  <style data-emotion-css="1t0dwxn">
-   .css-1t0dwxn{color:#333333;font-family:"Roboto",sans-serif;font-weight:500;font-size:1.5rem;line-height:1;-webkit-letter-spacing:-0.02em;-moz-letter-spacing:-0.02em;-ms-letter-spacing:-0.02em;letter-spacing:-0.02em;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:4px;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;}
-  </style>
-  <style data-emotion-css="10fcdyq">
-   .css-10fcdyq{margin-right:4px;font-size:48px !important;}
-  </style>
-  <style data-emotion-css="1vx8352">
-   .css-1vx8352{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;font-family:"Roboto",sans-serif;font-weight:400;font-size:20px !important;line-height:1;}
-  </style>
-  <style data-emotion-css="1im3s12">
-   .css-1im3s12{color:#8f8f8f;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;font-family:"Roboto",sans-serif;font-weight:400;font-size:0.75rem;line-height:1.25;}
+  <style data-emotion-css="17gboqr">
+   .css-17gboqr{-webkit-transition:font-size ease 200ms,line-height ease 200ms;transition:font-size ease 200ms,line-height ease 200ms;font-family:"Roboto",sans-serif;font-weight:500;line-height:1.25;-webkit-letter-spacing:-0.01em;-moz-letter-spacing:-0.01em;-ms-letter-spacing:-0.01em;letter-spacing:-0.01em;font-size:1.5rem;margin-top:0;margin-bottom:24px;color:#8f8f8f;}@media (max-width:1440px){.css-17gboqr{font-size:calc(1.25rem + ((100vw - 48rem) / (90 - 48)) * (1.5 - 1.25));}}@media (max-width:768px){.css-17gboqr{font-size:1.25rem;}}
   </style>
   <style data-emotion-css="178yklu">
    .css-178yklu{margin-top:24px;}
@@ -368,15 +321,6 @@
   <style data-emotion-css="1tcgv59">
    .css-1tcgv59{white-space:nowrap;height:40px;}@media (min-width:1024px){.css-1tcgv59{height:48px;font-family:"Roboto",sans-serif;font-weight:500;font-size:1rem;line-height:1.4;}}@media (min-width:1440px){.css-1tcgv59{height:56px;font-family:"Roboto",sans-serif;font-weight:500;font-size:1.125rem;line-height:1.4;}}
   </style>
-  <style data-emotion-css="z41xdj">
-   .css-z41xdj{line-height:0;border-radius:12px;border:1px solid #e8e8e8;width:56px;height:56px;-webkit-transition:all ease 200ms;transition:all ease 200ms;}.css-z41xdj:hover{border-color:#b5b5b5;}.css-z41xdj svg{fill:#b5b5b5;}@media (max-width:1439px){.css-z41xdj{width:48px;height:48px;}}@media (max-width:1023px){.css-z41xdj{width:40px;height:40px;}}
-  </style>
-  <style data-emotion-css="1vi9hb7">
-   .css-1vi9hb7{min-width:343px;background:#ffffff;color:#333333;border-radius:16px;box-shadow:0 0 16px rgba(30,30,30,0.1);}.css-1vi9hb7.tippy-box[data-placement^=bottom]>div.tippy-arrow::before{border-bottom-color:#ffffff;}.css-1vi9hb7.tippy-box[data-placement^=top]>div.tippy-arrow::before{border-top-color:#ffffff;}.css-1vi9hb7.tippy-box[data-placement^=right]>div.tippy-arrow::before{border-right-color:#ffffff;}.css-1vi9hb7.tippy-box[data-placement^=left]>div.tippy-arrow::before{border-left-color:#ffffff;}.css-1vi9hb7 .tippy-content{padding:24px;z-index:5;}
-  </style>
-  <style data-emotion-css="wygciz">
-   .css-wygciz{padding:0 !important;width:56px !important;height:56px !important;}@media (max-width:1439px){.css-wygciz{width:48px !important;height:48px !important;}}@media (max-width:1023px){.css-wygciz{width:40px !important;height:40px !important;}}
-  </style>
   <style data-emotion-css="10s43wz">
    .css-10s43wz .tabs__list{margin-bottom:24px;}.css-10s43wz .tabs__tab + .tabs__tab{margin-left:24px;}@media (max-width:1023px){.css-10s43wz .tabs__tab + .tabs__tab{margin-left:16px;}}.css-10s43wz .tabs__tab{padding:0 12px;}
   </style>
@@ -387,150 +331,6 @@
   </style>
   <style data-emotion-css="8b3ph">
    .css-8b3ph{font-family:"Roboto",sans-serif;font-weight:400;font-size:1rem;line-height:1.4;}
-  </style>
-  <style data-emotion-css="i3pbo">
-   .css-i3pbo{margin-bottom:24px;}
-  </style>
-  <style data-emotion-css="6eooyt">
-   .css-6eooyt{position:relative;-webkit-transition:height ease 200ms;transition:height ease 200ms;}
-  </style>
-  <style data-emotion-css="d5yxd5">
-   .css-d5yxd5{font-family:"Roboto",sans-serif;font-weight:400;font-size:1rem;line-height:1.4;color:#333333;}
-  </style>
-  <style data-emotion-css="9s2a50">
-   .css-9s2a50{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;border:1px solid #e8e8e8;border-radius:16px;padding:12px 8px;}@media (max-width:1023px){.css-9s2a50{padding:20px 8px;}}
-  </style>
-  <style data-emotion-css="14fup06">
-   .css-14fup06{min-height:48px;text-align:center;}
-  </style>
-  <style data-emotion-css="1wzqizi">
-   .css-1wzqizi{font-family:"Roboto",sans-serif;font-weight:500;font-size:1.125rem;line-height:1.4;}
-  </style>
-  <style data-emotion-css="5x0dig">
-   .css-5x0dig{font-family:"Roboto",sans-serif;font-weight:400;font-size:0.875rem;line-height:1.4;color:#8f8f8f;}
-  </style>
-  <style data-emotion-css="1tathyh">
-   .css-1tathyh{-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;background:#ffffff;margin-top:-12px;padding:0 8px;font-family:"Roboto",sans-serif;font-weight:500;font-size:1rem;line-height:1.4;}
-  </style>
-  <style data-emotion-css="124sk51">
-   .css-124sk51{padding:12px 0;border-bottom:1px solid #e8e8e8;}
-  </style>
-  <style data-emotion-css="dd2o6a">
-   .css-dd2o6a{-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}@media (min-width:1024px){.css-dd2o6a{width:200px;}}
-  </style>
-  <style data-emotion-css="11yc72q">
-   .css-11yc72q{font-family:"Roboto",sans-serif;font-weight:400;font-size:1rem;line-height:1.4;color:#8f8f8f;}
-  </style>
-  <style data-emotion-css="18biwo">
-   .css-18biwo{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
-  </style>
-  <style data-emotion-css="1cm3f28">
-   .css-1cm3f28{color:#8f8f8f;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}
-  </style>
-  <style data-emotion-css="19vaxj7">
-   .css-19vaxj7{fill:#8f8f8f;}
-  </style>
-  <style data-emotion-css="v7vsmt">
-   .css-v7vsmt{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;white-space:nowrap;gap:12px;}@media (max-width:1023px){.css-v7vsmt{width:100vw;margin:0 -16px;gap:16px;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;overflow-x:auto;-webkit-scrollbar-width:none;-moz-scrollbar-width:none;-ms-scrollbar-width:none;scrollbar-width:none;}.css-v7vsmt::-webkit-scrollbar{display:none;}.css-v7vsmt -ms-overflow-style{display:none;}.css-v7vsmt a:first-of-type{margin-left:16px;}.css-v7vsmt a:last-of-type{margin-right:16px;}}
-  </style>
-  <style data-emotion-css="15godk1">
-   .css-15godk1:hover{color:#f98e04;}
-  </style>
-  <style data-emotion-css="nrywtk">
-   .css-nrywtk{margin-top:64px;}@media (max-width:1023px){.css-nrywtk{margin-top:32px;}}
-  </style>
-  <style data-emotion-css="1sg838z">
-   .css-1sg838z{margin-bottom:24px !important;}@media (max-width:1023px){.css-1sg838z{margin-bottom:16px !important;}}
-  </style>
-  <style data-emotion-css="mu0np6">
-   .css-mu0np6{font-family:"Roboto",sans-serif;font-weight:500;line-height:1.25;-webkit-letter-spacing:-0.01em;-moz-letter-spacing:-0.01em;-ms-letter-spacing:-0.01em;letter-spacing:-0.01em;font-size:2rem;}@media (max-width:1440px){.css-mu0np6{font-size:calc(1.75rem + ((100vw - 48rem) / (90 - 48)) * (2 - 1.75));}}@media (max-width:768px){.css-mu0np6{font-size:1.75rem;}}
-  </style>
-  <style data-emotion-css="wcmpzv">
-   @media (max-width:1023px){.css-wcmpzv .swiper-container{margin-left:-16px;margin-right:-16px;}.css-wcmpzv .swiper-slide:first-of-type{margin-left:16px;}.css-wcmpzv .swiper-slide:last-child{margin-right:16px;}}
-  </style>
-  <style data-emotion-css="ir0lda">
-   .css-ir0lda .swiper-slide{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;height:auto;-webkit-align-items:stretch;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;width:200px;}@media (max-width:639px){.css-ir0lda .swiper-slide{width:200px !important;}}
-  </style>
-  <style data-emotion-css="gpgeu4">
-   .css-gpgeu4{position:relative;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;max-height:100%;max-width:100%;}
-  </style>
-  <style data-emotion-css="yj2d3z">
-   .css-yj2d3z{border-radius:inherit;height:100%;}
-  </style>
-  <style data-emotion-css="pzpebh">
-   .css-pzpebh{position:relative;max-width:320px;min-width:160px;background-color:#ffffff;border:1px solid #e8e8e8;border-radius:16px;height:100%;width:100%;}@media (max-width:767px){.css-pzpebh{max-width:240px;}}
-  </style>
-  <style data-emotion-css="qx5ite">
-   .css-qx5ite{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;min-height:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:16px 24px 24px;}@media (max-width:767px){.css-qx5ite{padding:8px;}}
-  </style>
-  <style data-emotion-css="1edwjaq">
-   .css-1edwjaq{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;height:176px;margin-bottom:16px;}@media (max-width:767px){.css-1edwjaq{height:112px;margin-bottom:8px;}}
-  </style>
-  <style data-emotion-css="1y62hk2">
-   .css-1y62hk2{position:absolute;top:0;right:0;width:32px;height:32px;background-color:#ffffff;border-radius:50%;z-index:2;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}
-  </style>
-  <style data-emotion-css="1f0hc0u">
-   .css-1f0hc0u{position:absolute;top:0;bottom:0;left:0;right:0;width:100%;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;z-index:1;}.css-1f0hc0u button{display:none;}.css-1f0hc0u::before{content:"";position:absolute;top:0;bottom:0;left:0;right:0;width:100%;height:100%;background-color:rgba(255,255,255,0.4) !important;display:none;}.css-1f0hc0u:hover::before{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}.css-1f0hc0u:hover button{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
-  </style>
-  <style data-emotion-css="1bm6tuk">
-   .css-1bm6tuk{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:46px;height:46px;background-color:#ffffff;border-radius:50%;}
-  </style>
-  <style data-emotion-css="lnyvlk">
-   .css-lnyvlk{z-index:2;}
-  </style>
-  <style data-emotion-css="1f8sh1y">
-   .css-1f8sh1y{position:relative;width:100%;height:100%;}
-  </style>
-  <style data-emotion-css="1ciox4c">
-   .css-1ciox4c{height:28px;}.css-1ciox4c + .css-1ciox4c{margin-top:4px;}
-  </style>
-  <style data-emotion-css="1smue61">
-   .css-1smue61{color:#ffffff;}
-  </style>
-  <style data-emotion-css="dv1zku">
-   .css-dv1zku{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;gap:12px;}
-  </style>
-  <style data-emotion-css="12b8u9h">
-   .css-12b8u9h{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;gap:8px;height:-webkit-fit-content;height:-moz-fit-content;height:fit-content;}
-  </style>
-  <style data-emotion-css="11gqnau">
-   .css-11gqnau{color:#333333;margin:0;font-family:"Roboto",sans-serif;font-weight:400;font-size:0.875rem;line-height:1.4;}@media (max-width:767px){.css-11gqnau{font-family:"Roboto",sans-serif;font-weight:400;font-size:0.75rem;line-height:1.25;}}
-  </style>
-  <style data-emotion-css="1amtzgp">
-   .css-1amtzgp{color:#333333;font-family:"Roboto",sans-serif;font-weight:400;font-size:0.875rem;line-height:1.4;display:inline-block;height:60px;}@media (max-width:767px){.css-1amtzgp{font-family:"Roboto",sans-serif;font-weight:400;font-size:0.75rem;line-height:1.25;}}
-  </style>
-  <style data-emotion-css="9asti9">
-   .css-9asti9{margin-top:8px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:4px;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-webkit-justify-content:start;-ms-flex-pack:start;justify-content:start;min-height:64px;}
-  </style>
-  <style data-emotion-css="1xomo0y">
-   .css-1xomo0y{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:12px;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;height:28px;}
-  </style>
-  <style data-emotion-css="2s0y0u">
-   .css-2s0y0u{color:#333333;font-family:"Roboto",sans-serif;font-weight:500;font-size:1.5rem;line-height:1;-webkit-letter-spacing:-0.02em;-moz-letter-spacing:-0.02em;-ms-letter-spacing:-0.02em;letter-spacing:-0.02em;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:4px;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;}
-  </style>
-  <style data-emotion-css="1rngaq4">
-   .css-1rngaq4{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;font-family:"Roboto",sans-serif;font-weight:400;font-size:0.625rem;line-height:1;}
-  </style>
-  <style data-emotion-css="lqz09p">
-   .css-lqz09p{color:#8f8f8f;font-family:"Roboto",sans-serif;font-weight:400;font-size:0.75rem;line-height:1.25;}
-  </style>
-  <style data-emotion-css="1hw29i9">
-   .css-1hw29i9{margin-top:12px;}
-  </style>
-  <style data-emotion-css="ruyycc">
-   .css-ruyycc{white-space:nowrap;height:40px;}
-  </style>
-  <style data-emotion-css="1beb8fb">
-   .css-1beb8fb{background:#ffffff;border-radius:16px;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;max-width:100vw;}
-  </style>
-  <style data-emotion-css="7nfe1d">
-   .css-7nfe1d{position:absolute;top:50%;z-index:10;border:none !important;box-shadow:0 0 16px rgba(30,30,30,0.1);height:48px !important;width:48px !important;left:0;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);}.css-7nfe1d:disabled{opacity:0;cursor:default !important;-webkit-transition:opacity ease 200ms;transition:opacity ease 200ms;display:none;}@media (max-width:1023px){.css-7nfe1d{left:8px;}}
-  </style>
-  <style data-emotion-css="8eow20">
-   .css-8eow20{position:absolute;top:50%;z-index:10;border:none !important;box-shadow:0 0 16px rgba(30,30,30,0.1);height:48px !important;width:48px !important;right:0;-webkit-transform:translate(50%,-50%);-ms-transform:translate(50%,-50%);transform:translate(50%,-50%);}.css-8eow20:disabled{opacity:0;cursor:default !important;-webkit-transition:opacity ease 200ms;transition:opacity ease 200ms;display:none;}@media (max-width:1023px){.css-8eow20{right:8px;}}
-  </style>
-  <style data-emotion-css="q3zv2s">
-   .css-q3zv2s{margin-top:16px;height:8px;}.css-q3zv2s .swiper-scrollbar-drag{background-color:#333333;opacity:0.1;height:100%;width:100%;border-radius:4px;}
   </style>
   <style data-emotion-css="m68l26">
    .css-m68l26{margin-top:96px;margin-bottom:16px;}@media (max-width:1023px){.css-m68l26{margin-top:48px;}}
@@ -556,26 +356,11 @@
   <style data-emotion-css="1m6ebmz">
    .css-1m6ebmz{position:absolute;top:50%;right:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);fill:#8f8f8f;-webkit-transition:-webkit-transform ease 300ms,fill ease 300ms;-webkit-transition:transform ease 300ms,fill ease 300ms;transition:transform ease 300ms,fill ease 300ms;pointer-events:none;}[aria-expanded="true"] .css-1m6ebmz{-webkit-transform:translateY(-50%) rotate(-180deg);-ms-transform:translateY(-50%) rotate(-180deg);transform:translateY(-50%) rotate(-180deg);}
   </style>
-  <style data-emotion-css="vgvc7g">
-   .css-vgvc7g:last-child{margin-bottom:16px;}
-  </style>
-  <style data-emotion-css="vo3vmh">
-   .css-vo3vmh{padding:4px 0;background-color:transparent;}.exit-active .css-vo3vmh[hidden]{display:block;}.css-vo3vmh:last-child{margin-bottom:16px;}
-  </style>
-  <style data-emotion-css="ikqxpe">
-   .css-ikqxpe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:8px 0;font-family:"Roboto",sans-serif;font-weight:400;font-size:0.875rem;line-height:1.4;color:#333333;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}.css-ikqxpe:hover{color:#f27225;}
-  </style>
-  <style data-emotion-css="k6zrdb">
-   .css-k6zrdb{margin-right:8px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
-  </style>
   <style data-emotion-css="1dj1so">
    .css-1dj1so{border-top:1px solid #e8e8e8;}
   </style>
   <style data-emotion-css="6ywh5n">
    .css-6ywh5n{width:100%;border:1px solid transparent;border-top:1px solid #e8e8e8;}
-  </style>
-  <style data-emotion-css="bdl219">
-   .css-bdl219:hover{color:#f27225;}
   </style>
   <style data-emotion-css="wboshg">
    @media (max-width:1023px){.css-wboshg{border-top:1px solid #e8e8e8;padding-top:24px;}}
@@ -618,6 +403,9 @@
   </style>
   <style data-emotion-css="1h1kc5w">
    .css-1h1kc5w{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:40px;margin-bottom:8px;}@media (max-width:1023px){.css-1h1kc5w{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;gap:24px;}}
+  </style>
+  <style data-emotion-css="5x0dig">
+   .css-5x0dig{font-family:"Roboto",sans-serif;font-weight:400;font-size:0.875rem;line-height:1.4;color:#8f8f8f;}
   </style>
   <style data-emotion-css="1081t4c">
    .css-1081t4c{-webkit-text-decoration:underline;text-decoration:underline;}
@@ -736,12 +524,6 @@
   <style data-emotion="css m2blxh" data-s="">
    .css-m2blxh{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-width:0;border-style:solid;font-family:"Roboto",sans-serif;font-weight:500;font-size:1rem;line-height:1.4;border-radius:12px;padding:9px 24px;-webkit-transition:color ease 200ms,fill ease 200ms,background-color ease 200ms,border-color ease 200ms,box-shadow ease 200ms;transition:color ease 200ms,fill ease 200ms,background-color ease 200ms,border-color ease 200ms,box-shadow ease 200ms;color:#ffffff;fill:#ffffff;background:#f98e04;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;}.css-m2blxh:hover{background:#f27225;}.css-m2blxh:active{background:#eb5000;}.css-m2blxh:disabled{background:#b5b5b5;cursor:not-allowed;}
   </style>
-  <style data-emotion="css 1yh49gm" data-s="">
-   .css-1yh49gm{padding:24px 0 0 24px;}@media (max-width: 1599px){.css-1yh49gm{padding:16px 0 0 16px;}}
-  </style>
-  <style data-emotion="css 1o75dh5" data-s="">
-   .css-1o75dh5{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-width:1px;border-style:solid;font-family:"Roboto",sans-serif;font-weight:500;font-size:1.125rem;line-height:1.4;border-radius:12px;padding:14.5px 40px;-webkit-transition:color ease 200ms,fill ease 200ms,background-color ease 200ms,border-color ease 200ms,box-shadow ease 200ms;transition:color ease 200ms,fill ease 200ms,background-color ease 200ms,border-color ease 200ms,box-shadow ease 200ms;color:#8f8f8f;fill:#8f8f8f;background:#ffffff;border-color:#e8e8e8;}.css-1o75dh5:hover{border-color:#b5b5b5;}.css-1o75dh5:active{background:#f4f4f4;}.css-1o75dh5:disabled{color:#ffffff;fill:#ffffff;background:#b5b5b5;border-color:#b5b5b5;cursor:not-allowed;}
-  </style>
   <style data-emotion="css o7gca5" data-s="">
    .css-o7gca5{margin-bottom:24px;}
   </style>
@@ -750,21 +532,6 @@
   </style>
   <style data-emotion="css x2wenz" data-s="">
    .css-x2wenz{grid-column:2/-1;}@media (max-width: 1023px){.css-x2wenz{grid-column:span 1;}}
-  </style>
-  <style data-emotion="css f5tnsr" data-s="">
-   .css-f5tnsr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:-8px 0 0 -8px;-webkit-box-flex-wrap:nowrap;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}@media (max-width: 1023px){.css-f5tnsr{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}}
-  </style>
-  <style data-emotion="css 19ve1zf" data-s="">
-   .css-19ve1zf{padding:8px 0 0 8px;}
-  </style>
-  <style data-emotion="css 1jduguv" data-s="">
-   .css-1jduguv{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-width:1px;border-style:solid;font-family:"Roboto",sans-serif;font-weight:500;font-size:1rem;line-height:1.4;border-radius:8px;padding:12px 24px;-webkit-transition:color ease 200ms,fill ease 200ms,background-color ease 200ms,border-color ease 200ms,box-shadow ease 200ms;transition:color ease 200ms,fill ease 200ms,background-color ease 200ms,border-color ease 200ms,box-shadow ease 200ms;color:#8f8f8f;fill:#8f8f8f;background:#f4f4f4;border-color:#f4f4f4;}.css-1jduguv:hover{border-color:#b5b5b5;}.css-1jduguv:active{background:#f4f4f4;}.css-1jduguv:disabled{color:#ffffff;fill:#ffffff;background:#b5b5b5;border-color:#b5b5b5;cursor:not-allowed;}
-  </style>
-  <style data-emotion="css 1g1l9gj" data-s="">
-   .css-1g1l9gj{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:-20px 0 0 -20px;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}@media (max-width: 767px){.css-1g1l9gj{margin:-16px 0 0 -16px;}}
-  </style>
-  <style data-emotion="css 1c27zeu" data-s="">
-   .css-1c27zeu{padding:20px 0 0 20px;}@media (max-width: 767px){.css-1c27zeu{padding:16px 0 0 16px;}}
   </style>
   <style data-emotion="css z1j5i8" data-s="">
    .css-z1j5i8{max-width:1540px;margin-left:auto;margin-right:auto;}@media (max-width: 1919px){.css-z1j5i8{max-width:none;}}@media (max-width: 1919px){.css-z1j5i8{padding:0 30px;}}@media (max-width: 1439px){.css-z1j5i8{padding:0 29.9998779296875px;}}@media (max-width: 1023px){.css-z1j5i8{padding:0 30px;}}@media (max-width: 767px){.css-z1j5i8{padding:0 16px;}}@media (max-width: 1919px){.css-z1j5i8{margin-left:0;}}@media (max-width: 1919px){.css-z1j5i8{margin-right:0;}}
@@ -816,9 +583,6 @@
   </style>
   <style data-emotion="css txg9pm" data-s="">
    .css-txg9pm{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:-8px 0 0 -8px;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
-  </style>
-  <style data-emotion="css 19ve1zf" data-s="">
-   .css-19ve1zf{padding:8px 0 0 8px;}
   </style>
   <style data-emotion="css z1j5i8" data-s="">
    .css-z1j5i8{max-width:1540px;margin-left:auto;margin-right:auto;}@media (max-width: 1919px){.css-z1j5i8{max-width:none;}}@media (max-width: 1919px){.css-z1j5i8{padding:0 30px;}}@media (max-width: 1439px){.css-z1j5i8{padding:0 29.9998779296875px;}}@media (max-width: 1023px){.css-z1j5i8{padding:0 30px;}}@media (max-width: 767px){.css-z1j5i8{padding:0 16px;}}@media (max-width: 1919px){.css-z1j5i8{margin-left:0;}}@media (max-width: 1919px){.css-z1j5i8{margin-right:0;}}
@@ -1196,11 +960,23 @@ template {
   <link as="script" href="/_next/static/chunks/6851-4fc9354964989064.js" rel="prefetch"/>
   <link as="script" href="/_next/static/chunks/2759-0e9044ef49fa3d81.js" rel="prefetch"/>
   <link as="script" href="/_next/static/chunks/pages/index-c66e561ed48591c1.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/catalog-c66f5de81f948ec8.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/2741-73601463a9aca294.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/page/%5B...page%5D-30515c0b8214edcb.js" rel="prefetch"/>
+  <script async="" src="https://vk.com/js/api/openapi.js?169" type="text/javascript">
+  </script>
+  <script async="" src="https://vk.com/js/api/openapi.js?169" type="text/javascript">
+  </script>
+  <script async="" src="//st.hybrid.ai/txsp.js" type="text/javascript">
+  </script>
+  <style id="flocktoryStyleTag" type="text/css">
+   .flockapi-overlay_popup{background-color:#00000080;background-image:radial-gradient(ellipse closest-corner at 50% 50%,#0000004d 20%,#0009 100%);bottom:0;display:none;left:0;opacity:0;outline:0;overflow-x:auto;overflow-y:auto;position:fixed;right:0;top:0;z-index:100000}.flockapi-overlay_popup .flockapi-spinner{display:block}.flockapi-overlay_popup.flockapi-loaded .flockapi-spinner{display:none}.flockapi-wrapper{position:relative}.flockapi-wrapper_popup{display:none;margin:0 auto;opacity:0;position:relative;transform:scale(.8);transition:all .2s linear;z-index:1}.flockapi-wrapper_popup .flockapi-closebutton{right:20px;top:20px}.flockapi-wrapper_popup.flockapi-shown{transition-property:margin,left,top,transform,opacity}.flockapi-closebutton{background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAYAAAC5DOVpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAArNJREFUeNp8lDtv1EAUhWfmztheZ0MIibajQCAolgYJJBoQDRKiCH+ZEikQaGgCAaHQJEQhT7L2vDjHuw6bEJiV7bHn3u++V18bDkdam8dKqSKrvGe0fq2UVjFF3KdLa61yzt2edzHS7VLOz7TSq3hpc05vZDAYPCmcW3bWZWP0akppBPUvVJ6HzS+jDR/PnXM3oZuMmBpGlmRxOLxVlWVTuOIEFht8XAHwDmBfgYhXwErA1pwrlgZluV8U0BPTQD7KsF5QZVFcF5EAC8EY8VBdSCnfg8BnKMc5WAmDryBvy6o6cM5OjDGJ9kIIW7JQ1z9h2gO2CiWGGsUYD4EKOSFwC99j55HIGkAakRxaKy3yheNsWu83Ec03whRARzHG0AO10akHQvguru84e9mDxNL7Kahp20+Q2wZM9TCG0AER6jIT3AE1gZo5uo9kh6ooj3pQwq9t/RZBVCbMqotrG5aOCusewECmYqXLA3hwzFBhKBIEo6oN/gP2hxeqrP5eh23bvqcCFVkYa23D5zkI55S7rGjhieKlZi3JpkTPQVccq0uA+nOqAbON9+KDn/Wh/q9naFr1gkx19XKz89HlA0F15t/HVuzTCo2IhJ/Neuh86akXGXeNthljhAK2P66Cja11j6qqPMA0nDJHDCvFdIZKbaAIK6hwQQO4AquNibuNM7bQj3nYGN38EPt99NIpujx2+Qlxgny+syINnrtokREgjkBhPrWmQQIDgYR1oLKYgqCQetCkbd4iNA+YQuJTiGFHeqAmUBhm7IGYzRoeVQ1BsNSDTiZNs4EUsUHVDNb1ZghxB9NxA8CS09IDAVvEuMmJs3bSg3yIe1Bax+X/UU1+X6cc5alHfXKkrgfHiJ+JazH5HPqPrFmgJ3pawTnPps1pLftxF3EPWF38kf5CCjZ/CzAAhbuFTZwwFTQAAAAASUVORK5CYII=") 50% 50% no-repeat #fff;background-size:10px 10px;border-radius:10px;box-shadow:0 0 0 1px #0003,0 0 1px 0 #0000001a;cursor:pointer;height:20px;position:absolute;width:20px;z-index:1}.flockapi-spinner{display:none;left:50%;margin:-10px 0 0 -10px;position:absolute;top:50%}.flockapi-spinner,.flockapi-spinner:after{box-sizing:border-box;position:relative}.flockapi-spinner{color:#fff;display:block;height:20px;width:20px}.flockapi-spinner:after{animation:flock-ball-clip-rotate .75s linear infinite;background:#0000;border:2px solid;border-bottom:2px solid #0000;border-radius:100%;content:"";display:inline-block;height:100%;width:100%}@keyframes flock-ball-clip-rotate{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.flockapi-display_block{display:block;transition:.2s linear;transition-property:left,top,transform,opacity}.flockapi-show{display:block;opacity:1}.flockapi-show.flockapi-wrapper_popup{transform:scale(1)}.flockapi-wrapper iframe{left:0;position:absolute;top:0}.flockapi-insular-wrapper{display:none;overflow:hidden;visibility:hidden}.flockapi-insular-wrapper[data-widget-type=embedded]{position:static}.flockapi-insular-wrapper[data-widget-type=fixed]{position:fixed}.flockapi-insular-wrapper[data-widget-type=popup]{-webkit-overflow-scrolling:touch;background:#000c;bottom:0;height:auto;left:0;overflow-x:auto;overflow-y:auto;position:fixed;right:0;top:0;width:auto;z-index:1000}.flockapi-insular-wrapper[data-widget-type=popup] .flockapi-insular-widget{margin-left:auto;margin-right:auto}.flockapi-insular-wrapper.flockapi-show{display:block;visibility:visible}.flockapi-insular-widget{display:block}
+  </style>
+  <script async="" src="https://dss.hybrid.ai/Pixel/TrackTp?pid=628c884f7bc72f4fb8f7f594&amp;foadh=&amp;gapl=&amp;cs=&amp;pcs=&amp;vcs=" type="text/javascript">
+  </script>
   <link as="script" href="/_next/static/chunks/111-3dbee2752d9ed373.js" rel="prefetch"/>
   <link as="script" href="/_next/static/chunks/5216-5059c18507157fac.js" rel="prefetch"/>
   <link as="script" href="/_next/static/chunks/pages/catalog/%5B...category%5D-e76abdffc75d9cfe.js" rel="prefetch"/>
-  <link as="script" href="/_next/static/chunks/2741-73601463a9aca294.js" rel="prefetch"/>
-  <link as="script" href="/_next/static/chunks/pages/page/%5B...page%5D-30515c0b8214edcb.js" rel="prefetch"/>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript">
   </script>
   <script async="" src="https://emd.hybrid.ai/plgt.js?fbpid=628c884f7bc72f4fb8f7f594&amp;foadh=&amp;gapl=&amp;cs=&amp;pcs=&amp;vcs=" type="text/javascript">
@@ -1416,12 +1192,11 @@ template {
              </div>
             </button>
             <div class="swiper-container swiper-container-initialized swiper-container-vertical swiper-container-pointer-events css-6sswh7 swiper-container-thumbs" modules="[object Object],[object Object]">
-             <div aria-live="polite" class="swiper-wrapper" id="swiper-wrapper-810e5b6e81014ce2cb" style="transition-duration: 0ms;">
+             <div aria-live="polite" class="swiper-wrapper" id="swiper-wrapper-100af923687499d16" style="transition-duration: 0ms;">
               <div class="swiper-slide">
-               <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
-                <img class="css-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain"/>
+               <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+                <img class="css-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"/>
                 <noscript>
-                 <img class="css-0" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain"/>
                 </noscript>
                </span>
               </div>
@@ -1446,23 +1221,23 @@ template {
              </div>
             </div>
             <div class="swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events css-atqsx7" modules="[object Object],[object Object],[object Object],[object Object],[object Object]">
-             <div aria-live="polite" class="swiper-wrapper" id="swiper-wrapper-580d107bc91d10573a" style="transform: translate3d(-256px, 0px, 0px); transition-duration: 0ms;">
-              <div aria-label="1 / 1" class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-prev" data-swiper-slide-index="0" role="group" style="width: 256px;">
+             <div aria-live="polite" class="swiper-wrapper" id="swiper-wrapper-5eddc4101028e5310fe" style="transition-duration: 0ms; transform: translate3d(-256px, 0px, 0px);">
+              <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-prev" data-swiper-slide-index="0" style="width: 256px;">
                <div class="css-4qctqu">
-                <img alt="-1" class="css-bjativ" itemprop="image" src="https://image.globus.ru/web/06/03/410603.jpg"/>
-                <img alt="" class="css-r7ur3r" src="https://image.globus.ru/web/06/03/410603.jpg"/>
+                <img alt="-1" class="css-bjativ" itemprop="image" src="https://image.globus.ru/web/04/09/400409.jpg"/>
+                <img alt="" class="css-r7ur3r" src="https://image.globus.ru/web/04/09/400409.jpg"/>
                </div>
               </div>
-              <div aria-label="1 / 1" class="swiper-slide swiper-slide-active swiper-slide-duplicate-next swiper-slide-duplicate-prev" data-swiper-slide-index="0" role="group" style="width: 256px;">
+              <div class="swiper-slide swiper-slide-active swiper-slide-duplicate-next swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 256px;">
                <div class="css-4qctqu">
-                <img alt="-1" class="css-bjativ" itemprop="image" src="https://image.globus.ru/web/06/03/410603.jpg"/>
-                <img alt="" class="css-r7ur3r" src="https://image.globus.ru/web/06/03/410603.jpg"/>
+                <img alt="-1" class="css-bjativ" itemprop="image" src="https://image.globus.ru/web/04/09/400409.jpg"/>
+                <img alt="" class="css-r7ur3r" src="https://image.globus.ru/web/04/09/400409.jpg"/>
                </div>
               </div>
-              <div aria-label="1 / 1" class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-next" data-swiper-slide-index="0" role="group" style="width: 256px;">
+              <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-next" data-swiper-slide-index="0" style="width: 256px;">
                <div class="css-4qctqu">
-                <img alt="-1" class="css-bjativ" itemprop="image" src="https://image.globus.ru/web/06/03/410603.jpg"/>
-                <img alt="" class="css-r7ur3r" src="https://image.globus.ru/web/06/03/410603.jpg"/>
+                <img alt="-1" class="css-bjativ" itemprop="image" src="https://image.globus.ru/web/04/09/400409.jpg"/>
+                <img alt="" class="css-r7ur3r" src="https://image.globus.ru/web/04/09/400409.jpg"/>
                </div>
               </div>
              </div>
@@ -1480,10 +1255,9 @@ template {
             <div class="css-k008qs">
              <div class="css-rsmbou">
               <div class="css-10ym259">
-               <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
-                <img class="css-g98gbd" data-nimg="fill" decoding="async" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+               <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+                <img class="css-g98gbd" data-nimg="fill" decoding="async" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=3840&amp;q=75 3840w" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
                 <noscript>
-                 <img class="css-g98gbd" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
                 </noscript>
                </span>
               </div>
@@ -1496,7 +1270,7 @@ template {
                 <div class="css-1qym7kw" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
                  <div class="css-1t0dwxn">
                   <div class="css-10fcdyq" itemprop="price">
-                   749
+                   539
                   </div>
                   <div class="css-1vx8352">
                    <div>
@@ -1516,7 +1290,7 @@ template {
                   за 1 кг
                  </span>
                  <span>
-                  1 уп ~0.8 кг
+                  1 уп ~0.6 кг
                  </span>
                 </div>
                </div>
@@ -1565,18 +1339,18 @@ template {
         <div class="css-nw9pzd">
          <div class="tabs css-10s43wz" data-tabs="true">
           <ul class="tabs__list" role="tablist">
-           <li aria-controls="react-tabs-443061" aria-disabled="false" aria-selected="true" class="tabs__tab tabs__tab--selected" id="react-tabs-443060" role="tab" tabindex="0">
+           <li aria-controls="react-tabs-540133" aria-disabled="false" aria-selected="true" class="tabs__tab tabs__tab--selected" id="react-tabs-540132" role="tab" tabindex="0">
             <span class="css-0">
              О товаре
             </span>
            </li>
-           <li aria-controls="react-tabs-443063" aria-disabled="false" aria-selected="false" class="tabs__tab" id="react-tabs-443062" role="tab">
+           <li aria-controls="react-tabs-540135" aria-disabled="false" aria-selected="false" class="tabs__tab" id="react-tabs-540134" role="tab">
             <span class="css-0">
              Условия покупки
             </span>
            </li>
           </ul>
-          <div aria-labelledby="react-tabs-443060" class="tabs__panel tabs__panel--selected" id="react-tabs-443061" role="tabpanel">
+          <div aria-labelledby="react-tabs-540132" class="tabs__panel tabs__panel--selected" id="react-tabs-540133" role="tabpanel">
            <section class="css-o7gca5">
             <div class="css-7wn3ri">
              <div class="css-146vzrl">
@@ -1600,7 +1374,7 @@ template {
                     <br/>
                     Мясной цех есть в каждом гипермаркете «Глобус», и каждый полностью оборудован для прохождения всех этапов производства: приемки свежего мяса, разделки, приготовления полуфабрикатов и колбасных фаршей, варки колбас и сосисок, копчения, запекания деликатесов.
                     <br/>
-                    Наши поставщики мяса - это проверенные современные фермерские хозяйства центральной России, продукция которых отвечает строгим требованиям европейской системы контроля качества и безопасности.
+                    Наши поставщики мяса — это проверенные современные фермерские хозяйства центральной России, продукция которых отвечает строгим требованиям европейской системы контроля качества и безопасности.
                     <br/>
                     Наша мясная продукция производится по традиционным рецептам «Глобус» с использованием немецких технологий. Ежедневно мы делаем ровно столько, сколько вы покупаете. Объем производимых колбас, сосисок, деликатесов и мясных полуфабрикатов рассчитан с учетом спроса в течение дня.
                    </span>
@@ -1621,7 +1395,7 @@ template {
                <div class="css-9s2a50">
                 <div class="css-14fup06">
                  <p class="css-1wzqizi">
-                  168,5
+                  233,7
                  </p>
                  <p class="css-5x0dig">
                   ккал
@@ -1629,7 +1403,7 @@ template {
                 </div>
                 <div class="css-14fup06">
                  <p class="css-1wzqizi">
-                  17,6
+                  15,9
                  </p>
                  <p class="css-5x0dig">
                   белки
@@ -1637,7 +1411,7 @@ template {
                 </div>
                 <div class="css-14fup06">
                  <p class="css-1wzqizi">
-                  10,9
+                  18,9
                  </p>
                  <p class="css-5x0dig">
                   жиры
@@ -1711,7 +1485,7 @@ template {
                </div>
                <div class="css-19ve1zf">
                 <p>
-                 голяшка; рулька
+                 грудинка
                 </p>
                </div>
               </div>
@@ -1854,7 +1628,7 @@ template {
                <div class="css-19ve1zf">
                 <span class="css-18biwo">
                  <span class="css-12z0wuy">
-                  44679002
+                  44676001
                  </span>
                  <button class="css-1cm3f28" type="button">
                   <svg class="css-19vaxj7" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -1897,203 +1671,7 @@ template {
             </div>
            </section>
           </div>
-          <div aria-labelledby="react-tabs-443062" class="tabs__panel" id="react-tabs-443063" role="tabpanel">
-          </div>
-         </div>
-        </div>
-       </div>
-       <div class="css-nrywtk">
-        <div class="css-1sg838z css-1g1l9gj">
-         <div class="css-1c27zeu">
-          <h2 class="css-mu0np6">
-           Недавно просматривали
-          </h2>
-         </div>
-        </div>
-        <div class="css-wcmpzv">
-         <div class="css-ir0lda">
-          <div class="css-gpgeu4">
-           <div class="swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events css-yj2d3z" modules="[object Object],[object Object],[object Object],[object Object],[object Object]">
-            <div aria-live="polite" class="swiper-wrapper" id="swiper-wrapper-f5281cae176bfff4" style="transform: translate3d(0px, 0px, 0px);">
-             <div aria-label="1 / 2" class="swiper-slide swiper-slide-active" role="group" style="width: 244px; margin-right: 20px;">
-              <a class="css-pzpebh" href="/products/govyazhya-noga-na-kosti-na-podlozhke-up-700-900-g-44679_KG" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/Product">
-               <div class="css-qx5ite">
-                <div class="css-1edwjaq">
-                 <button class="css-1y62hk2" type="button">
-                  <svg fill="#f98e04" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-                   <path d="M12.0006 21L11.5661 20.7898C11.1949 20.6117 2.48758 16.3303 2.0231 9.60288C1.83087 6.82275 2.84539 4.63448 4.8011 3.59899C5.58265 3.19434 6.45269 2.98872 7.33352 3.00048C9.01292 3.05132 10.6385 3.60196 12.0006 4.58138C13.3628 3.60233 14.9883 3.05172 16.6676 3.00048C17.5458 2.99 18.413 3.19559 19.1922 3.59899C21.1546 4.63559 22.1691 6.82275 21.9769 9.60178C21.5124 16.3303 12.8051 20.6117 12.4339 20.7898L12.0006 21ZM7.34797 4.97633C6.78928 4.96751 6.23702 5.09594 5.74006 5.35026C4.48663 6.01404 3.87214 7.47436 4.00993 9.46792C4.34329 14.2493 10.2093 17.8039 12.0006 18.7797C13.7907 17.805 19.6612 14.2516 19.9912 9.46681C20.129 7.47547 19.5145 6.01294 18.2611 5.35026C17.7641 5.0959 17.2118 4.96746 16.6531 4.97633C15.1657 5.06034 13.7469 5.6273 12.6139 6.59043L12.0006 7.06835L11.3861 6.58932C10.2534 5.62647 8.83496 5.05987 7.34797 4.97633Z">
-                   </path>
-                  </svg>
-                 </button>
-                 <div class="css-1f0hc0u">
-                  <button class="css-1bm6tuk" type="button">
-                   <svg class="css-lnyvlk" fill="#f98e04" height="34" viewbox="0 0 24 24" width="34" xmlns="http://www.w3.org/2000/svg">
-                    <path clip-rule="evenodd" d="M20.1192 18.7122C20.2993 18.8987 20.4 19.1479 20.4 19.4072C20.4 19.6666 20.2993 19.9158 20.1192 20.1023L20.1174 20.1041C20.0245 20.1979 19.9139 20.2723 19.7921 20.3231C19.6703 20.3739 19.5396 20.4 19.4077 20.4C19.2757 20.4 19.145 20.3739 19.0232 20.3231C18.9016 20.2723 18.7911 20.198 18.6983 20.1044L15.8815 17.2855C14.4287 18.3947 12.6148 18.9277 10.7894 18.7775C8.90429 18.6223 7.15025 17.7502 5.88795 16.3405C4.62565 14.9309 3.95103 13.0908 4.00277 11.1987C4.05451 9.30665 4.82866 7.50627 6.16611 6.16781C7.50355 4.82935 9.30263 4.05455 11.1934 4.00277C13.0842 3.95099 14.9229 4.62618 16.3315 5.88945C17.7401 7.15271 18.6115 8.90803 18.7666 10.7945C18.9167 12.621 18.3842 14.4361 17.2761 15.8899L20.1192 18.7122ZM8.41426 15.9087C9.30173 16.5021 10.3451 16.8188 11.4124 16.8188C12.8437 16.8188 14.2163 16.2498 15.2284 15.237C16.2405 14.2241 16.8091 12.8504 16.8091 11.4179C16.8091 10.3497 16.4926 9.30544 15.8996 8.41726C15.3066 7.52908 14.4637 6.83685 13.4776 6.42809C12.4915 6.01932 11.4064 5.91237 10.3596 6.12076C9.3128 6.32914 8.35121 6.84351 7.59646 7.59883C6.84171 8.35415 6.3277 9.31651 6.11946 10.3642C5.91122 11.4119 6.0181 12.4979 6.42658 13.4848C6.83506 14.4717 7.52678 15.3152 8.41426 15.9087ZM11.339 15C10.7867 15 10.339 14.5523 10.339 14V12.661H9C8.44772 12.661 8 12.2133 8 11.661V11.322C8 10.7698 8.44772 10.322 9 10.322H10.339V8.98306C10.339 8.43078 10.7867 7.98306 11.339 7.98306H11.678C12.2303 7.98306 12.678 8.43078 12.678 8.98306V10.322H13.9C14.4523 10.322 14.9 10.7698 14.9 11.322V11.661C14.9 12.2133 14.4523 12.661 13.9 12.661H12.678V14C12.678 14.5523 12.2303 15 11.678 15H11.339Z" fill-rule="evenodd">
-                    </path>
-                   </svg>
-                  </button>
-                 </div>
-                 <div class="css-1f8sh1y">
-                  <div class="css-fr7za3">
-                   <div class="css-1ciox4c">
-                    <img alt="" class="css-nls69x" src="https://digitalone.globus.ru/files/cms/badges/47/1d/5_RriK9ANcTPpGpXZ75kzF.svg"/>
-                   </div>
-                  </div>
-                  <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
-                   <img alt="" class="css-1smue61" data-nimg="fill" decoding="async" itemprop="image" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F06%2F03%2F410603.jpg&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain"/>
-                  </span>
-                 </div>
-                </div>
-                <div class="css-dv1zku">
-                 <div class="css-12b8u9h">
-                  <span class="css-11gqnau">
-                   <span class="css-1amtzgp">
-                    <div>
-                     Говяжья нога на кости, на подложке уп, 700-900 г
-                    </div>
-                   </span>
-                   <div>
-                   </div>
-                  </span>
-                 </div>
-                 <div class="css-9asti9">
-                  <div>
-                   <div class="css-1xomo0y" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-                    <div class="css-2s0y0u">
-                     <div class="css-0" itemprop="price">
-                      749
-                     </div>
-                     <div class="css-1rngaq4">
-                      <div>
-                       99
-                      </div>
-                      <div>
-                       руб.
-                      </div>
-                      <meta content="RUB" itemprop="priceCurrency"/>
-                     </div>
-                    </div>
-                   </div>
-                  </div>
-                  <div>
-                   <div class="css-lqz09p">
-                    за 1 кг
-                   </div>
-                   <div class="css-lqz09p">
-                    1 уп ~0.8 кг
-                   </div>
-                  </div>
-                 </div>
-                </div>
-                <div class="css-1hw29i9">
-                 <div>
-                  <div aria-expanded="false" class="css-79elbk">
-                   <button class="css-ruyycc css-m2blxh" type="button">
-                    <svg class="css-12z0wuy" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-                     <path d="M17.087 21.5C16.6993 21.499 16.3206 21.383 15.9987 21.1669C15.6768 20.9508 15.4262 20.6441 15.2786 20.2857C15.1309 19.9272 15.0928 19.533 15.1691 19.1529C15.2454 18.7728 15.4326 18.4239 15.7072 18.1501C15.9817 17.8764 16.3312 17.6901 16.7116 17.6149C17.0919 17.5396 17.4861 17.5788 17.8442 17.7274C18.2023 17.8759 18.5083 18.1273 18.7237 18.4497C18.939 18.7721 19.0539 19.1511 19.0539 19.5388C19.0522 20.0593 18.8443 20.558 18.4756 20.9256C18.107 21.2932 17.6077 21.4997 17.087 21.5ZM7.43132 21.5C7.04359 21.499 6.66487 21.383 6.34299 21.1669C6.02111 20.9508 5.77051 20.6441 5.62285 20.2857C5.4752 19.9272 5.43711 19.533 5.51339 19.1529C5.58967 18.7728 5.7769 18.4239 6.05144 18.1501C6.32598 17.8764 6.6755 17.6901 7.05586 17.6149C7.43622 17.5396 7.83035 17.5788 8.18847 17.7274C8.54659 17.8759 8.85263 18.1273 9.06793 18.4497C9.28324 18.7721 9.39815 19.1511 9.39815 19.5388C9.39675 20.0594 9.18892 20.5582 8.82022 20.9259C8.45152 21.2935 7.95204 21.5 7.43132 21.5ZM14.0687 16.0934H8.27802C7.70755 16.0934 7.16039 15.8672 6.75662 15.4642C6.35284 15.0613 6.12544 14.5147 6.12433 13.9443V9.42867C6.12466 9.42657 6.12466 9.42443 6.12433 9.42233C6.12381 9.41954 6.12381 9.41668 6.12433 9.41389V5.54739C6.12433 4.951 5.78332 4.50556 5.47822 4.50556H3.50294C3.37124 4.50556 3.24082 4.47962 3.11913 4.42922C2.99745 4.37883 2.88689 4.30497 2.79376 4.21185C2.70062 4.11873 2.62675 4.00819 2.57634 3.88652C2.52594 3.76486 2.5 3.63446 2.5 3.50278C2.5 3.37109 2.52594 3.24069 2.57634 3.11903C2.62675 2.99737 2.70062 2.88682 2.79376 2.79371C2.88689 2.70059 2.99745 2.62673 3.11913 2.57633C3.24082 2.52594 3.37124 2.5 3.50294 2.5H5.474C6.22891 2.55603 6.93129 2.90741 7.42876 3.47791C7.92622 4.0484 8.17865 4.792 8.13127 5.54739V5.99811H19.3463C19.9166 5.99811 20.4636 6.22425 20.8673 6.62694C21.2711 7.02963 21.4986 7.57598 21.5 8.14617V8.68344C21.495 10.6508 20.7096 12.5358 19.3163 13.925C17.9229 15.3142 16.0353 16.094 14.0676 16.0934H14.0687ZM8.13444 8.00261V13.9454C8.13444 13.9836 8.14953 14.0202 8.17643 14.0473C8.20332 14.0744 8.23984 14.0897 8.27802 14.09H14.0676C15.5042 14.0917 16.8827 13.5231 17.9002 12.5091C18.9178 11.4951 19.491 10.1187 19.4941 8.68239V8.14617C19.4941 8.10809 19.479 8.07158 19.4521 8.04466C19.4251 8.01774 19.3886 8.00261 19.3505 8.00261H8.13444Z">
-                     </path>
-                    </svg>
-                    В корзину
-                   </button>
-                  </div>
-                 </div>
-                </div>
-               </div>
-              </a>
-             </div>
-             <div aria-label="2 / 2" class="swiper-slide swiper-slide-next" role="group" style="width: 244px; margin-right: 20px;">
-              <a class="css-pzpebh" href="/products/grudinka-govyazhya-na-kosti-na-podlozhke-up-500-700-g-44676_KG" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/Product">
-               <div class="css-qx5ite">
-                <div class="css-1edwjaq">
-                 <button class="css-1y62hk2" type="button">
-                  <svg fill="#f98e04" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-                   <path d="M12.0006 21L11.5661 20.7898C11.1949 20.6117 2.48758 16.3303 2.0231 9.60288C1.83087 6.82275 2.84539 4.63448 4.8011 3.59899C5.58265 3.19434 6.45269 2.98872 7.33352 3.00048C9.01292 3.05132 10.6385 3.60196 12.0006 4.58138C13.3628 3.60233 14.9883 3.05172 16.6676 3.00048C17.5458 2.99 18.413 3.19559 19.1922 3.59899C21.1546 4.63559 22.1691 6.82275 21.9769 9.60178C21.5124 16.3303 12.8051 20.6117 12.4339 20.7898L12.0006 21ZM7.34797 4.97633C6.78928 4.96751 6.23702 5.09594 5.74006 5.35026C4.48663 6.01404 3.87214 7.47436 4.00993 9.46792C4.34329 14.2493 10.2093 17.8039 12.0006 18.7797C13.7907 17.805 19.6612 14.2516 19.9912 9.46681C20.129 7.47547 19.5145 6.01294 18.2611 5.35026C17.7641 5.0959 17.2118 4.96746 16.6531 4.97633C15.1657 5.06034 13.7469 5.6273 12.6139 6.59043L12.0006 7.06835L11.3861 6.58932C10.2534 5.62647 8.83496 5.05987 7.34797 4.97633Z">
-                   </path>
-                  </svg>
-                 </button>
-                 <div class="css-1f0hc0u">
-                  <button class="css-1bm6tuk" type="button">
-                   <svg class="css-lnyvlk" fill="#f98e04" height="34" viewbox="0 0 24 24" width="34" xmlns="http://www.w3.org/2000/svg">
-                    <path clip-rule="evenodd" d="M20.1192 18.7122C20.2993 18.8987 20.4 19.1479 20.4 19.4072C20.4 19.6666 20.2993 19.9158 20.1192 20.1023L20.1174 20.1041C20.0245 20.1979 19.9139 20.2723 19.7921 20.3231C19.6703 20.3739 19.5396 20.4 19.4077 20.4C19.2757 20.4 19.145 20.3739 19.0232 20.3231C18.9016 20.2723 18.7911 20.198 18.6983 20.1044L15.8815 17.2855C14.4287 18.3947 12.6148 18.9277 10.7894 18.7775C8.90429 18.6223 7.15025 17.7502 5.88795 16.3405C4.62565 14.9309 3.95103 13.0908 4.00277 11.1987C4.05451 9.30665 4.82866 7.50627 6.16611 6.16781C7.50355 4.82935 9.30263 4.05455 11.1934 4.00277C13.0842 3.95099 14.9229 4.62618 16.3315 5.88945C17.7401 7.15271 18.6115 8.90803 18.7666 10.7945C18.9167 12.621 18.3842 14.4361 17.2761 15.8899L20.1192 18.7122ZM8.41426 15.9087C9.30173 16.5021 10.3451 16.8188 11.4124 16.8188C12.8437 16.8188 14.2163 16.2498 15.2284 15.237C16.2405 14.2241 16.8091 12.8504 16.8091 11.4179C16.8091 10.3497 16.4926 9.30544 15.8996 8.41726C15.3066 7.52908 14.4637 6.83685 13.4776 6.42809C12.4915 6.01932 11.4064 5.91237 10.3596 6.12076C9.3128 6.32914 8.35121 6.84351 7.59646 7.59883C6.84171 8.35415 6.3277 9.31651 6.11946 10.3642C5.91122 11.4119 6.0181 12.4979 6.42658 13.4848C6.83506 14.4717 7.52678 15.3152 8.41426 15.9087ZM11.339 15C10.7867 15 10.339 14.5523 10.339 14V12.661H9C8.44772 12.661 8 12.2133 8 11.661V11.322C8 10.7698 8.44772 10.322 9 10.322H10.339V8.98306C10.339 8.43078 10.7867 7.98306 11.339 7.98306H11.678C12.2303 7.98306 12.678 8.43078 12.678 8.98306V10.322H13.9C14.4523 10.322 14.9 10.7698 14.9 11.322V11.661C14.9 12.2133 14.4523 12.661 13.9 12.661H12.678V14C12.678 14.5523 12.2303 15 11.678 15H11.339Z" fill-rule="evenodd">
-                    </path>
-                   </svg>
-                  </button>
-                 </div>
-                 <div class="css-1f8sh1y">
-                  <div class="css-fr7za3">
-                   <div class="css-1ciox4c">
-                    <img alt="" class="css-nls69x" src="https://digitalone.globus.ru/files/cms/badges/47/1d/5_RriK9ANcTPpGpXZ75kzF.svg"/>
-                   </div>
-                  </div>
-                  <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
-                   <img alt="" class="css-1smue61" data-nimg="fill" decoding="async" itemprop="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain"/>
-                   <noscript>
-                    <img alt="" class="css-1smue61" data-nimg="fill" decoding="async" itemprop="image" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fimage.globus.ru%2Fmobile%2F04%2F09%2F400409.jpg&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain"/>
-                   </noscript>
-                  </span>
-                 </div>
-                </div>
-                <div class="css-dv1zku">
-                 <div class="css-12b8u9h">
-                  <span class="css-11gqnau">
-                   <span class="css-1amtzgp">
-                    <div>
-                     Грудинка говяжья на кости, на подложке уп, 500-700 г
-                    </div>
-                   </span>
-                   <div>
-                   </div>
-                  </span>
-                 </div>
-                 <div class="css-9asti9">
-                  <div>
-                   <div class="css-1xomo0y" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-                    <div class="css-2s0y0u">
-                     <div class="css-0" itemprop="price">
-                      539
-                     </div>
-                     <div class="css-1rngaq4">
-                      <div>
-                       99
-                      </div>
-                      <div>
-                       руб.
-                      </div>
-                      <meta content="RUB" itemprop="priceCurrency"/>
-                     </div>
-                    </div>
-                   </div>
-                  </div>
-                  <div>
-                   <div class="css-lqz09p">
-                    за 1 кг
-                   </div>
-                   <div class="css-lqz09p">
-                    1 уп ~0.6 кг
-                   </div>
-                  </div>
-                 </div>
-                </div>
-                <div class="css-1hw29i9">
-                 <div>
-                  <div aria-expanded="false" class="css-79elbk">
-                   <button class="css-ruyycc css-m2blxh" type="button">
-                    <svg class="css-12z0wuy" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-                     <path d="M17.087 21.5C16.6993 21.499 16.3206 21.383 15.9987 21.1669C15.6768 20.9508 15.4262 20.6441 15.2786 20.2857C15.1309 19.9272 15.0928 19.533 15.1691 19.1529C15.2454 18.7728 15.4326 18.4239 15.7072 18.1501C15.9817 17.8764 16.3312 17.6901 16.7116 17.6149C17.0919 17.5396 17.4861 17.5788 17.8442 17.7274C18.2023 17.8759 18.5083 18.1273 18.7237 18.4497C18.939 18.7721 19.0539 19.1511 19.0539 19.5388C19.0522 20.0593 18.8443 20.558 18.4756 20.9256C18.107 21.2932 17.6077 21.4997 17.087 21.5ZM7.43132 21.5C7.04359 21.499 6.66487 21.383 6.34299 21.1669C6.02111 20.9508 5.77051 20.6441 5.62285 20.2857C5.4752 19.9272 5.43711 19.533 5.51339 19.1529C5.58967 18.7728 5.7769 18.4239 6.05144 18.1501C6.32598 17.8764 6.6755 17.6901 7.05586 17.6149C7.43622 17.5396 7.83035 17.5788 8.18847 17.7274C8.54659 17.8759 8.85263 18.1273 9.06793 18.4497C9.28324 18.7721 9.39815 19.1511 9.39815 19.5388C9.39675 20.0594 9.18892 20.5582 8.82022 20.9259C8.45152 21.2935 7.95204 21.5 7.43132 21.5ZM14.0687 16.0934H8.27802C7.70755 16.0934 7.16039 15.8672 6.75662 15.4642C6.35284 15.0613 6.12544 14.5147 6.12433 13.9443V9.42867C6.12466 9.42657 6.12466 9.42443 6.12433 9.42233C6.12381 9.41954 6.12381 9.41668 6.12433 9.41389V5.54739C6.12433 4.951 5.78332 4.50556 5.47822 4.50556H3.50294C3.37124 4.50556 3.24082 4.47962 3.11913 4.42922C2.99745 4.37883 2.88689 4.30497 2.79376 4.21185C2.70062 4.11873 2.62675 4.00819 2.57634 3.88652C2.52594 3.76486 2.5 3.63446 2.5 3.50278C2.5 3.37109 2.52594 3.24069 2.57634 3.11903C2.62675 2.99737 2.70062 2.88682 2.79376 2.79371C2.88689 2.70059 2.99745 2.62673 3.11913 2.57633C3.24082 2.52594 3.37124 2.5 3.50294 2.5H5.474C6.22891 2.55603 6.93129 2.90741 7.42876 3.47791C7.92622 4.0484 8.17865 4.792 8.13127 5.54739V5.99811H19.3463C19.9166 5.99811 20.4636 6.22425 20.8673 6.62694C21.2711 7.02963 21.4986 7.57598 21.5 8.14617V8.68344C21.495 10.6508 20.7096 12.5358 19.3163 13.925C17.9229 15.3142 16.0353 16.094 14.0676 16.0934H14.0687ZM8.13444 8.00261V13.9454C8.13444 13.9836 8.14953 14.0202 8.17643 14.0473C8.20332 14.0744 8.23984 14.0897 8.27802 14.09H14.0676C15.5042 14.0917 16.8827 13.5231 17.9002 12.5091C18.9178 11.4951 19.491 10.1187 19.4941 8.68239V8.14617C19.4941 8.10809 19.479 8.07158 19.4521 8.04466C19.4251 8.01774 19.3886 8.00261 19.3505 8.00261H8.13444Z">
-                     </path>
-                    </svg>
-                    В корзину
-                   </button>
-                  </div>
-                 </div>
-                </div>
-               </div>
-              </a>
-             </div>
-            </div>
-            <span aria-atomic="true" aria-live="assertive" class="swiper-notification">
-            </span>
-           </div>
+          <div aria-labelledby="react-tabs-540134" class="tabs__panel" id="react-tabs-540135" role="tabpanel">
           </div>
          </div>
         </div>
@@ -3238,149 +2816,9 @@ template {
    </div>
   </div>
   <script id="__NEXT_DATA__" type="application/json">
-   {"props":{"pageProps":{"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36","environments":{"reCaptchaSiteKey":"6Lek0yIpAAAAAG4b7I-ZYJbwc7qiiLvXiE0dl8Bu","ymapsAPIKey":"e4f3ce0f-47f5-4009-b56b-8c2722487def","ymapsSuggestAPIKey":"de0f1c23-fa51-458b-89ae-beb92df09dcd","environment":"","host":"online.globus.ru"},"isSSR":true,"uuid":"01b7314f-aea9-494d-bfb7-53ba878587c4","token":"","dehydratedState":{"mutations":[],"queries":[{"state":{"data":{"data":{"menu":{"catalog":[{"id":20,"name":"Акции","icon":null,"parent_id":null,"categories":[{"id":2010121409,"name":"Собственное производство","icon":null,"parent_id":20,"categories":[],"url":"/catalog/sobstvennoe-proizvodstvo-2010121409/"},{"id":2010121489,"name":"Овощи, фрукты, зелень","icon":null,"parent_id":20,"categories":[],"url":"/catalog/ovoshhi-frukty-zelen-2010121489/"},{"id":2010118965,"name":"Молочные продукты, сыр, яйца","icon":null,"parent_id":20,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-2010118965/"},{"id":2010121355,"name":"Мясо, птица, колбасы","icon":null,"parent_id":20,"categories":[],"url":"/catalog/myaso-pticza-kolbasy-2010121355/"},{"id":2011191953,"name":"Рыба, икра, морепродукты","icon":null,"parent_id":20,"categories":[],"url":"/catalog/ryba-ikra-moreprodukty-2011191953/"},{"id":2011190269,"name":"Роллы, кулинария, готовые блюда","icon":null,"parent_id":20,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-2011190269/"},{"id":2010112701,"name":"Хлеб, выпечка","icon":null,"parent_id":20,"categories":[],"url":"/catalog/xleb-vypechka-2010112701/"},{"id":2010112698,"name":"Замороженные продукты","icon":null,"parent_id":20,"categories":[],"url":"/catalog/zamorozhennye-produkty-2010112698/"},{"id":2010112696,"name":"Бакалея","icon":null,"parent_id":20,"categories":[],"url":"/catalog/bakaleya-2010112696/"},{"id":2011455208,"name":"Чай, кофе, какао","icon":null,"parent_id":20,"categories":[],"url":"/catalog/chaj-kofe-kakao-2011455208/"},{"id":2013669707,"name":"Сладости","icon":null,"parent_id":20,"categories":[],"url":"/catalog/sladosti-2013669707/"},{"id":2012535972,"name":"Чипсы, снеки, орехи","icon":null,"parent_id":20,"categories":[],"url":"/catalog/chipsy-sneki-orexi-2012535972/"},{"id":2001225631,"name":"Алкоголь","icon":null,"parent_id":20,"categories":[],"url":"/catalog/alkogol-2001225631/"},{"id":2010112699,"name":"Безалкогольные напитки","icon":null,"parent_id":20,"categories":[],"url":"/catalog/bezalkogolnye-napitki-2010112699/"},{"id":2011656273,"name":"Здоровый выбор","icon":null,"parent_id":20,"categories":[],"url":"/catalog/zdorovyj-vybor-2011656273/"},{"id":2010121856,"name":"Детские товары","icon":null,"parent_id":20,"categories":[],"url":"/catalog/detskie-tovary-2010121856/"},{"id":2010121838,"name":"Зоотовары","icon":null,"parent_id":20,"categories":[],"url":"/catalog/zootovary-2010121838/"},{"id":2010121719,"name":"Уборка, бытовая химия","icon":null,"parent_id":20,"categories":[],"url":"/catalog/uborka-bytovaya-ximiya-2010121719/"},{"id":2010121784,"name":"Косметика и гигиена","icon":null,"parent_id":20,"categories":[],"url":"/catalog/kosmetika-i-gigiena-2010121784/"},{"id":2001225111,"name":"Дом, интерьер","icon":null,"parent_id":20,"categories":[],"url":"/catalog/dom-interer-2001225111/"},{"id":2010112712,"name":"Домашний текстиль, гардероб","icon":null,"parent_id":20,"categories":[],"url":"/catalog/domashnij-tekstil-garderob-2010112712/"},{"id":2011266364,"name":"Техника, аксессуары","icon":null,"parent_id":20,"categories":[],"url":"/catalog/texnika-aksessuary-2011266364/"},{"id":2011448308,"name":"Спорт, хобби, канцтовары","icon":null,"parent_id":20,"categories":[],"url":"/catalog/sport-xobbi-kancztovary-2011448308/"},{"id":2001985089,"name":"Авто, дача, ремонт","icon":null,"parent_id":20,"categories":[],"url":"/catalog/avto-dacha-remont-2001985089/"}],"url":"/catalog/akcii-20/"},{"id":113859603,"name":"Сезон гриля","icon":"https://digitalone.globus.ru/files/cms/category_icons/9e/98/28_iIIgeIrVzW1hcNVcE202.svg","parent_id":3,"categories":[{"id":123859630,"name":"Уголь, розжиг, мангалы","icon":null,"parent_id":113859603,"categories":[],"url":"/catalog/sezon-grilya-113859603/ugol-rozzhig-mangaly-123859630/"},{"id":123859712,"name":"Шашлык, мясо, рыба","icon":null,"parent_id":113859603,"categories":[],"url":"/catalog/sezon-grilya-113859603/shashlyk-myaso-ryba-123859712/"},{"id":123859750,"name":"Овощи, зелень, лаваш","icon":null,"parent_id":113859603,"categories":[],"url":"/catalog/sezon-grilya-113859603/ovoshhi-zelen-lavash-123859750/"},{"id":123859759,"name":"Соусы, маринады, специи","icon":null,"parent_id":113859603,"categories":[],"url":"/catalog/sezon-grilya-113859603/sousy-marinady-specii-123859759/"},{"id":123859760,"name":"Напитки, пиво, снеки","icon":null,"parent_id":113859603,"categories":[],"url":"/catalog/sezon-grilya-113859603/napitki-pivo-sneki-123859760/"},{"id":123859811,"name":"Посуда, салфетки, хранение","icon":null,"parent_id":113859603,"categories":[],"url":"/catalog/sezon-grilya-113859603/posuda-salfetki-xranenie-123859811/"},{"id":123859832,"name":"Средства защиты","icon":null,"parent_id":113859603,"categories":[],"url":"/catalog/sezon-grilya-113859603/sredstva-zashhity-123859832/"},{"id":123859836,"name":"Активный отдых","icon":null,"parent_id":113859603,"categories":[],"url":"/catalog/sezon-grilya-113859603/aktivnyj-otdyx-123859836/"}],"url":"/catalog/sezon-grilya-113859603/"},{"id":10121409,"name":"Собственное производство","icon":"https://digitalone.globus.ru/files/cms/category_icons/ad/3f/2_AkM5dkd05k8VLqxXMynE.svg","parent_id":6,"categories":[{"id":20121410,"name":"Мясной цех","icon":null,"parent_id":10121409,"categories":[],"url":"/catalog/sobstvennoe-proizvodstvo-10121409/myasnoj-cex-20121410/"},{"id":20121412,"name":"Рыбный ряд","icon":null,"parent_id":10121409,"categories":[],"url":"/catalog/sobstvennoe-proizvodstvo-10121409/rybnyj-ryad-20121412/"},{"id":20121411,"name":"Кулинария","icon":null,"parent_id":10121409,"categories":[],"url":"/catalog/sobstvennoe-proizvodstvo-10121409/kulinariya-20121411/"},{"id":2201527,"name":"Суши и роллы","icon":null,"parent_id":10121409,"categories":[],"url":"/catalog/sobstvennoe-proizvodstvo-10121409/sushi-i-rolly-2201527/"},{"id":20121414,"name":"Кондитерские изделия","icon":null,"parent_id":10121409,"categories":[],"url":"/catalog/sobstvennoe-proizvodstvo-10121409/konditerskie-izdeliya-20121414/"},{"id":2153249,"name":"Пекарня","icon":null,"parent_id":10121409,"categories":[],"url":"/catalog/sobstvennoe-proizvodstvo-10121409/pekarnya-2153249/"}],"url":"/catalog/sobstvennoe-proizvodstvo-10121409/"},{"id":101157437,"name":"Наши марки","icon":"https://digitalone.globus.ru/files/cms/category_icons/d4/b1/3_RH8HYu2H2Qf3HDoSWmhp.svg","parent_id":3,"categories":[{"id":102157446,"name":"Ваш выбор","icon":null,"parent_id":101157437,"categories":[],"url":"/catalog/nashi-marki-101157437/vash-vybor-102157446/"},{"id":102157444,"name":"Глобус","icon":null,"parent_id":101157437,"categories":[],"url":"/catalog/nashi-marki-101157437/globus-102157444/"},{"id":102157443,"name":"Глобус Вита","icon":null,"parent_id":101157437,"categories":[],"url":"/catalog/nashi-marki-101157437/globus-vita-102157443/"},{"id":102157445,"name":"Ромашкин луг","icon":null,"parent_id":101157437,"categories":[],"url":"/catalog/nashi-marki-101157437/romashkin-lug-102157445/"},{"id":102316526,"name":"Maxus","icon":null,"parent_id":101157437,"categories":[],"url":"/catalog/nashi-marki-101157437/maxus-102316526/"}],"url":"/catalog/nashi-marki-101157437/"},{"id":10121489,"name":"Овощи, фрукты, зелень","icon":"https://digitalone.globus.ru/files/cms/category_icons/41/2c/4_xY6JqshxG4R0ucIXDhOk.svg","parent_id":6,"categories":[{"id":20121494,"name":"Овощи и грибы","icon":null,"parent_id":10121489,"categories":[],"url":"/catalog/ovoshhi-frukty-zelen-10121489/ovoshhi-i-griby-20121494/"},{"id":20121510,"name":"Фрукты","icon":null,"parent_id":10121489,"categories":[],"url":"/catalog/ovoshhi-frukty-zelen-10121489/frukty-20121510/"},{"id":20121524,"name":"Зелень и салаты","icon":null,"parent_id":10121489,"categories":[],"url":"/catalog/ovoshhi-frukty-zelen-10121489/zelen-i-salaty-20121524/"},{"id":21620653,"name":"Ягоды","icon":null,"parent_id":10121489,"categories":[],"url":"/catalog/ovoshhi-frukty-zelen-10121489/yagody-21620653/"},{"id":21622110,"name":"Экзотические овощи, фрукты, ягоды","icon":null,"parent_id":10121489,"categories":[],"url":"/catalog/ovoshhi-frukty-zelen-10121489/ekzoticheskie-ovoshhi-frukty-yagody-21622110/"},{"id":21445508,"name":"Соленья","icon":null,"parent_id":10121489,"categories":[],"url":"/catalog/ovoshhi-frukty-zelen-10121489/solenya-21445508/"}],"url":"/catalog/ovoshhi-frukty-zelen-10121489/"},{"id":10118965,"name":"Молочные продукты, сыр, яйца","icon":"https://digitalone.globus.ru/files/cms/category_icons/7f/29/5_l3DpFGFyUysjE8xLD7hD.svg","parent_id":6,"categories":[{"id":2978998,"name":"Молоко и молочные продукты","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/moloko-i-molochnye-produkty-2978998/"},{"id":20119170,"name":"Кисломолочные продукты, творог","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/kislomolochnye-produkty-tvorog-20119170/"},{"id":20119175,"name":"Йогурты, творожки, десерты","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/jogurty-tvorozhki-deserty-20119175/"},{"id":20119191,"name":"Яйца","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/yajcza-20119191/"},{"id":20119186,"name":"Масло сливочное, маргарин","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/maslo-slivochnoe-margarin-20119186/"},{"id":20119176,"name":"Сыры","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/syry-20119176/"},{"id":20121437,"name":"Майонез","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/majonez-20121437/"},{"id":20119199,"name":"Растительные продукты","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/rastitelnye-produkty-20119199/"},{"id":21142130,"name":"Детские молочные продукты","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/detskie-molochnye-produkty-21142130/"},{"id":2687452,"name":"Мороженое","icon":null,"parent_id":10118965,"categories":[],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/morozhenoe-2687452/"}],"url":"/catalog/molochnye-produkty-syr-yajcza-10118965/"},{"id":10121355,"name":"Мясо, птица, колбасы","icon":"https://digitalone.globus.ru/files/cms/category_icons/1f/f2/6_PSYprEPckjHNMGE8WgGb.svg","parent_id":6,"categories":[{"id":20121364,"name":"Мясо","icon":null,"parent_id":10121355,"categories":[],"url":"/catalog/myaso-pticza-kolbasy-10121355/myaso-20121364/"},{"id":20121356,"name":"Мясная гастрономия","icon":null,"parent_id":10121355,"categories":[],"url":"/catalog/myaso-pticza-kolbasy-10121355/myasnaya-gastronomiya-20121356/"},{"id":20121365,"name":"Птица","icon":null,"parent_id":10121355,"categories":[],"url":"/catalog/myaso-pticza-kolbasy-10121355/pticza-20121365/"},{"id":21217429,"name":"Шашлык, гриль из мяса, птицы","icon":null,"parent_id":10121355,"categories":[],"url":"/catalog/myaso-pticza-kolbasy-10121355/shashlyk-gril-iz-myasa-pticy-21217429/"},{"id":21186506,"name":"Растительное мясо и гастрономия","icon":null,"parent_id":10121355,"categories":[],"url":"/catalog/myaso-pticza-kolbasy-10121355/rastitelnoe-myaso-i-gastronomiya-21186506/"}],"url":"/catalog/myaso-pticza-kolbasy-10121355/"},{"id":11191953,"name":"Рыба, икра, морепродукты","icon":"https://digitalone.globus.ru/files/cms/category_icons/f7/28/7_A8OqY8UTsNqMB76SpXmr.svg","parent_id":6,"categories":[{"id":21191959,"name":"Рыба","icon":null,"parent_id":11191953,"categories":[],"url":"/catalog/ryba-ikra-moreprodukty-11191953/ryba-21191959/"},{"id":21191964,"name":"Морепродукты","icon":null,"parent_id":11191953,"categories":[],"url":"/catalog/ryba-ikra-moreprodukty-11191953/moreprodukty-21191964/"},{"id":21191968,"name":"Икра и деликатесы","icon":null,"parent_id":11191953,"categories":[],"url":"/catalog/ryba-ikra-moreprodukty-11191953/ikra-i-delikatesy-21191968/"},{"id":21191974,"name":"Шашлык, гриль из рыбы, морепродуктов","icon":null,"parent_id":11191953,"categories":[],"url":"/catalog/ryba-ikra-moreprodukty-11191953/shashlyk-gril-iz-ryby-moreproduktov-21191974/"}],"url":"/catalog/ryba-ikra-moreprodukty-11191953/"},{"id":11190269,"name":"Роллы, кулинария, готовые блюда","icon":"https://digitalone.globus.ru/files/cms/category_icons/7a/08/8_X2kzsz6h6anG9aLbDX1l.svg","parent_id":6,"categories":[{"id":23639366,"name":"Готовая еда","icon":null,"parent_id":11190269,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/gotovaya-eda-23639366/"},{"id":21190270,"name":"Роллы и суши","icon":null,"parent_id":11190269,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/rolly-i-sushi-21190270/"},{"id":21190271,"name":"Салаты и закуски","icon":null,"parent_id":11190269,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/salaty-i-zakuski-21190271/"},{"id":21190272,"name":"Первые и вторые блюда","icon":null,"parent_id":11190269,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/pervye-i-vtorye-blyuda-21190272/"},{"id":21190273,"name":"Десерты и фруктовые салаты","icon":null,"parent_id":11190269,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/deserty-i-fruktovye-salaty-21190273/"},{"id":21190274,"name":"Блинчики, тесто","icon":null,"parent_id":11190269,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/blinchiki-testo-21190274/"},{"id":21190275,"name":"Овощные наборы","icon":null,"parent_id":11190269,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/ovoshhnye-nabory-21190275/"},{"id":21190276,"name":"Напитки","icon":null,"parent_id":11190269,"categories":[],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/napitki-21190276/"}],"url":"/catalog/rolly-kulinariya-gotovye-blyuda-11190269/"},{"id":10112701,"name":"Хлеб, выпечка","icon":"https://digitalone.globus.ru/files/cms/category_icons/cb/a7/9_2R7ksCANTO0S5b3Krpnt.svg","parent_id":6,"categories":[{"id":21194205,"name":"Наша пекарня","icon":null,"parent_id":10112701,"categories":[],"url":"/catalog/xleb-vypechka-10112701/nasha-pekarnya-21194205/"},{"id":20121609,"name":"Хлеб, лаваш, лепёшки","icon":null,"parent_id":10112701,"categories":[],"url":"/catalog/xleb-vypechka-10112701/xleb-lavash-lepyoshki-20121609/"},{"id":23674759,"name":"Сушки, баранки, сухари","icon":null,"parent_id":10112701,"categories":[],"url":"/catalog/xleb-vypechka-10112701/sushki-baranki-suxari-23674759/"},{"id":20121600,"name":"Хлебные изделия","icon":null,"parent_id":10112701,"categories":[],"url":"/catalog/xleb-vypechka-10112701/xlebnye-izdeliya-20121600/"},{"id":20121613,"name":"Выпечка, пироги","icon":null,"parent_id":10112701,"categories":[],"url":"/catalog/xleb-vypechka-10112701/vypechka-pirogi-20121613/"}],"url":"/catalog/xleb-vypechka-10112701/"},{"id":10112698,"name":"Замороженные продукты","icon":"https://digitalone.globus.ru/files/cms/category_icons/0a/4c/10_kg7HY6vVcr06sCBuFRKd.svg","parent_id":6,"categories":[{"id":20121553,"name":"Замороженная рыба и морепродукты","icon":null,"parent_id":10112698,"categories":[],"url":"/catalog/zamorozhennye-produkty-10112698/zamorozhennaya-ryba-i-moreprodukty-20121553/"},{"id":20121533,"name":"Замороженные фрукты, овощи, смеси","icon":null,"parent_id":10112698,"categories":[],"url":"/catalog/zamorozhennye-produkty-10112698/zamorozhennye-frukty-ovoshhi-smesi-20121533/"},{"id":20121561,"name":"Мороженое и десерты","icon":null,"parent_id":10112698,"categories":[],"url":"/catalog/zamorozhennye-produkty-10112698/morozhenoe-i-deserty-20121561/"},{"id":20121546,"name":"Пицца, блины, тесто","icon":null,"parent_id":10112698,"categories":[],"url":"/catalog/zamorozhennye-produkty-10112698/piczcza-bliny-testo-20121546/"},{"id":20121539,"name":"Пельмени, вареники, хинкали","icon":null,"parent_id":10112698,"categories":[],"url":"/catalog/zamorozhennye-produkty-10112698/pelmeni-vareniki-xinkali-20121539/"},{"id":20121568,"name":"Замороженные блюда и полуфабрикаты","icon":null,"parent_id":10112698,"categories":[],"url":"/catalog/zamorozhennye-produkty-10112698/zamorozhennye-blyuda-i-polufabrikaty-20121568/"}],"url":"/catalog/zamorozhennye-produkty-10112698/"},{"id":10112696,"name":"Бакалея","icon":"https://digitalone.globus.ru/files/cms/category_icons/c0/61/11_uKGbucwJ8g6nzW0kSEDR.svg","parent_id":6,"categories":[{"id":20121432,"name":"Макароны и паста","icon":null,"parent_id":10112696,"categories":[],"url":"/catalog/bakaleya-10112696/makarony-i-pasta-20121432/"},{"id":20121427,"name":"Крупы, бобовые","icon":null,"parent_id":10112696,"categories":[],"url":"/catalog/bakaleya-10112696/krupy-bobovye-20121427/"},{"id":20112723,"name":"Консервы, варенье, мёд","icon":null,"parent_id":10112696,"categories":[],"url":"/catalog/bakaleya-10112696/konservy-varene-myod-20112723/"},{"id":21590613,"name":"Растительные масла","icon":null,"parent_id":10112696,"categories":[],"url":"/catalog/bakaleya-10112696/rastitelnye-masla-21590613/"},{"id":20112726,"name":"Соусы, кетчуп, майонез","icon":null,"parent_id":10112696,"categories":[],"url":"/catalog/bakaleya-10112696/sousy-ketchup-majonez-20112726/"},{"id":20121462,"name":"Мука, всё для выпечки","icon":null,"parent_id":10112696,"categories":[],"url":"/catalog/bakaleya-10112696/muka-vsyo-dlya-vypechki-20121462/"},{"id":20112727,"name":"Соль, сахар, специи","icon":null,"parent_id":10112696,"categories":[],"url":"/catalog/bakaleya-10112696/sol-saxar-specii-20112727/"},{"id":20112724,"name":"Продукты быстрого приготовления","icon":null,"parent_id":10112696,"categories":[],"url":"/catalog/bakaleya-10112696/produkty-bystrogo-prigotovleniya-20112724/"}],"url":"/catalog/bakaleya-10112696/"},{"id":11455208,"name":"Чай, кофе, какао","icon":"https://digitalone.globus.ru/files/cms/category_icons/da/35/12_yyPuEX1EZYWtDmZCeasX.svg","parent_id":6,"categories":[{"id":21472680,"name":"Чай","icon":null,"parent_id":11455208,"categories":[],"url":"/catalog/chaj-kofe-kakao-11455208/chaj-21472680/"},{"id":21472695,"name":"Кофе","icon":null,"parent_id":11455208,"categories":[],"url":"/catalog/chaj-kofe-kakao-11455208/kofe-21472695/"},{"id":20121486,"name":"Какао, горячий шоколад","icon":null,"parent_id":11455208,"categories":[],"url":"/catalog/chaj-kofe-kakao-11455208/kakao-goryachij-shokolad-20121486/"},{"id":20121485,"name":"Цикорий, зерновые напитки","icon":null,"parent_id":11455208,"categories":[],"url":"/catalog/chaj-kofe-kakao-11455208/cikorij-zernovye-napitki-20121485/"}],"url":"/catalog/chaj-kofe-kakao-11455208/"},{"id":13669707,"name":"Сладости","icon":"https://digitalone.globus.ru/files/cms/category_icons/86/68/26_4kXWzX2mtf0axIabiVVN.svg","parent_id":6,"categories":[{"id":23669714,"name":"Торты, пирожные, кексы","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/torty-pirozhnye-keksy-23669714/"},{"id":23669730,"name":"Конфеты","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/konfety-23669730/"},{"id":23669766,"name":"Шоколад","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/shokolad-23669766/"},{"id":23669798,"name":"Печенье, пряники, вафли","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/pechene-pryaniki-vafli-23669798/"},{"id":23669811,"name":"Мармелад, зефир, пастила","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/marmelad-zefir-pastila-23669811/"},{"id":23669830,"name":"Жевательная резинка, мармелад, леденцы","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/zhevatelnaya-rezinka-marmelad-ledency-23669830/"},{"id":23669847,"name":"Восточные сладости","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/vostochnye-sladosti-23669847/"},{"id":23669873,"name":"Шоколадные и ореховые пасты","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/shokoladnye-i-orexovye-pasty-23669873/"},{"id":23669875,"name":"Диетические сладости","icon":null,"parent_id":13669707,"categories":[],"url":"/catalog/sladosti-13669707/dieticheskie-sladosti-23669875/"}],"url":"/catalog/sladosti-13669707/"},{"id":12535972,"name":"Чипсы, снеки, орехи","icon":"https://digitalone.globus.ru/files/cms/category_icons/b5/e9/13_hazdcqZj7oNHc7ZHqBHf.svg","parent_id":6,"categories":[{"id":20121465,"name":"Орехи, сухофрукты, семечки","icon":null,"parent_id":12535972,"categories":[],"url":"/catalog/chipsy-sneki-orexi-12535972/orexi-suxofrukty-semechki-20121465/"},{"id":20121451,"name":"Чипсы, сухарики, снеки","icon":null,"parent_id":12535972,"categories":[],"url":"/catalog/chipsy-sneki-orexi-12535972/chipsy-suxariki-sneki-20121451/"},{"id":22536499,"name":"Попкорн, кукурузные палочки","icon":null,"parent_id":12535972,"categories":[],"url":"/catalog/chipsy-sneki-orexi-12535972/popkorn-kukuruznye-palochki-22536499/"},{"id":22536494,"name":"Батончики","icon":null,"parent_id":12535972,"categories":[],"url":"/catalog/chipsy-sneki-orexi-12535972/batonchiki-22536494/"}],"url":"/catalog/chipsy-sneki-orexi-12535972/"},{"id":1225631,"name":"Алкоголь","icon":"https://digitalone.globus.ru/files/cms/category_icons/47/ab/14_cjcdi2Xd5PbHdd4DXF83.svg","parent_id":6,"categories":[{"id":23393291,"name":"Эксклюзивный алкоголь","icon":null,"parent_id":1225631,"categories":[],"url":"/catalog/alkogol-1225631/eksklyuzivnyj-alkogol-23393291/"},{"id":2225648,"name":"Пиво","icon":null,"parent_id":1225631,"categories":[],"url":"/catalog/alkogol-1225631/pivo-2225648/"},{"id":2225632,"name":"Вино","icon":null,"parent_id":1225631,"categories":[],"url":"/catalog/alkogol-1225631/vino-2225632/"},{"id":21448118,"name":"Шампанское и игристое","icon":null,"parent_id":1225631,"categories":[],"url":"/catalog/alkogol-1225631/shampanskoe-i-igristoe-21448118/"},{"id":2225649,"name":"Крепкий алкоголь","icon":null,"parent_id":1225631,"categories":[],"url":"/catalog/alkogol-1225631/krepkij-alkogol-2225649/"},{"id":2225647,"name":"Сидр, медовуха, коктейли","icon":null,"parent_id":1225631,"categories":[],"url":"/catalog/alkogol-1225631/sidr-medovuxa-koktejli-2225647/"},{"id":21448183,"name":"Подарочные наборы","icon":null,"parent_id":1225631,"categories":[],"url":"/catalog/alkogol-1225631/podarochnye-nabory-21448183/"}],"url":"/catalog/alkogol-1225631/"},{"id":10112699,"name":"Безалкогольные напитки","icon":"https://digitalone.globus.ru/files/cms/category_icons/44/f8/15_9cJtHdWXF1qcYM7ZXhvX.svg","parent_id":6,"categories":[{"id":21108089,"name":"Вода","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/voda-21108089/"},{"id":21108092,"name":"Газированные напитки, тоники","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/gazirovannye-napitki-toniki-21108092/"},{"id":23670109,"name":"Соки, нектары, смузи","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/soki-nektary-smuzi-23670109/"},{"id":21108119,"name":"Морсы, компоты, кисели","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/morsy-kompoty-kiseli-21108119/"},{"id":20121646,"name":"Холодный чай, кофе","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/xolodnyj-chaj-kofe-20121646/"},{"id":20121648,"name":"Энергетические напитки","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/energeticheskie-napitki-20121648/"},{"id":21108133,"name":"Квас, комбуча","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/kvas-kombucha-21108133/"},{"id":21108195,"name":"Растительные напитки","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/rastitelnye-napitki-21108195/"},{"id":21108284,"name":"Напитки без сахара","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/napitki-bez-saxara-21108284/"},{"id":21108273,"name":"Безалкогольное вино и шампанское","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/bezalkogolnoe-vino-i-shampanskoe-21108273/"},{"id":20121640,"name":"Безалкогольное пиво, сидр","icon":null,"parent_id":10112699,"categories":[],"url":"/catalog/bezalkogolnye-napitki-10112699/bezalkogolnoe-pivo-sidr-20121640/"}],"url":"/catalog/bezalkogolnye-napitki-10112699/"},{"id":11656273,"name":"Здоровый выбор","icon":"https://digitalone.globus.ru/files/cms/category_icons/62/4b/16_3MGbiwF8kr0BQ9gndnBE.svg","parent_id":6,"categories":[{"id":21656275,"name":"Органические продукты","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/organicheskie-produkty-21656275/"},{"id":21656292,"name":"Фермерские продукты","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/fermerskie-produkty-21656292/"},{"id":21656302,"name":"Растительные напитки","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/rastitelnye-napitki-21656302/"},{"id":21656307,"name":"Соевые продукты","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/soevye-produkty-21656307/"},{"id":21656470,"name":"Безглютеновые продукты","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/bezglyutenovye-produkty-21656470/"},{"id":21656476,"name":"Молочные безлактозные продукты","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/molochnye-bezlaktoznye-produkty-21656476/"},{"id":21656477,"name":"Продукты без добавления сахара","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/produkty-bez-dobavleniya-saxara-21656477/"},{"id":21656478,"name":"Спортивное питание, аптека","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/sportivnoe-pitanie-apteka-21656478/"},{"id":22417582,"name":"Отруби, клетчатка, добавки","icon":null,"parent_id":11656273,"categories":[],"url":"/catalog/zdorovyj-vybor-11656273/otrubi-kletchatka-dobavki-22417582/"}],"url":"/catalog/zdorovyj-vybor-11656273/"},{"id":10121856,"name":"Детские товары","icon":"https://digitalone.globus.ru/files/cms/category_icons/3f/86/17_KoiQ637837yeQ2e1zpAU.svg","parent_id":6,"categories":[{"id":20121857,"name":"Детское питание","icon":null,"parent_id":10121856,"categories":[],"url":"/catalog/detskie-tovary-10121856/detskoe-pitanie-20121857/"},{"id":21655107,"name":"Напитки для детей","icon":null,"parent_id":10121856,"categories":[],"url":"/catalog/detskie-tovary-10121856/napitki-dlya-detej-21655107/"},{"id":20121865,"name":"Детская гигиена и косметика","icon":null,"parent_id":10121856,"categories":[],"url":"/catalog/detskie-tovary-10121856/detskaya-gigiena-i-kosmetika-20121865/"},{"id":21655113,"name":"Аксессуары для кормления","icon":null,"parent_id":10121856,"categories":[],"url":"/catalog/detskie-tovary-10121856/aksessuary-dlya-kormleniya-21655113/"},{"id":21655171,"name":"Игры и игрушки","icon":null,"parent_id":10121856,"categories":[],"url":"/catalog/detskie-tovary-10121856/igry-i-igrushki-21655171/"},{"id":20121885,"name":"Для беременных и кормящих мам","icon":null,"parent_id":10121856,"categories":[],"url":"/catalog/detskie-tovary-10121856/dlya-beremennyx-i-kormyashhix-mam-20121885/"}],"url":"/catalog/detskie-tovary-10121856/"},{"id":10121838,"name":"Зоотовары","icon":"https://digitalone.globus.ru/files/cms/category_icons/e2/7a/18_1H9VDAQtn6C4qqk5yBB3.svg","parent_id":6,"categories":[{"id":20121839,"name":"Корма","icon":null,"parent_id":10121838,"categories":[],"url":"/catalog/zootovary-10121838/korma-20121839/"},{"id":21159170,"name":"Лакомства","icon":null,"parent_id":10121838,"categories":[],"url":"/catalog/zootovary-10121838/lakomstva-21159170/"},{"id":20121848,"name":"Гигиена и уход","icon":null,"parent_id":10121838,"categories":[],"url":"/catalog/zootovary-10121838/gigiena-i-uxod-20121848/"},{"id":2160167,"name":"Аксессуары и игрушки","icon":null,"parent_id":10121838,"categories":[],"url":"/catalog/zootovary-10121838/aksessuary-i-igrushki-2160167/"}],"url":"/catalog/zootovary-10121838/"},{"id":10121719,"name":"Уборка, бытовая химия","icon":"https://digitalone.globus.ru/files/cms/category_icons/2f/9b/19_CcP4VbU4ovGhkYm01Y0B.svg","parent_id":6,"categories":[{"id":21555497,"name":"Средства для стирки белья","icon":null,"parent_id":10121719,"categories":[],"url":"/catalog/uborka-bytovaya-ximiya-10121719/sredstva-dlya-stirki-belya-21555497/"},{"id":21590285,"name":"Чистящие и моющие средства","icon":null,"parent_id":10121719,"categories":[],"url":"/catalog/uborka-bytovaya-ximiya-10121719/chistyashhie-i-moyushhie-sredstva-21590285/"},{"id":20121710,"name":"Освежители воздуха","icon":null,"parent_id":10121719,"categories":[],"url":"/catalog/uborka-bytovaya-ximiya-10121719/osvezhiteli-vozduxa-20121710/"},{"id":20121724,"name":"Уборка, инвентарь","icon":null,"parent_id":10121719,"categories":[],"url":"/catalog/uborka-bytovaya-ximiya-10121719/uborka-inventar-20121724/"},{"id":21590319,"name":"Мешки для мусора","icon":null,"parent_id":10121719,"categories":[],"url":"/catalog/uborka-bytovaya-ximiya-10121719/meshki-dlya-musora-21590319/"},{"id":20121709,"name":"Уход за обувью и одеждой","icon":null,"parent_id":10121719,"categories":[],"url":"/catalog/uborka-bytovaya-ximiya-10121719/uxod-za-obuvyu-i-odezhdoj-20121709/"},{"id":20121715,"name":"Средства защиты от насекомых","icon":null,"parent_id":10121719,"categories":[],"url":"/catalog/uborka-bytovaya-ximiya-10121719/sredstva-zashhity-ot-nasekomyx-20121715/"}],"url":"/catalog/uborka-bytovaya-ximiya-10121719/"},{"id":10121784,"name":"Косметика и гигиена","icon":"https://digitalone.globus.ru/files/cms/category_icons/28/f6/20_z6wAbck8DKYqu7pf6HzU.svg","parent_id":6,"categories":[{"id":23684187,"name":"Лэтуаль","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/letual-23684187/"},{"id":20121785,"name":"Предметы личной гигиены","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/predmety-lichnoj-gigieny-20121785/"},{"id":20121828,"name":"Уход за волосами","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/uxod-za-volosami-20121828/"},{"id":20121807,"name":"Уход за телом","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/uxod-za-telom-20121807/"},{"id":20121814,"name":"Уход за руками и ногами","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/uxod-za-rukami-i-nogami-20121814/"},{"id":20121822,"name":"Уход за лицом","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/uxod-za-liczom-20121822/"},{"id":2984302,"name":"Мужчинам","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/muzhchinam-2984302/"},{"id":20121834,"name":"Уход за полостью рта","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/uxod-za-polostyu-rta-20121834/"},{"id":2983874,"name":"Всё для бритья и депиляции","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/vsyo-dlya-britya-i-depilyacii-2983874/"},{"id":2976198,"name":"Аптека, контрацепция","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/apteka-kontracepciya-2976198/"},{"id":2153207,"name":"Аксессуары","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/aksessuary-2153207/"},{"id":2981006,"name":"Парфюмерия","icon":null,"parent_id":10121784,"categories":[],"url":"/catalog/kosmetika-i-gigiena-10121784/parfyumeriya-2981006/"}],"url":"/catalog/kosmetika-i-gigiena-10121784/"},{"id":113878028,"name":"Для дачи и сада","icon":"https://digitalone.globus.ru/files/cms/category_icons/d9/27/29_SVcD5ODZP9ThjsLYL80a.svg","parent_id":3,"categories":[{"id":123878031,"name":"Гриль","icon":null,"parent_id":113878028,"categories":[],"url":"/catalog/dlya-dachi-i-sada-113878028/gril-123878031/"},{"id":123878032,"name":"Дачная мебель","icon":null,"parent_id":113878028,"categories":[],"url":"/catalog/dlya-dachi-i-sada-113878028/dachnaya-mebel-123878032/"},{"id":123878033,"name":"Сад","icon":null,"parent_id":113878028,"categories":[],"url":"/catalog/dlya-dachi-i-sada-113878028/sad-123878033/"},{"id":123878035,"name":"Дачная гигиена","icon":null,"parent_id":113878028,"categories":[],"url":"/catalog/dlya-dachi-i-sada-113878028/dachnaya-gigiena-123878035/"},{"id":123878036,"name":"Товары впрок","icon":null,"parent_id":113878028,"categories":[],"url":"/catalog/dlya-dachi-i-sada-113878028/tovary-vprok-123878036/"},{"id":123886879,"name":"Защита от насекомых","icon":null,"parent_id":113878028,"categories":[],"url":"/catalog/dlya-dachi-i-sada-113878028/zashhita-ot-nasekomyx-123886879/"}],"url":"/catalog/dlya-dachi-i-sada-113878028/"},{"id":1225111,"name":"Дом, интерьер","icon":"https://digitalone.globus.ru/files/cms/category_icons/26/c0/21_T69kcevCCWQI2q4J88vs.svg","parent_id":6,"categories":[{"id":20121734,"name":"Товары для кухни","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/tovary-dlya-kuxni-20121734/"},{"id":20121740,"name":"Очищение и хранение воды","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/ochishhenie-i-xranenie-vody-20121740/"},{"id":20121743,"name":"Товары для ванной","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/tovary-dlya-vannoj-20121743/"},{"id":20121729,"name":"Хранение и организация","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/xranenie-i-organizaciya-20121729/"},{"id":20121764,"name":"Освещение, электрика","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/osveshhenie-elektrika-20121764/"},{"id":20121747,"name":"Интерьер","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/interer-20121747/"},{"id":20121752,"name":"Живые растения, аксессуары","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/zhivye-rasteniya-aksessuary-20121752/"},{"id":23900663,"name":"Одноразовая посуда, салфетки, скатерти","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/odnorazovaya-posuda-salfetki-skaterti-23900663/"},{"id":20121773,"name":"Товары для праздника и декор","icon":null,"parent_id":1225111,"categories":[],"url":"/catalog/dom-interer-1225111/tovary-dlya-prazdnika-i-dekor-20121773/"}],"url":"/catalog/dom-interer-1225111/"},{"id":10112712,"name":"Домашний текстиль, гардероб","icon":"https://digitalone.globus.ru/files/cms/category_icons/58/db/22_1fDw9klpeqUkvR7sGICG.svg","parent_id":6,"categories":[{"id":21361921,"name":"Домашний текстиль","icon":null,"parent_id":10112712,"categories":[],"url":"/catalog/domashnij-tekstil-garderob-10112712/domashnij-tekstil-21361921/"},{"id":21361643,"name":"Нижнее бельё","icon":null,"parent_id":10112712,"categories":[],"url":"/catalog/domashnij-tekstil-garderob-10112712/nizhnee-belyo-21361643/"},{"id":20112808,"name":"Одежда","icon":null,"parent_id":10112712,"categories":[],"url":"/catalog/domashnij-tekstil-garderob-10112712/odezhda-20112808/"},{"id":2316022,"name":"Обувь","icon":null,"parent_id":10112712,"categories":[],"url":"/catalog/domashnij-tekstil-garderob-10112712/obuv-2316022/"},{"id":21358490,"name":"Аксессуары","icon":null,"parent_id":10112712,"categories":[],"url":"/catalog/domashnij-tekstil-garderob-10112712/aksessuary-21358490/"},{"id":21371080,"name":"Уход за обувью и одеждой","icon":null,"parent_id":10112712,"categories":[],"url":"/catalog/domashnij-tekstil-garderob-10112712/uxod-za-obuvyu-i-odezhdoj-21371080/"},{"id":2212029,"name":"Чемоданы, рюкзаки, сумки","icon":null,"parent_id":10112712,"categories":[],"url":"/catalog/domashnij-tekstil-garderob-10112712/chemodany-ryukzaki-sumki-2212029/"}],"url":"/catalog/domashnij-tekstil-garderob-10112712/"},{"id":11266364,"name":"Техника, аксессуары","icon":"https://digitalone.globus.ru/files/cms/category_icons/e1/7e/23_uE7diodlKOVwMtl8TSU4.svg","parent_id":6,"categories":[{"id":21266511,"name":"Техника для кухни","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/texnika-dlya-kuxni-21266511/"},{"id":21266578,"name":"Техника для дома","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/texnika-dlya-doma-21266578/"},{"id":21266546,"name":"Техника для красоты и здоровья","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/texnika-dlya-krasoty-i-zdorovya-21266546/"},{"id":21266580,"name":"Климатическая техника","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/klimaticheskaya-texnika-21266580/"},{"id":21266641,"name":"Аудио и видео техника","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/audio-i-video-texnika-21266641/"},{"id":21266619,"name":"Телевизоры и аксессуары","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/televizory-i-aksessuary-21266619/"},{"id":21266645,"name":"Аксессуары для компьютеров","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/aksessuary-dlya-kompyuterov-21266645/"},{"id":21266644,"name":"Аксессуары для смартфонов","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/aksessuary-dlya-smartfonov-21266644/"},{"id":21266639,"name":"Музыкальные инструменты и аксессуары","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/muzykalnye-instrumenty-i-aksessuary-21266639/"},{"id":21266648,"name":"Батарейки и аккумуляторы","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/batarejki-i-akkumulyatory-21266648/"},{"id":21266647,"name":"Игровые консоли","icon":null,"parent_id":11266364,"categories":[],"url":"/catalog/texnika-aksessuary-11266364/igrovye-konsoli-21266647/"}],"url":"/catalog/texnika-aksessuary-11266364/"},{"id":11448308,"name":"Спорт, хобби, канцтовары","icon":"https://digitalone.globus.ru/files/cms/category_icons/d4/7f/25_PJFiK8FpO6Ytt92CPhQn.svg","parent_id":6,"categories":[{"id":21448516,"name":"Канцтовары","icon":null,"parent_id":11448308,"categories":[],"url":"/catalog/sport-xobbi-kancztovary-11448308/kancztovary-21448516/"},{"id":21448473,"name":"Хобби","icon":null,"parent_id":11448308,"categories":[],"url":"/catalog/sport-xobbi-kancztovary-11448308/xobbi-21448473/"},{"id":21448438,"name":"Товары для спорта и отдыха","icon":null,"parent_id":11448308,"categories":[],"url":"/catalog/sport-xobbi-kancztovary-11448308/tovary-dlya-sporta-i-otdyxa-21448438/"},{"id":21448528,"name":"Книги и журналы","icon":null,"parent_id":11448308,"categories":[],"url":"/catalog/sport-xobbi-kancztovary-11448308/knigi-i-zhurnaly-21448528/"}],"url":"/catalog/sport-xobbi-kancztovary-11448308/"},{"id":1985089,"name":"Авто, дача, ремонт","icon":"https://digitalone.globus.ru/files/cms/category_icons/f2/0a/24_hptf62LgNPqdEjDsbwnw.svg","parent_id":6,"categories":[{"id":2989406,"name":"Авто","icon":null,"parent_id":1985089,"categories":[],"url":"/catalog/avto-dacha-remont-1985089/avto-2989406/"},{"id":2990355,"name":"Ремонт","icon":null,"parent_id":1985089,"categories":[],"url":"/catalog/avto-dacha-remont-1985089/remont-2990355/"},{"id":2985110,"name":"Дача и барбекю","icon":null,"parent_id":1985089,"categories":[],"url":"/catalog/avto-dacha-remont-1985089/dacha-i-barbekyu-2985110/"},{"id":2989336,"name":"Сад, огород","icon":null,"parent_id":1985089,"categories":[],"url":"/catalog/avto-dacha-remont-1985089/sad-ogorod-2989336/"},{"id":23888016,"name":"Доставляем тяжёлое","icon":null,"parent_id":1985089,"categories":[],"url":"/catalog/avto-dacha-remont-1985089/dostavlyaem-tyazhyoloe-23888016/"}],"url":"/catalog/avto-dacha-remont-1985089/"}],"set_menu":[{"id":2,"name":"Только онлайн","icon":"https://digitalone.globus.ru/files/cms/extra_sections/53/c7/2_jNncwPOCWrAFbiU2kqCO.svg","url":"/catalog/skidki-tolko-v-onlajn-113776472","color":"#ff0000","location":1},{"id":8,"name":"Отдыхаем активно","icon":"https://digitalone.globus.ru/files/cms/extra_sections/fa/51/8_b45oISPMyLM9Uhxkj8sG.svg","url":"/catalog/vse-dlya-dachi-i-otdyxa-113864911?erid=LatgCAD1P","color":"#F98E04","location":1},{"id":1,"name":"Для дачи и сада","icon":"https://digitalone.globus.ru/files/cms/extra_sections/54/41/1_Ezb7Tdicm3rXfyTwagX9.svg","url":"https://online.globus.ru/catalog/dlya-dachi-i-sada-113878028","color":"#009639","location":1},{"id":5,"name":"Работа у нас","icon":"https://digitalone.globus.ru/files/cms/extra_sections/de/fc/5_U6kM6oXkGKK2j6B1wuSm.svg","url":"https://rabota.globus.ru/career/?division=division-all\u0026utm_source=im\u0026utm_medium=organic\u0026utm_campaign=rabota\u0026utm_content=menu_catalog","color":"#333333","location":1}]},"basket":{"count":0,"basket_price":0,"basket_cost":0,"store_min_basket":0,"store_free_delivery":0,"products":[]},"favorites":0}},"dataUpdateCount":1,"dataUpdatedAt":1717529689801,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["header",{"include":["menu"]}],"queryHash":"[\"header\",{\"include\":[\"menu\"]}]"},{"state":{"data":{"data":{"help":{"telegram":null,"whats_app":null},"networks":{"telegram_channel":null,"vkontakte":"https://new.vk.com/globusru","instagram":null,"facebook":null,"youtube":null}}},"dataUpdateCount":1,"dataUpdatedAt":1717529689782,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["socials"],"queryHash":"[\"socials\"]"},{"state":{"data":{"data":[{"id":3,"created_at":"2024-03-13T07:30:41.000000Z","updated_at":"2024-04-15T08:54:35.000000Z","name":"О компании","url":"/page/company","location":"about","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/99/a5/3_m22pQ0ya8ZvdydcMU4HD.svg","sorting":1},{"id":19,"created_at":"2024-03-18T14:45:40.000000Z","updated_at":"2024-04-15T08:54:52.000000Z","name":"Как забрать заказ","url":"/page/kak-zabrat-zakaz","location":"customers","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/39/d6/19_7iA8dsFEjPXPnq2SqtzV.svg","sorting":2},{"id":20,"created_at":"2024-03-18T14:48:27.000000Z","updated_at":"2024-03-27T06:58:30.000000Z","name":"Способы оплаты","url":"/page/delivery/sposoby-oplaty","location":"customers","icon":null,"sorting":3},{"id":21,"created_at":"2024-03-18T14:55:14.000000Z","updated_at":"2024-04-15T08:55:17.000000Z","name":"Возврат товаров","url":"/page/delivery/terms-of-return","location":"customers","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/0f/49/21_b6fr1Cxj5anuQ22tFjb5.svg","sorting":4},{"id":25,"created_at":"2024-03-20T10:45:15.000000Z","updated_at":"2024-04-15T08:55:29.000000Z","name":"О самовывозе","url":"/page/o-samovyvoze","location":"customers","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/1a/4a/25_o52mOQk22hnrTa400LXR.svg","sorting":5},{"id":24,"created_at":"2024-03-20T10:45:15.000000Z","updated_at":"2024-04-03T15:59:13.000000Z","name":"О доставке","url":"/page/o-dostavke","location":"customers","icon":null,"sorting":6},{"id":23,"created_at":"2024-03-20T10:37:55.000000Z","updated_at":"2024-04-15T08:57:09.000000Z","name":"Соглашение на обработку персональных данных","url":"/page/personalnye-dannye","location":"agreements","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/ab/db/23_hSMD3E4WcKLqj3eOUwTd.svg","sorting":7},{"id":18,"created_at":"2024-03-18T14:40:31.000000Z","updated_at":"2024-04-15T08:57:18.000000Z","name":"Политика обработки персональных данных","url":"/page/personalnye-dannye-politika","location":"agreements","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/96/6e/18_PjEvnfsyFOU8n2y3qYpv.svg","sorting":8},{"id":30,"created_at":"2024-03-26T11:55:00.000000Z","updated_at":"2024-04-15T08:57:25.000000Z","name":"Пользовательское соглашение","url":"/page/polzovatelskoe-soglashenie","location":"agreements","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/72/96/30_s1oHS86iHxOKXju4wqkG.svg","sorting":9},{"id":31,"created_at":"2024-03-26T11:55:00.000000Z","updated_at":"2024-04-15T08:57:50.000000Z","name":"Правила применения промокодов","url":"/page/promokod","location":"customers","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/25/eb/31_QMhkdnS2qFErYXq3PUhR.svg","sorting":10},{"id":34,"created_at":"2024-03-26T11:55:00.000000Z","updated_at":"2024-04-15T08:57:45.000000Z","name":"Скидки по бонусной карте","url":"/page/about-loyal-card","location":"customers","icon":"https://digitalone.globus.ru/files/cms/menu-customer-item/2b/8b/34_6jdk5PvlJd7YM0XGCe6J.svg","sorting":11},{"id":33,"created_at":"2024-03-26T11:55:00.000000Z","updated_at":"2024-04-03T15:59:13.000000Z","name":"Правила применения рекомендательных технологий","url":"/page/recommendation-rules/","location":"customers","icon":null,"sorting":12},{"id":22,"created_at":"2024-03-20T09:59:17.000000Z","updated_at":"2024-03-27T07:49:01.000000Z","name":"Контакты","url":"/page/contacts","location":"about","icon":null,"sorting":13}]},"dataUpdateCount":1,"dataUpdatedAt":1717529689779,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["menu-customer-items"],"queryHash":"[\"menu-customer-items\"]"},{"state":{"data":{"data":{"pvz":[{"name":"Глобус Климовск","full_addr":"Московская обл., г. Подольск, мкрн Климовск, ул. Молодежная, д. 11","location":{"latitude":55.385214,"longitude":37.545558},"schedule":"Открыто до 00:00","applied":false,"id":1,"location_map_url":"https://image.globus.ru/icons/hypermarkets/maps/skhema_Klimovsk.jpg"},{"name":"Глобус Пушкино","full_addr":"Московская обл., Пушкино, Красноармейское ш., вл. 105","location":{"latitude":56.018909,"longitude":37.887518},"schedule":"Открыто до 00:00","applied":false,"id":3,"location_map_url":"https://image.globus.ru/icons/hypermarkets/maps/skhema_Pushkino.jpg"},{"name":"Глобус Медведково","full_addr":"127282, г. Москва, м. Медведково, ул. Широкая, 2а","location":{"latitude":55.887401,"longitude":37.638354},"schedule":"Закрыто до 5 июня","applied":false,"id":4,"location_map_url":"https://image.globus.ru/icons/hypermarkets/maps/skhema_MDV.jpg"},{"name":"Глобус Одинцово","full_addr":"143081, Московская обл., Одинцовский г.о., Юдино с., д. 55Е","location":{"latitude":55.655867,"longitude":37.177234},"schedule":"Закрыто до 5 июня","applied":false,"id":9,"location_map_url":null},{"name":"Глобус Косино","full_addr":"Москва, ТРЦ Город Косино, ул. Новоухтомское шоссе 2А","location":{"latitude":55.713792,"longitude":37.844173},"schedule":"Открыто до 00:00","applied":false,"id":5,"location_map_url":"https://image.globus.ru/icons/hypermarkets/maps/karta_podezda_k_GM_Kosino_kvadratnaya.jpg"},{"name":"Глобус Красногорск","full_addr":"143420, Россия, г. Москва, вн.тер.г. муниципальный округ Кунцево, Новорижское шоссе 22-й км, д. 1 стр. 1","location":{"latitude":55.802401,"longitude":37.300152},"schedule":"Открыто до 00:00","applied":true,"id":2,"location_map_url":"https://image.globus.ru/icons/hypermarkets/maps/krs_scheme.jpg"},{"name":"Глобус Королев","full_addr":"Московская обл., г. Королев, ул. Коммунальная, д. 1","location":{"latitude":55.915419,"longitude":37.84628},"schedule":"Закрыто до 5 июня","applied":false,"id":7,"location_map_url":null},{"name":"Глобус Тверь","full_addr":"Тверь, Октябрьский пр-т, д. 101","location":{"latitude":56.81612,"longitude":35.88608},"schedule":"Закрыто до 5 июня","applied":false,"id":6,"location_map_url":"https://image.globus.ru/icons/hypermarkets/maps/skhema_Tver.jpg"},{"name":"Глобус Котельники","full_addr":"Московская обл., г. Котельники, Новорязанское ш., д. 24","location":{"latitude":55.658464,"longitude":37.886401},"schedule":"Закрыто до 5 июня","applied":false,"id":8,"location_map_url":null}],"notifications":[]}},"dataUpdateCount":1,"dataUpdatedAt":1717529689772,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["directories-pvz"],"queryHash":"[\"directories-pvz\"]"},{"state":{"data":{"data":{"alt":""}},"dataUpdateCount":1,"dataUpdatedAt":1717529689770,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["seo-image-attributes"],"queryHash":"[\"seo-image-attributes\"]"},{"state":{"data":{"data":{"seo":{"header":"","title":" — купить в Москве в интернет-магазине «GLOBUS»","description":" — купить в Москве в интернет-магазине «GLOBUS». Купить  по цене от  руб., производитель {название бренда}.","seo_text":""}}},"dataUpdateCount":1,"dataUpdatedAt":1717529689736,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["cms-page-meta",{"url":"/products/govyazhya-noga-na-kosti-1-upakovka-500-950-g","type":3,"seo_variables":{"product_id":"govyazhya-noga-na-kosti-1-upakovka-500-950-g"}}],"queryHash":"[\"cms-page-meta\",{\"seo_variables\":{\"product_id\":\"govyazhya-noga-na-kosti-1-upakovka-500-950-g\"},\"type\":3,\"url\":\"/products/govyazhya-noga-na-kosti-1-upakovka-500-950-g\"}]"},{"state":{"data":{"data":{"product":{"name":"Говяжья нога на кости, на подложке уп, 700-900 г","images":["https://image.globus.ru/mobile/06/03/410603.jpg"],"image_gallery":[{"low_src":"https://image.globus.ru/mobile/06/03/410603.jpg","src":"https://image.globus.ru/web/06/03/410603.jpg"}],"active_true_text":"todo","active_false_text":null,"information_text":"Итоговая стоимость может измениться в зависимости от веса","disclaimer_text":null,"law_notification":null,"vendor_code":"44679002","is_charity":false,"store_department":null,"brand":null,"food_energy":{"energy":"168,5","protein":"17,6","fat":"10,9","carbohydrate":"-"},"shelf_life":{"title":"Срок годности и температура хранения","items":[{"id":"atr_ru_shelf_life_val_uom","name":"Срок годности","value":["36 часов"],"is_primary":false},{"id":"atr_ru_shelflife_temperature1_formula","name":"Температура хранения","value":["от 0 до +6 °C"],"is_primary":false},{"id":"atr_ru_storage_conditions","name":"Условия хранения","value":["Хранить при относительной влажности не более 75 %."],"is_primary":false}]},"attribute_groups":[{"title":"О товаре","items":[{"id":"atr_ru_ingredients_list","name":"Состав","value":["говядина с костью"],"is_primary":true},{"id":"atr_ru_preparation_type","name":"Способ приготовления","value":["Продукт требует термической обработки до полной кулинарной готовности."],"is_primary":true},{"id":"atr_ru_cut_type","name":"Тип разделки","value":["кусок"],"is_primary":false},{"id":"atr_ru_beef_part","name":"Часть туши","value":["голяшка; рулька"],"is_primary":false},{"id":"atr_ru_chilled_meat_type","name":"Вид мяса","value":["говядина"],"is_primary":false},{"id":"atr_ru_standart_and_numeric","name":"Стандарт","value":["ТУ 10.13.14-006-75524689-2019"],"is_primary":false},{"id":"atr_ru_packaging_type","name":"Вид упаковки","value":["подложка"],"is_primary":false},{"id":"atr_ru_packing_material","name":"Материал упаковки","value":["вспененный полистирол"],"is_primary":false},{"id":"atr_pt_country_of_origin","name":"Страна-производитель","value":["Россия"],"is_primary":false},{"id":"atr_ru_producer","name":"Производитель","value":["ООО \"Гиперглобус\""],"is_primary":false}]},{"title":"Данные артикула","items":[{"id":"atr_ext_var_nr","name":"Номер артикула","value":["44679002"],"is_primary":false}]}],"about_product_attributes":{"title":"О товаре","items":[{"id":"atr_ru_ingredients_list","name":"Состав","value":["говядина с костью"],"is_primary":true},{"id":"atr_ru_preparation_type","name":"Способ приготовления","value":["Продукт требует термической обработки до полной кулинарной готовности."],"is_primary":true},{"id":"atr_ru_cut_type","name":"Тип разделки","value":["кусок"],"is_primary":false},{"id":"atr_ru_beef_part","name":"Часть туши","value":["голяшка; рулька"],"is_primary":false},{"id":"atr_ru_chilled_meat_type","name":"Вид мяса","value":["говядина"],"is_primary":false},{"id":"atr_ru_standart_and_numeric","name":"Стандарт","value":["ТУ 10.13.14-006-75524689-2019"],"is_primary":false},{"id":"atr_ru_packaging_type","name":"Вид упаковки","value":["подложка"],"is_primary":false},{"id":"atr_ru_packing_material","name":"Материал упаковки","value":["вспененный полистирол"],"is_primary":false},{"id":"atr_pt_country_of_origin","name":"Страна-производитель","value":["Россия"],"is_primary":false},{"id":"atr_ru_producer","name":"Производитель","value":["ООО \"Гиперглобус\""],"is_primary":false}]},"storage_conditions_attributes":{"title":"Срок годности и температура хранения","items":[{"id":"atr_ru_shelf_life_val_uom","name":"Срок годности","value":["36 часов"],"is_primary":false},{"id":"atr_ru_shelflife_temperature1_formula","name":"Температура хранения","value":["от 0 до +6 °C"],"is_primary":false},{"id":"atr_ru_storage_conditions","name":"Условия хранения","value":["Хранить при относительной влажности не более 75 %."],"is_primary":false}]},"description_attribute":{"id":"description","name":"Описание","value":["Произведено из охлажденного мяса.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eО собственном производстве Глобус\u003c/b\u003e\u003cbr/\u003eМясной цех есть в каждом гипермаркете «Глобус», и каждый полностью оборудован для прохождения всех этапов производства: приемки свежего мяса, разделки, приготовления полуфабрикатов и колбасных фаршей, варки колбас и сосисок, копчения, запекания деликатесов.\u003cbr/\u003eНаши поставщики мяса - это проверенные современные фермерские хозяйства центральной России, продукция которых отвечает строгим требованиям европейской системы контроля качества и безопасности.\u003cbr/\u003eНаша мясная продукция производится по традиционным рецептам «Глобус» с использованием немецких технологий. Ежедневно мы делаем ровно столько, сколько вы покупаете. Объем производимых колбас, сосисок, деликатесов и мясных полуфабрикатов рассчитан с учетом спроса в течение дня."],"is_primary":false},"purchase_terms_attribute":{"id":"atr_receipt_and_payment","name":"Условия покупки","value":["Внешний вид товара может отличаться от его изображения в интернет-магазине. \u003cbr/\u003eНа фотографии представлен образец представления/сервировки продукта. \u003cbr/\u003eВес товара при формировании заказа может отклоняться в большую или меньшую сторону на 20% от среднего веса 0,8 кг выбранной позиции товара."],"is_primary":false},"inscription_possible":false,"active":true,"active_text":null,"package_type":"weight-by-piece","weight_text":"1 уп ~0.8 кг","price_per":"749,99 ₽ / 1 кг","order_price":59999,"is_favorite":false,"state_id":1,"badges":[{"type":3,"display_text":"","code":"atr_own_production_prg40","group":3,"priority":1,"icon":"https://digitalone.globus.ru/files/cms/badges/47/1d/5_RriK9ANcTPpGpXZ75kzF.svg","text":"","values":["true"],"flag_icon":null}],"is_adult":false,"is_available_other_store":null,"promotion":null,"ean":"286383","id":"000000000000044679_KG","unit_basket_text":"уп","unit_price_text":"1 кг","basket_step":1,"basket_min_volume":1,"price":74999,"cost":null,"quantity":0,"quantity_max":10,"main_category_id":3220318,"url":"/products/govyazhya-noga-na-kosti-na-podlozhke-up-700-900-g-44679_KG/"}},"context_hash":"917de84a81025b12366c1a174f615a63"},"dataUpdateCount":1,"dataUpdatedAt":1717529689950,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["product-detail",{"id":"govyazhya-noga-na-kosti-1-upakovka-500-950-g","url":"/products/govyazhya-noga-na-kosti-1-upakovka-500-950-g/"}],"queryHash":"[\"product-detail\",{\"id\":\"govyazhya-noga-na-kosti-1-upakovka-500-950-g\",\"url\":\"/products/govyazhya-noga-na-kosti-1-upakovka-500-950-g/\"}]"},{"state":{"data":{"data":{"viewed_products_tape":[{"preview_image":"https://image.globus.ru/mobile/06/03/410603.jpg","name_optional":"Говяжья нога на кости, на подложке уп,","name_required":"700-900 г","active":true,"active_text":null,"package_type":"weight-by-piece","weight_text":"1 уп ~0.8 кг","price_per":"749,99 ₽ / 1 кг","order_price":59999,"is_favorite":false,"state_id":1,"badges":[{"type":3,"display_text":"","code":"atr_own_production_prg40","group":3,"priority":1,"icon":"https://digitalone.globus.ru/files/cms/badges/47/1d/5_RriK9ANcTPpGpXZ75kzF.svg","text":"","values":["true"],"flag_icon":null}],"is_adult":false,"is_available_other_store":null,"promotion":null,"ean":"286383","id":"000000000000044679_KG","unit_basket_text":"уп","unit_price_text":"1 кг","basket_step":1,"basket_min_volume":1,"price":74999,"cost":null,"quantity":0,"quantity_max":0,"main_category_id":3220318,"url":"/products/govyazhya-noga-na-kosti-na-podlozhke-up-700-900-g-44679_KG/"},{"preview_image":"https://image.globus.ru/mobile/04/09/400409.jpg","name_optional":"Грудинка говяжья на кости, на подложке уп,","name_required":"500-700 г","active":true,"active_text":null,"package_type":"weight-by-piece","weight_text":"1 уп ~0.6 кг","price_per":"539,99 ₽ / 1 кг","order_price":32399,"is_favorite":false,"state_id":1,"badges":[{"type":3,"display_text":"","code":"atr_own_production_prg40","group":3,"priority":1,"icon":"https://digitalone.globus.ru/files/cms/badges/47/1d/5_RriK9ANcTPpGpXZ75kzF.svg","text":"","values":["true"],"flag_icon":null}],"is_adult":false,"is_available_other_store":null,"promotion":null,"ean":"286376","id":"000000000000044676_KG","unit_basket_text":"уп","unit_price_text":"1 кг","basket_step":1,"basket_min_volume":1,"price":53999,"cost":null,"quantity":0,"quantity_max":0,"main_category_id":3220318,"url":"/products/grudinka-govyazhya-na-kosti-na-podlozhke-up-500-700-g-44676_KG/"}]}},"dataUpdateCount":1,"dataUpdatedAt":1717529690093,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["content",{"block_types":[{"block_type":"viewed_products_tape"},{"block_type":"popular_tape","product_id":"govyazhya-noga-na-kosti-1-upakovka-500-950-g"},{"block_type":"already_bought_tape"}]}],"queryHash":"[\"content\",{\"block_types\":[{\"block_type\":\"viewed_products_tape\"},{\"block_type\":\"popular_tape\",\"product_id\":\"govyazhya-noga-na-kosti-1-upakovka-500-950-g\"},{\"block_type\":\"already_bought_tape\"}]}]"},{"state":{"data":{"data":{"filters":[{"id":11,"name":"Бренд","type":2,"min_value":0,"max_value":0,"step":0,"min_value_checked":0,"max_value_checked":0,"values":[{"id":"15161","value":"Глобус","count":3,"is_checked":false}]},{"id":2147483647,"name":"Цена","type":1,"min_value":11,"max_value":1200,"step":1,"min_value_checked":0,"max_value_checked":0,"values":[]},{"id":83,"name":"Вид мяса","type":2,"min_value":0,"max_value":0,"step":0,"min_value_checked":0,"max_value_checked":0,"values":[{"id":"баранина","value":"баранина","count":4,"is_checked":false},{"id":"говядина","value":"говядина","count":15,"is_checked":false},{"id":"свинина","value":"свинина","count":21,"is_checked":false}]},{"id":4244,"name":"Тип разделки","type":2,"min_value":0,"max_value":0,"step":0,"min_value_checked":0,"max_value_checked":0,"values":[{"id":"кусок","value":"кусок","count":24,"is_checked":false},{"id":"мелкокусковая нарезка","value":"мелкокусковая нарезка","count":7,"is_checked":false},{"id":"порционная нарезка","value":"порционная нарезка","count":7,"is_checked":false}]},{"id":4257,"name":"Часть туши","type":2,"min_value":0,"max_value":0,"step":0,"min_value_checked":0,"max_value_checked":0,"values":[{"id":"вырезка","value":"вырезка","count":2,"is_checked":false},{"id":"голяшка; рулька","value":"голяшка; рулька","count":4,"is_checked":false},{"id":"грудинка","value":"грудинка","count":7,"is_checked":false},{"id":"корейка","value":"корейка","count":4,"is_checked":false},{"id":"костерец; крестец","value":"костерец; крестец","count":1,"is_checked":false},{"id":"кости","value":"кости","count":2,"is_checked":false},{"id":"лопатка","value":"лопатка","count":7,"is_checked":false},{"id":"окорок","value":"окорок","count":4,"is_checked":false},{"id":"ребрышки","value":"ребрышки","count":2,"is_checked":false},{"id":"тазобедренная часть","value":"тазобедренная часть","count":3,"is_checked":false},{"id":"толстый край","value":"толстый край","count":3,"is_checked":false},{"id":"тонкий край","value":"тонкий край","count":1,"is_checked":false},{"id":"шейка","value":"шейка","count":7,"is_checked":false}]},{"id":4252,"name":"На кости","type":2,"min_value":0,"max_value":0,"step":0,"min_value_checked":0,"max_value_checked":0,"values":[{"id":"Да","value":"Да","count":8,"is_checked":false},{"id":"Нет","value":"Нет","count":4,"is_checked":false}]},{"id":4258,"name":"Со шкурой","type":2,"min_value":0,"max_value":0,"step":0,"min_value_checked":0,"max_value_checked":0,"values":[{"id":"Да","value":"Да","count":1,"is_checked":false},{"id":"Нет","value":"Нет","count":37,"is_checked":false}]}],"categories":[{"id":10121409,"name":"Собственное производство","count":143,"is_checked":false,"category_level":1,"url":"/catalog/sobstvennoe-proizvodstvo-10121409/","categories":[{"id":20121410,"name":"Мясной цех","count":143,"is_checked":false,"category_level":2,"url":"/catalog/sobstvennoe-proizvodstvo-10121409/myasnoj-cex-20121410/","categories":[{"id":3220322,"name":"Деликатесы","count":19,"is_checked":false,"category_level":3,"url":"/catalog/sobstvennoe-proizvodstvo-10121409/myasnoj-cex-20121410/delikatesy-3220322/","categories":[]},{"id":3220321,"name":"Колбаса, ветчина, сосиски","count":60,"is_checked":false,"category_level":3,"url":"/catalog/sobstvennoe-proizvodstvo-10121409/myasnoj-cex-20121410/kolbasa-vetchina-sosiski-3220321/","categories":[]},{"id":3220318,"name":"Охлаждённое мясо","count":40,"is_checked":true,"category_level":3,"url":"/catalog/sobstvennoe-proizvodstvo-10121409/myasnoj-cex-20121410/oxlazhdyonnoe-myaso-3220318/","categories":[]},{"id":31483587,"name":"Фарш и полуфабрикаты","count":24,"is_checked":false,"category_level":3,"url":"/catalog/sobstvennoe-proizvodstvo-10121409/myasnoj-cex-20121410/farsh-i-polufabrikaty-31483587/","categories":[]}]}]}],"tabs":[],"tags":[]},"context_hash":"917de84a81025b12366c1a174f615a63"},"dataUpdateCount":1,"dataUpdatedAt":1717529690435,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["catalog-filters",{"category_id":3220318}],"queryHash":"[\"catalog-filters\",{\"category_id\":3220318}]"}]},"seoMeta":{"header":"","title":" — купить в Москве в интернет-магазине «GLOBUS»","description":" — купить в Москве в интернет-магазине «GLOBUS». Купить  по цене от  руб., производитель {название бренда}.","seo_text":""}},"__N_SSP":true},"page":"/products/[productId]","query":{"productId":"govyazhya-noga-na-kosti-1-upakovka-500-950-g"},"buildId":"IWGLUsHQPuicnv-92Nc-U","runtimeConfig":{"browserAPIHost":"https://digitalone.globus.ru/d1-mobile-bff","ymapsAPIKey":"e4f3ce0f-47f5-4009-b56b-8c2722487def","ymapsSuggestAPIKey":"de0f1c23-fa51-458b-89ae-beb92df09dcd","gtmId":"GTM-PJZW96N","basePath":"","chatURL":"https://chatservice.globus.ru/chat/frontend/"},"isFallback":false,"gssp":true,"appGip":true,"scriptLoader":[]}
+   {"props":{"pageProps":{"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36","environments":{"reCaptchaSiteKey":"6Lek0yIpAAAAAG4b7I-ZYJbwc7qiiLvXiE0dl8Bu","ymapsAPIKey":"e4f3ce0f-47f5-4009-b56b-8c2722487def","ymapsSuggestAPIKey":"de0f1c23-fa51-458b-89ae-beb92df09dcd","environment":"","host":"online.globus.ru"},"isSSR":true,"uuid":"","token":"","dehydratedState":{"mutations":[],"queries":[{"state":{"data":{"data":{"seo":{"header":"","title":" — купить в Москве в интернет-магазине «GLOBUS»","description":" — купить в Москве в интернет-магазине «GLOBUS». Купить  по цене от  руб., производитель {название бренда}.","seo_text":""}}},"dataUpdateCount":1,"dataUpdatedAt":1717531151915,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchMeta":null,"isFetching":false,"isInvalidated":false,"isPaused":false,"status":"success"},"queryKey":["cms-page-meta",{"url":"/products/govyazhya-grudinka-na-kosti-1-upakovka-350-650-g","type":3,"seo_variables":{"product_id":"govyazhya-grudinka-na-kosti-1-upakovka-350-650-g"}}],"queryHash":"[\"cms-page-meta\",{\"seo_variables\":{\"product_id\":\"govyazhya-grudinka-na-kosti-1-upakovka-350-650-g\"},\"type\":3,\"url\":\"/products/govyazhya-grudinka-na-kosti-1-upakovka-350-650-g\"}]"}]},"seoMeta":{"header":"","title":" — купить в Москве в интернет-магазине «GLOBUS»","description":" — купить в Москве в интернет-магазине «GLOBUS». Купить  по цене от  руб., производитель {название бренда}.","seo_text":""}},"__N_SSP":true},"page":"/products/[productId]","query":{"productId":"govyazhya-grudinka-na-kosti-1-upakovka-350-650-g"},"buildId":"IWGLUsHQPuicnv-92Nc-U","runtimeConfig":{"browserAPIHost":"https://digitalone.globus.ru/d1-mobile-bff","ymapsAPIKey":"e4f3ce0f-47f5-4009-b56b-8c2722487def","ymapsSuggestAPIKey":"de0f1c23-fa51-458b-89ae-beb92df09dcd","gtmId":"GTM-PJZW96N","basePath":"","chatURL":"https://chatservice.globus.ru/chat/frontend/"},"isFallback":false,"gssp":true,"appGip":true,"scriptLoader":[]}
   </script>
-  <script id="" type="text/javascript">
-   (function(b,e,f,g,c,a,d){b[c]=b[c]||function(){(b[c].a=b[c].a||[]).push(arguments)};b[c].l=1*new Date;for(a=0;a<document.scripts.length;a++)if(document.scripts[a].src===g)return;a=e.createElement(f);d=e.getElementsByTagName(f)[0];a.async=1;a.src=g;d.parentNode.insertBefore(a,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(96742988,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,ecommerce:"dataLayer",params:google_tag_manager["rm"]["102125980"](15)});
-  </script>
-  <noscript>
-   <div>
-    <img alt="" src="https://mc.yandex.ru/watch/96742988" style="position:absolute; left:-9999px;"/>
-   </div>
-  </noscript>
-  <div style="display: none; visibility: hidden;">
-   <script async="async" src="https://api.flocktory.com/v2/loader.js?site_id=3530" type="text/javascript">
-   </script>
-  </div>
-  <script id="advcakeAsync" type="text/javascript">
-   (function(a){var b=a.createElement("script");b.async=1;b.src="//code.18wosx.ru/";a=a.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})(document);
-  </script>
-  <script id="" type="text/javascript">
-   var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"undefined",type:"pageView",start:(new Date).getTime(),pid:"USER_ID"});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"topmailru-code");
-  </script>
-  <script id="" type="text/javascript">
-   !function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://vk.com/js/api/openapi.js?169";a.onload=function(){VK.Retargeting.Init("undefined");VK.Retargeting.Hit()};document.head.appendChild(a)}();
-  </script>
-  <noscript>
-   <img alt="" src="https://vk.com/rtrg?p=undefined" style="position:fixed; left:-999px;"/>
-  </noscript>
-  <script id="" type="text/javascript">
-   var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"3220415",type:"pageView",start:(new Date).getTime()});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"tmr-code");
-  </script>
-  <noscript>
-   <div>
-    <img alt="Top.Mail.Ru" src="https://top-fwz1.mail.ru/counter?id=3220415;js=na" style="position:absolute;left:-9999px;"/>
-   </div>
-  </noscript>
-  <script id="" type="text/javascript">
-   !function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://vk.com/js/api/openapi.js?169";a.onload=function(){VK.Retargeting.Init("VK-RTRG-1807015-hlHPg");VK.Retargeting.Hit()};document.head.appendChild(a)}();
-  </script>
-  <noscript>
-   <img alt="" src="https://vk.com/rtrg?p=VK-RTRG-1807015-hlHPg" style="position:fixed; left:-999px;"/>
-  </noscript>
-  <div style="display: none; visibility: hidden;">
-   <script>
-    (function(b,a,c,f,e){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)};var d=a.createElement(e);a=a.getElementsByTagName(e)[0];d.async=!0;d.src=f;a.parentNode.insertBefore(d,a)})(window,document,"DSPCounter","//tags.soloway.ru/DSPCounter.min.js","script");
-   </script>
-   <script>
-    var uid="";"undefined"!=typeof google_tag_manager["rm"]["102125980"](20)&&(uid=google_tag_manager["rm"]["102125980"](24));DSPCounter("firstSend",{sid:223919,custom:{153:uid,157:"client_id"}});
-   </script>
-  </div>
-  <script id="" type="text/javascript">
-   "undefined"===typeof __GetI&&(__GetI=[]);(function(){var a={type:"VIEW",site_id:"9074",product_id:"",product_price:"",category_id:"",pixel_id:"Tracking"};__GetI.push(a);a="undefined"==typeof __GetI_domain?"px.adhigh.net":__GetI_domain;var b=("https:"==document.location.protocol?"https://":"http://")+a+"/t.js";a=document.createElement("script");a.type="text/javascript";a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
-  </script>
-  <script id="" type="text/javascript">
-   !function(c,d){function k(a,b,g){b=b||"\x26";g=g||"\x3d";var f=[],h;for(h in a)a.hasOwnProperty(h)&&f.push(h+g+encodeURIComponent(a[h]));return f.join(b)}function e(a,b){return(a=a.cookie.match("(^|;) ?"+b+"\x3d([^;]*)(;|$)"))?decodeURIComponent(a[2]):null}var l;var m=document.domain;var n={tail256:document.referrer||"unknown"};void 0!==(l=function(a){var b={};if(a){a=a.split("\x26");for(var g in a)if(a.hasOwnProperty(g)){var f=a[g].split("\x3d");void 0!==f[0]&&void 0!==f[1]&&(b[f[0]]=decodeURIComponent(f[1]))}}return b}(window.location.search.substring(1))).adrclid&&
-(c.fsid=l.adrclid);null!==e(document,"adrcid")&&(c.cid=e(document,"adrcid"));d&&d.id&&null!==e(document,d.id)&&(c.suid=m+"_"+encodeURIComponent(e(document,d.id)));d&&d.gid1?c.gid1=d.gid1:null!==e(document,"_ga")&&(c.gid1=encodeURIComponent(e(document,"_ga")));d&&d.yid1?c.yid1=d.yid1:null!==e(document,"_ym_uid")&&(c.yid1=encodeURIComponent(e(document,"_ym_uid")));c.loc=encodeURIComponent(window.location.href);c.custom&&(c.custom=k(c.custom,";"));(function(a,b){a="https://ad.adriver.ru/cgi-bin/rle.cgi?"+
-a+"\x26rnd\x3d![rnd]"+(b?"\x26"+b:"");(a=a.split("![rnd]").join(~~(1E6*Math.random())),document.createElement&&document.body)?(b=document.createElement("img"),b.style.position="absolute",b.style.display="none",b.style.width=b.style.height="0px",b.setAttribute("referrerpolicy","no-referrer-when-downgrade"),b.src=a,document.body.appendChild(b)):(b=new Image,b.setAttribute("referrerpolicy","no-referrer-when-downgrade"),b.src=a);a=void 0;!a})(k(c),k(n))}({sid:227258,bt:62},{id:"",gid1:"",yid1:""});
-  </script>
-  <img referrerpolicy="no-referrer-when-downgrade" src="https://ad.adriver.ru/cgi-bin/rle.cgi?sid=227258&amp;bt=62&amp;cid=AO3SCyiLMo0o8bCNqqj7Bzg&amp;gid1=GA1.1.932741844.1717529684&amp;yid1=1717529685754692781&amp;loc=https%253A%252F%252Fonline.globus.ru%252Fproducts%252Fgovyazhya-noga-na-kosti-1-upakovka-500-950-g&amp;rnd=201855&amp;tail256=unknown" style="position: absolute; display: none; height: 0px; width: 0px;"/>
-  <script id="" type="text/javascript">
-   window._txq=window._txq||[];var s=document.createElement("script");s.type="text/javascript";s.async=!0;s.src="//st.hybrid.ai/txsp.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(s);_txq.push(["createPixel","628c884f7bc72f4fb8f7f594"]);_txq.push(["track","PageView"]);
-  </script>
-  <script async="" src="https://top-fwz1.mail.ru/js/dyn-goal-config.js?ids=undefined,3220415" type="text/javascript">
-  </script>
-  <iframe height="0" id="iframe_flock_data_provider" name="iframe_flock_data_provider" src="https://api.flocktory.com/v2/provider/provider.html" style="position: absolute; top: -2000px; left: 0px;" width="0">
-  </iframe>
   <div react-portal-container="">
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
-   <div data-focus-lock-disabled="disabled">
-   </div>
-   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
-   </div>
    <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
    </div>
    <div data-focus-lock-disabled="disabled">
@@ -3404,7 +2842,7 @@ a+"\x26rnd\x3d![rnd]"+(b?"\x26"+b:"");(a=a.split("![rnd]").join(~~(1E6*Math.rand
    <div data-focus-lock-disabled="false">
     <div aria-hidden="true" class="css-1mg5yug" style="z-index: 100;">
     </div>
-    <div class="css-18asjlu" data-focus-visible-added="" role="dialog" style="z-index: 100;" tabindex="0">
+    <div class="css-18asjlu focus-visible" data-focus-visible-added="" role="dialog" style="z-index: 100;" tabindex="0">
      <div class="css-hmpa2i" data-role="component">
       <div class="css-1b3j2sl" data-role="content">
        <div class="css-17r0uj7">
@@ -3480,41 +2918,29 @@ a+"\x26rnd\x3d![rnd]"+(b?"\x26"+b:"");(a=a.split("![rnd]").join(~~(1E6*Math.rand
    </div>
    <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
    </div>
+   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
+   </div>
+   <div data-focus-lock-disabled="disabled">
+   </div>
+   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
+   </div>
+   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
+   </div>
+   <div data-focus-lock-disabled="disabled">
+   </div>
+   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
+   </div>
+   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
+   </div>
+   <div data-focus-lock-disabled="disabled">
+   </div>
+   <div data-focus-guard="true" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;" tabindex="-1">
+   </div>
   </div>
-  <script id="" type="text/javascript">
-   "undefined"===typeof __GetI&&(__GetI=[]);(function(){var a={type:"VIEW",site_id:"9074",product_id:"44679",product_price:"749.99",category_id:"",pixel_id:"Product_page"};__GetI.push(a);a="undefined"==typeof __GetI_domain?"px.adhigh.net":__GetI_domain;var b=("https:"==document.location.protocol?"https://":"http://")+a+"/t.js";a=document.createElement("script");a.type="text/javascript";a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
-  </script>
-  <script id="" type="text/javascript">
-   DSPCounter("send",{sid:223919,sz:"product",custom:{10:"44679"}});
-  </script>
-  <script id="" type="text/javascript">
-   window.advcake_data=window.advcake_data||[];window.advcake_data.push({pageType:2,user:{email:google_tag_manager["rm"]["102125980"](46)},currentCategory:{id:google_tag_manager["rm"]["102125980"](47)},currentProduct:{id:google_tag_manager["rm"]["102125980"](48),name:google_tag_manager["rm"]["102125980"](49),price:google_tag_manager["rm"]["102125980"](50)}});
-  </script>
-  <script id="" type="text/javascript">
-   _tmr.push({type:"reachGoal",id:3220415,value:google_tag_manager["rm"]["102125980"](51),goal:"vk_ecom_product",params:{product_id:google_tag_manager["rm"]["102125980"](52)}});
-  </script>
-  <script id="" type="text/javascript">
-   _tmr.push({type:"reachGoal",id:3220415,value:google_tag_manager["rm"]["102125980"](53),goal:"view_imd",params:{product_id:google_tag_manager["rm"]["102125980"](54)}});
-  </script>
   <next-route-announcer>
    <p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap; overflow-wrap: normal;">
    </p>
   </next-route-announcer>
-  <iframe frameborder="0" height="0" scrolling="no" src="https://px.adhigh.net/p/sync.html?u=u5NN36GqZCTw.AikABlGP5L8pAg&amp;l=bidvol,adriver,quiet_media,vibevideo,ohmybid,traffaret,qvnt,adstreamer,gpmdata,otm_video,aidata,buzzoola,punchmedia,amberdata,umg,paradocs,skyadvert,videonow,btw,moevideo,adspend,solta,sape,adlook,xapads,indexexchange,uma_cid_init,yandexssp,quiet_media_2&amp;site_id=9074" style="position: absolute; visibility: hidden;" width="0">
-  </iframe>
-  <iframe frameborder="0" height="0" scrolling="no" src="https://px.adhigh.net/p/sync.html?u=u5NN36GqZCTw.AikABlGP5L8pAg&amp;l=bidvol,adriver,quiet_media,vibevideo,ohmybid,traffaret,qvnt,adstreamer,gpmdata,otm_video,aidata,buzzoola,punchmedia,amberdata,umg,paradocs,skyadvert,videonow,btw,moevideo,adspend,solta,sape,adlook,xapads,indexexchange,uma_cid_init,yandexssp,quiet_media_2&amp;site_id=9074" style="position: absolute; visibility: hidden;" width="0">
-  </iframe>
-  <img height="0" id="xcnt-img-0.4458385200148567" src="//x.cnt.my/px/?r=0.2140755022374783&amp;dom=online.globus.ru&amp;tz=-180&amp;sw=800&amp;sh=600&amp;ow=800&amp;oh=600&amp;iw=800&amp;ih=600&amp;scd=24&amp;p_id=000000000000044679_KG&amp;url=https%3A%2F%2Fonline.globus.ru%2Fproducts%2Fgovyazhya-noga-na-kosti-1-upakovka-500-950-g" style="display: none !important; width: 0px !important; height: 0px !important;" width="0"/>
-  <script async="" id="xcnt-pars" src="//x.cnt.my/async/parser/online.globus.ru.js?r=4.00&amp;dom=online.globus.ru">
-  </script>
-  <div class="flocktory-widget-overlay" data-showed-up="true" style="display: flex; z-index: 2147483647; position: fixed; top: 0px; left: 0px; justify-content: center; align-items: center; width: 100%; height: 100%; background: rgba(0, 0, 0, 0); transform: none;">
-   <iframe class="flocktory-widget" frameborder="0" id="fl-706371" scrolling="no" style="width: 410px; height: 208px;" title="Flocktory widget">
-   </iframe>
-  </div>
-  <iframe src="https://content.adriver.ru/banners/0002186/0002186173/0/s.html?0&amp;0&amp;0&amp;0&amp;708133&amp;0&amp;1580382463969&amp;38&amp;213.184.150.42&amp;javascript&amp;1" style="height: 10px; width: 10px; position: absolute; left: -10000px; top: -10000px;">
-  </iframe>
-  <iframe src="https://content.adriver.ru/banners/0002186/0002186173/0/s.html?0&amp;0&amp;0&amp;0&amp;473362&amp;0&amp;1580382463969&amp;38&amp;213.184.150.42&amp;javascript&amp;1" style="height: 10px; width: 10px; position: absolute; left: -10000px; top: -10000px;">
-  </iframe>
   <script src="/_next/static/chunks/6851-4fc9354964989064.js">
   </script>
   <script src="/_next/static/chunks/2759-0e9044ef49fa3d81.js">
@@ -3525,6 +2951,116 @@ a+"\x26rnd\x3d![rnd]"+(b?"\x26"+b:"");(a=a.split("![rnd]").join(~~(1E6*Math.rand
   </script>
   <script src="/_next/static/chunks/pages/page/%5B...page%5D-30515c0b8214edcb.js">
   </script>
+  <script src="/_next/static/chunks/pages/catalog-c66f5de81f948ec8.js">
+  </script>
+  <script id="" type="text/javascript">
+   (function(b,e,f,g,c,a,d){b[c]=b[c]||function(){(b[c].a=b[c].a||[]).push(arguments)};b[c].l=1*new Date;for(a=0;a<document.scripts.length;a++)if(document.scripts[a].src===g)return;a=e.createElement(f);d=e.getElementsByTagName(f)[0];a.async=1;a.src=g;d.parentNode.insertBefore(a,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(96742988,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,ecommerce:"dataLayer",params:google_tag_manager["rm"]["102125980"](15)});
+  </script>
+  <noscript>
+   <div>
+    <img alt="" src="https://mc.yandex.ru/watch/96742988" style="position:absolute; left:-9999px;"/>
+   </div>
+  </noscript>
+  <div style="display: none; visibility: hidden;">
+   <script async="async" src="https://api.flocktory.com/v2/loader.js?site_id=3530" type="text/javascript">
+   </script>
+  </div>
+  <script id="advcakeAsync" type="text/javascript">
+   (function(a){var b=a.createElement("script");b.async=1;b.src="//code.18wosx.ru/";a=a.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})(document);
+  </script>
+  <script id="" type="text/javascript">
+   var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"undefined",type:"pageView",start:(new Date).getTime(),pid:"USER_ID"});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"topmailru-code");
+  </script>
+  <script id="" type="text/javascript">
+   !function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://vk.com/js/api/openapi.js?169";a.onload=function(){VK.Retargeting.Init("undefined");VK.Retargeting.Hit()};document.head.appendChild(a)}();
+  </script>
+  <noscript>
+   <img alt="" src="https://vk.com/rtrg?p=undefined" style="position:fixed; left:-999px;"/>
+  </noscript>
+  <script id="" type="text/javascript">
+   var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"3220415",type:"pageView",start:(new Date).getTime()});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"tmr-code");
+  </script>
+  <noscript>
+   <div>
+    <img alt="Top.Mail.Ru" src="https://top-fwz1.mail.ru/counter?id=3220415;js=na" style="position:absolute;left:-9999px;"/>
+   </div>
+  </noscript>
+  <script id="" type="text/javascript">
+   !function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://vk.com/js/api/openapi.js?169";a.onload=function(){VK.Retargeting.Init("VK-RTRG-1807015-hlHPg");VK.Retargeting.Hit()};document.head.appendChild(a)}();
+  </script>
+  <noscript>
+   <img alt="" src="https://vk.com/rtrg?p=VK-RTRG-1807015-hlHPg" style="position:fixed; left:-999px;"/>
+  </noscript>
+  <div style="display: none; visibility: hidden;">
+   <script>
+    (function(b,a,c,f,e){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)};var d=a.createElement(e);a=a.getElementsByTagName(e)[0];d.async=!0;d.src=f;a.parentNode.insertBefore(d,a)})(window,document,"DSPCounter","//tags.soloway.ru/DSPCounter.min.js","script");
+   </script>
+   <script>
+    var uid="";"undefined"!=typeof google_tag_manager["rm"]["102125980"](20)&&(uid=google_tag_manager["rm"]["102125980"](24));DSPCounter("firstSend",{sid:223919,custom:{153:uid,157:"client_id"}});
+   </script>
+  </div>
+  <script id="" type="text/javascript">
+   "undefined"===typeof __GetI&&(__GetI=[]);(function(){var a={type:"VIEW",site_id:"9074",product_id:"",product_price:"",category_id:"",pixel_id:"Tracking"};__GetI.push(a);a="undefined"==typeof __GetI_domain?"px.adhigh.net":__GetI_domain;var b=("https:"==document.location.protocol?"https://":"http://")+a+"/t.js";a=document.createElement("script");a.type="text/javascript";a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+  </script>
+  <script id="" type="text/javascript">
+   !function(c,d){function k(a,b,g){b=b||"\x26";g=g||"\x3d";var f=[],h;for(h in a)a.hasOwnProperty(h)&&f.push(h+g+encodeURIComponent(a[h]));return f.join(b)}function e(a,b){return(a=a.cookie.match("(^|;) ?"+b+"\x3d([^;]*)(;|$)"))?decodeURIComponent(a[2]):null}var l;var m=document.domain;var n={tail256:document.referrer||"unknown"};void 0!==(l=function(a){var b={};if(a){a=a.split("\x26");for(var g in a)if(a.hasOwnProperty(g)){var f=a[g].split("\x3d");void 0!==f[0]&&void 0!==f[1]&&(b[f[0]]=decodeURIComponent(f[1]))}}return b}(window.location.search.substring(1))).adrclid&&
+(c.fsid=l.adrclid);null!==e(document,"adrcid")&&(c.cid=e(document,"adrcid"));d&&d.id&&null!==e(document,d.id)&&(c.suid=m+"_"+encodeURIComponent(e(document,d.id)));d&&d.gid1?c.gid1=d.gid1:null!==e(document,"_ga")&&(c.gid1=encodeURIComponent(e(document,"_ga")));d&&d.yid1?c.yid1=d.yid1:null!==e(document,"_ym_uid")&&(c.yid1=encodeURIComponent(e(document,"_ym_uid")));c.loc=encodeURIComponent(window.location.href);c.custom&&(c.custom=k(c.custom,";"));(function(a,b){a="https://ad.adriver.ru/cgi-bin/rle.cgi?"+
+a+"\x26rnd\x3d![rnd]"+(b?"\x26"+b:"");(a=a.split("![rnd]").join(~~(1E6*Math.random())),document.createElement&&document.body)?(b=document.createElement("img"),b.style.position="absolute",b.style.display="none",b.style.width=b.style.height="0px",b.setAttribute("referrerpolicy","no-referrer-when-downgrade"),b.src=a,document.body.appendChild(b)):(b=new Image,b.setAttribute("referrerpolicy","no-referrer-when-downgrade"),b.src=a);a=void 0;!a})(k(c),k(n))}({sid:227258,bt:62},{id:"",gid1:"",yid1:""});
+  </script>
+  <img referrerpolicy="no-referrer-when-downgrade" src="https://ad.adriver.ru/cgi-bin/rle.cgi?sid=227258&amp;bt=62&amp;loc=https%253A%252F%252Fonline.globus.ru%252Fproducts%252Fgovyazhya-grudinka-na-kosti-1-upakovka-350-650-g&amp;rnd=129343&amp;tail256=unknown" style="position: absolute; display: none; height: 0px; width: 0px;"/>
+  <script id="" type="text/javascript">
+   window._txq=window._txq||[];var s=document.createElement("script");s.type="text/javascript";s.async=!0;s.src="//st.hybrid.ai/txsp.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(s);_txq.push(["createPixel","628c884f7bc72f4fb8f7f594"]);_txq.push(["track","PageView"]);
+  </script>
+  <script id="" type="text/javascript">
+   "undefined"===typeof __GetI&&(__GetI=[]);(function(){var a={type:"VIEW",site_id:"9074",product_id:"44676",product_price:"539.99",category_id:"",pixel_id:"Product_page"};__GetI.push(a);a="undefined"==typeof __GetI_domain?"px.adhigh.net":__GetI_domain;var b=("https:"==document.location.protocol?"https://":"http://")+a+"/t.js";a=document.createElement("script");a.type="text/javascript";a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+  </script>
+  <script id="" type="text/javascript">
+   DSPCounter("send",{sid:223919,sz:"product",custom:{10:"44676"}});
+  </script>
+  <script id="" type="text/javascript">
+   window.advcake_data=window.advcake_data||[];window.advcake_data.push({pageType:2,user:{email:google_tag_manager["rm"]["102125980"](46)},currentCategory:{id:google_tag_manager["rm"]["102125980"](47)},currentProduct:{id:google_tag_manager["rm"]["102125980"](48),name:google_tag_manager["rm"]["102125980"](49),price:google_tag_manager["rm"]["102125980"](50)}});
+  </script>
+  <script id="" type="text/javascript">
+   _tmr.push({type:"reachGoal",id:3220415,value:google_tag_manager["rm"]["102125980"](51),goal:"vk_ecom_product",params:{product_id:google_tag_manager["rm"]["102125980"](52)}});
+  </script>
+  <script id="" type="text/javascript">
+   _tmr.push({type:"reachGoal",id:3220415,value:google_tag_manager["rm"]["102125980"](53),goal:"view_imd",params:{product_id:google_tag_manager["rm"]["102125980"](54)}});
+  </script>
+  <script async="" src="https://privacy-cs.mail.ru/static/sync-loader.js" type="text/javascript">
+  </script>
+  <script async="" src="https://top-fwz1.mail.ru/js/dyn-goal-config.js?ids=undefined,3220415" type="text/javascript">
+  </script>
+  <iframe height="0" id="iframe_flock_data_provider" name="iframe_flock_data_provider" src="https://api.flocktory.com/v2/provider/provider.html" style="position: absolute; top: -2000px; left: 0px;" width="0">
+  </iframe>
+  <iframe frameborder="0" height="0" scrolling="no" src="https://px.adhigh.net/p/sync.html?u=0SjRyb0YIgP.AikABlGP5NWZug&amp;l=bidvol,adriver,quiet_media,vibevideo,ohmybid,traffaret,qvnt,adstreamer,gpmdata,otm_video,aidata,buzzoola,punchmedia,amberdata,umg,paradocs,skyadvert,videonow,btw,moevideo,adspend,solta,sape,adlook,xapads,indexexchange,uma_cid_init,yandexssp,quiet_media_2&amp;site_id=9074" style="position: absolute; visibility: hidden;" width="0">
+  </iframe>
+  <iframe frameborder="0" height="0" scrolling="no" src="https://px.adhigh.net/p/sync.html?u=0SjRyb0YIgP.AikABlGP5NWZug&amp;l=bidvol,adriver,quiet_media,vibevideo,ohmybid,traffaret,qvnt,adstreamer,gpmdata,otm_video,aidata,buzzoola,punchmedia,amberdata,umg,paradocs,skyadvert,videonow,btw,moevideo,adspend,solta,sape,adlook,xapads,indexexchange,uma_cid_init,yandexssp,quiet_media_2&amp;site_id=9074" style="position: absolute; visibility: hidden;" width="0">
+  </iframe>
+  <img height="0" id="xcnt-img-0.2757883042829743" src="//x.cnt.my/px/?r=0.8356622075481801&amp;dom=online.globus.ru&amp;tz=-180&amp;sw=800&amp;sh=600&amp;ow=800&amp;oh=600&amp;iw=800&amp;ih=600&amp;scd=24&amp;p_id=000000000000044676_KG&amp;url=https%3A%2F%2Fonline.globus.ru%2Fproducts%2Fgovyazhya-grudinka-na-kosti-1-upakovka-350-650-g" style="display: none !important; width: 0px !important; height: 0px !important;" width="0"/>
+  <script async="" id="xcnt-pars" src="//x.cnt.my/async/parser/online.globus.ru.js?r=4.00&amp;dom=online.globus.ru">
+  </script>
+  <script id="" type="text/javascript">
+   "undefined"===typeof __GetI&&(__GetI=[]);(function(){var a={type:"VIEW",site_id:"9074",product_id:"44676",product_price:"539.99",category_id:"",pixel_id:"Product_page"};__GetI.push(a);a="undefined"==typeof __GetI_domain?"px.adhigh.net":__GetI_domain;var b=("https:"==document.location.protocol?"https://":"http://")+a+"/t.js";a=document.createElement("script");a.type="text/javascript";a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+  </script>
+  <script id="" type="text/javascript">
+   DSPCounter("send",{sid:223919,sz:"product",custom:{10:"44676"}});
+  </script>
+  <script id="" type="text/javascript">
+   window.advcake_data=window.advcake_data||[];window.advcake_data.push({pageType:2,user:{email:google_tag_manager["rm"]["102125980"](65)},currentCategory:{id:google_tag_manager["rm"]["102125980"](66)},currentProduct:{id:google_tag_manager["rm"]["102125980"](67),name:google_tag_manager["rm"]["102125980"](68),price:google_tag_manager["rm"]["102125980"](69)}});
+  </script>
+  <script id="" type="text/javascript">
+   _tmr.push({type:"reachGoal",id:3220415,value:google_tag_manager["rm"]["102125980"](70),goal:"vk_ecom_product",params:{product_id:google_tag_manager["rm"]["102125980"](71)}});
+  </script>
+  <script id="" type="text/javascript">
+   _tmr.push({type:"reachGoal",id:3220415,value:google_tag_manager["rm"]["102125980"](72),goal:"view_imd",params:{product_id:google_tag_manager["rm"]["102125980"](73)}});
+  </script>
+  <iframe src="https://content.adriver.ru/banners/0002186/0002186173/0/s.html?0&amp;0&amp;2&amp;0&amp;72962&amp;0&amp;0&amp;38&amp;213.184.150.42&amp;javascript&amp;1" style="height: 10px; width: 10px; position: absolute; left: -10000px; top: -10000px;">
+  </iframe>
+  <iframe frameborder="0" height="0" scrolling="no" src="https://px.adhigh.net/p/sync.html?u=0SjRyb0YIgP.AikABlGP5NWZug&amp;l=bidvol,adriver,quiet_media,vibevideo,ohmybid,traffaret,qvnt,adstreamer,gpmdata,otm_video,aidata,buzzoola,punchmedia,amberdata,umg,paradocs,skyadvert,videonow,btw,moevideo,adspend,solta,sape,adlook,xapads,indexexchange,uma_cid_init,yandexssp,quiet_media_2&amp;site_id=9074" style="position: absolute; visibility: hidden;" width="0">
+  </iframe>
+  <img height="0" id="xcnt-img-0.8707963782284245" src="//x.cnt.my/px/?r=0.0659722686813764&amp;dom=online.globus.ru&amp;tz=-180&amp;sw=800&amp;sh=600&amp;ow=800&amp;oh=600&amp;iw=800&amp;ih=600&amp;scd=24&amp;p_id=000000000000044676_KG&amp;url=https%3A%2F%2Fonline.globus.ru%2Fproducts%2Fgovyazhya-grudinka-na-kosti-1-upakovka-350-650-g" style="display: none !important; width: 0px !important; height: 0px !important;" width="0"/>
+  <iframe src="https://content.adriver.ru/banners/0002186/0002186173/0/s.html?0&amp;0&amp;2&amp;0&amp;390404&amp;0&amp;0&amp;38&amp;213.184.150.42&amp;javascript&amp;1" style="height: 10px; width: 10px; position: absolute; left: -10000px; top: -10000px;">
+  </iframe>
   <script src="/_next/static/chunks/111-3dbee2752d9ed373.js">
   </script>
   <script src="/_next/static/chunks/5216-5059c18507157fac.js">
