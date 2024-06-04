@@ -1,5 +1,6 @@
 # from getpass import getpass
 from mysql.connector import connect, Error
+import pandas as pd
 
 try:
     conn = connect(
@@ -10,6 +11,8 @@ try:
         autocommit=True,
         auth_plugin='mysql_native_password'
     )
-    print(conn)
+    df = pd.read_sql(sql = 'select max(date) from parser_app_pricesraw',
+                    con=conn)
+    print(df)
 except Error as e:
     print(e)
