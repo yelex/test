@@ -37,14 +37,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     print(link)
     time.sleep(50)
     soup = BeautifulSoup(driver.page_source, 'lxml')
-    html = soup.prettify()  #bs is your BeautifulSoup object
-    with open("out.txt","w") as out:
-        for i in range(0, len(html)):
-            try:
-                out.write(html[i])
-            except Exception:
-                1+1
-    print(soup.findAll('li', {'class': 'css-nl8icf'}))
+
 
     title_div = soup.findAll(classes["title"][0],
                                      {"class": classes["title"][-1]})[-1]

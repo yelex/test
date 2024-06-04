@@ -47,7 +47,7 @@ class Global(Singleton):
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
         options.add_argument(f'user-agent={user_agent}')
-        self.webdriver = driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+        self.webdriver =  webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 
     def set_session(self, new_session):
         self.session = new_session
