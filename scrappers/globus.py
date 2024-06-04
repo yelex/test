@@ -13,9 +13,8 @@ import re
 
 classes = dict()
 
-classes["products_div"] = ["div", "css-1hj20p7 css-146vzrl"]
 
-classes["title"] = ["span", "name"]
+classes["title"] = ["h1", "css-qs82cc"]
 classes["price_regular_rub"] = ["div", "css-10fcdyq"]
 classes["price_regular_kop"] = ["div", "css-1vx8352"]
 classes["price_old_rub"] = ["div", "css-19o902r"]
@@ -37,22 +36,22 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     driver.get(link)
     time.sleep(5)
     soup = BeautifulSoup(driver.page_source, 'lxml')
-
-    products_div = soup.find(
-        classes["products_div"][0], {"class": classes["products_div"][-1]}
-    )
-
-    if not products_div:
-        print("  Нет товара по ссылке\n")
-        return False
+    html = soup.prettify()  #bs is your BeautifulSoup object
+    with open("out.txt","w") as out:
+        for i in range(0, len(html)):
+            try:
+                out.write(html[i])
+            except Exception:
+                1+1
+    print(soup.findAll('li', {'class': 'css-nl8icf'}))
 
     title_div = soup.findAll(classes["title"][0],
-                                     {"itemprop": classes["title"][-1]})[-1]
+                                     {"class": classes["title"][-1]})[-1]
     if not title_div:
         print("  Нет названия\n")
         return False
 
-    # is_avaliable = products_div.find(
+    # is_avaliable = soup.find(
     #     classes["is_avaliable"][0], {"class": classes["is_avaliable"][-1]}
     # )["style"]
 
@@ -62,17 +61,17 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 
     title = wspex_space(title_div.text)
 
-    price_text_rub_div = products_div.find(
+    price_text_rub_div = soup.find(
         classes["price_regular_rub"][0], {"class": classes["price_regular_rub"][-1]}
     )
-    price_text_kop_div = products_div.find(
+    price_text_kop_div = soup.find(
         classes["price_regular_kop"][0], {"class": classes["price_regular_kop"][-1]}
     )
-    price_text_old_rub_div = products_div.find(
+    price_text_old_rub_div = soup.find(
         classes["price_old_rub"][0], {"class": classes["price_old_rub"][-1]}
     )
 
-    price_text_old_kop_div = products_div.find(
+    price_text_old_kop_div = soup.find(
         classes["price_old_kop"][0], {"class": classes["price_old_kop"][-1]}
     )
 
@@ -96,7 +95,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 
     else:
         price_old = -1.0
-    site_unit = products_div.find(
+    site_unit = soup.find(
         classes["site_unit"][0], {"class": classes["site_unit"][-1]}
     ).text.strip()
 
@@ -111,5 +110,5 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 if __name__ == "__main__":
     # link = 'https://online.globus.ru/products/muka-pshenichnaya-globus-khlebopekarnaya-2-kg/'
     # link = 'https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/'
-    link = "https://online.globus.ru/products/govyazhya-noga-na-kosti-1-upakovka-500-950-g/"
+    link = "https://online.globus.ru/products/baranya-sheya-up-400-600-g-165844_KG"
     print(get_data_from_link(link))
