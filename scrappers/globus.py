@@ -34,7 +34,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     driver = global_.webdriver
 
     driver.get(link)
-    time.sleep(5)
+    print(link)
     soup = BeautifulSoup(driver.page_source, 'lxml')
     html = soup.prettify()  #bs is your BeautifulSoup object
     with open("out.txt","w") as out:
