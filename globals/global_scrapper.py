@@ -35,8 +35,7 @@ db_connection = mysql.connector.connect(
   autocommit=True,
   auth_plugin='mysql_native_password',
   use_pure=False,
-  connection_timeout=86400,    # устанавливаем таймаут подключения
-  pool_ping_interval=300
+  connection_timeout=86400
 )
 
 
