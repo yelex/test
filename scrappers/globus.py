@@ -32,7 +32,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
     """
     driver = global_.webdriver
-
+    print(12312)
     driver.get(link)
     print(link)
     soup = BeautifulSoup(driver.page_source, 'lxml')
