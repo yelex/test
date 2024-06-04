@@ -5,7 +5,7 @@ import pandas as pd
 import sys
 import os
 from tqdm import tqdm
-from sqlalchemy import create_engine
+import mysql.connector
 import logging
 
 
@@ -27,7 +27,15 @@ urls_vprok = URLS.loc[URLS.site_link.str.contains("vprok"), "site_link"]
 urls_globus = URLS.loc[URLS.site_link.str.contains("globus"), "site_link"]
 
 print(DB_CONNECTION_STR)
-db_connection = create_engine(DB_CONNECTION_STR)
+db_connection = mysql.connector.connect(
+  host="localhost",
+  user="root",
+  password="password",
+  database="ane_base",
+  autocommit=True,
+  auth_plugin='mysql_native_password'
+)
+
 
 categories_df = pd.read_sql(
     "select * from parser_app_category_titles", con=db_connection
