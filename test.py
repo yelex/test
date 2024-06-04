@@ -1,16 +1,15 @@
-# vim test.py
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
+# from getpass import getpass
+from mysql.connector import connect, Error
 
-options = Options()
-options.add_argument('--headless')
-options.add_argument('--no-sandbox')
-options.add_argument('--disable-dev-shm-usage')
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), 
-                          options=options)
-
-driver.get("https://python.org")
-print(driver.title)
-driver.close()
+try:
+    conn = connect(
+        host="localhost",
+        user='root',
+        password='password',
+        database="ane_base",
+        autocommit=True,
+        auth_plugin='mysql_native_password'
+    )
+    print(conn)
+except Error as e:
+    print(e)
