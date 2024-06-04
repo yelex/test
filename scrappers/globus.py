@@ -54,6 +54,9 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     #     return False
 
     title = wspex_space(title_div.text)
+    if title == '':
+        print("  Нет названия\n")
+        return False
 
     price_text_rub_div = soup.find(
         classes["price_regular_rub"][0], {"class": classes["price_regular_rub"][-1]}
@@ -104,5 +107,5 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 if __name__ == "__main__":
     # link = 'https://online.globus.ru/products/muka-pshenichnaya-globus-khlebopekarnaya-2-kg/'
     # link = 'https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/'
-    link = "https://online.globus.ru/products/baranya-sheya-up-400-600-g-165844_KG"
+    link = "https://online.globus.ru/products/govyazhya-grudinka-na-kosti-1-upakovka-350-650-g/"
     print(get_data_from_link(link))
