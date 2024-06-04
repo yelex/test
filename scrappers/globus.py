@@ -35,7 +35,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     print(12312)
     driver.get(link)
     print(link)
-    time.sleep(50)
+    time.sleep(5)
     soup = BeautifulSoup(driver.page_source, 'lxml')
 
 
