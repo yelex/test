@@ -33,7 +33,8 @@ db_connection = mysql.connector.connect(
   password="password",
   database="ane_base",
   autocommit=True,
-  auth_plugin='mysql_native_password'
+  auth_plugin='mysql_native_password',
+  use_pure=False
 )
 
 
