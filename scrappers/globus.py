@@ -37,6 +37,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     print(link)
     time.sleep(5)
     soup = BeautifulSoup(driver.page_source, 'lxml')
+    print(soup)
 
 
     title_div = soup.findAll(classes["title"][0],

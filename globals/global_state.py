@@ -46,7 +46,14 @@ class Global(Singleton):
         options.add_argument('--headless')
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
+        options.add_argument("--start-maximized")
         options.add_argument(f'user-agent={user_agent}')
+        options.add_experimental_option(
+        "prefs", {
+            # block image loading
+            "profile.managed_default_content_settings.images": 2,
+        }
+    )
         self.webdriver =  webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 
     def set_session(self, new_session):
