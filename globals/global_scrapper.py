@@ -89,17 +89,17 @@ def main(to_sql=True):
         ]
     )
 
-    for link in tqdm(urls_globus):  # return when globus will be fixed
+    # for link in tqdm(urls_globus):  # return when globus will be fixed
         
-        globus_data = globus.get_data_from_link(link, global_=global_)
-        time.sleep(10)
-        (
-            logging.info(globus_data)
-            if globus_data
-            else logging.warning(f"{link} отсутствуют данные")
-        )
-        one_row_df = get_data(link=link, data=globus_data)
-        res = pd.concat([res, one_row_df], ignore_index=True)
+    #     globus_data = globus.get_data_from_link(link, global_=global_)
+    #     time.sleep(10)
+    #     (
+    #         logging.info(globus_data)
+    #         if globus_data
+    #         else logging.warning(f"{link} отсутствуют данные")
+    #     )
+    #     one_row_df = get_data(link=link, data=globus_data)
+    #     res = pd.concat([res, one_row_df], ignore_index=True)
 
     for link in tqdm(urls_vprok):  # test
         time.sleep(np.abs(np.random.randn()) * 3)

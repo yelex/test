@@ -27,7 +27,7 @@ class Global(Singleton):
 
         self._set_request_session()
         self._set_tor_session()
-        self._set_webdriver() # return when globus will be repaired
+        # self._set_webdriver() # return when globus will be repaired
 
     def _set_request_session(self):
         self.request_session = requests.session()
