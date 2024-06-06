@@ -108,5 +108,5 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 if __name__ == "__main__":
     # link = 'https://online.globus.ru/products/muka-pshenichnaya-globus-khlebopekarnaya-2-kg/'
     # link = 'https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/'
-    link = "https://online.globus.ru/products/govyazhya-grudinka-na-kosti-1-upakovka-350-650-g/"
+    link = "https://online.globus.ru/products/tushka-utki-ramenskij-delikates-potroshyonaya-v-yablochno-medovom-souse-up-17-205-kg-278988_KG"
     print(get_data_from_link(link))
