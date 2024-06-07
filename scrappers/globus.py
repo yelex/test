@@ -3,10 +3,12 @@ import sys
 import os
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+
+from selenium.webdriver.chrome.options import Options
 sys.path.insert(0, os.path.abspath("./"))
 
 from utils.tools import wspex_space
-from utils.constants import HEADERS_GLOBUS, TIMEOUT
+from utils.constants import HEADERS_GLOBUS, TIMEOUT, PATH_CHROMEDRIVER
 from globals.global_state import Global
 import time
 import re
@@ -31,7 +33,13 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     Сделать сессию вовне
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
     """
-    driver = global_.webdriver
+    # driver = global_.webdriver
+    service = Service(executable_path='./chromedrivers/chromedriver')
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    driver = webdriver.Chrome(service=service, options=options)
     print(12312)
     driver.get(link)
     print(link)
