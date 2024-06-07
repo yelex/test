@@ -37,7 +37,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     service = Service(executable_path='./chromedrivers/chromedriver')
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
-    options.add_argument('--no-sandbox')
+    # options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     driver = webdriver.Chrome(service=service, options=options)
     print(12312)
