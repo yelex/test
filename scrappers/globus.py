@@ -41,21 +41,11 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     time.sleep(5)
     soup = BeautifulSoup(driver.page_source, "html.parser")
 
-    print(soup)
-
     title_div = soup.findAll(classes["title"][0],
                                      {"class": classes["title"][-1]})[-1]
     if not title_div:
         print("  Нет названия\n")
         return False
-
-    # is_avaliable = soup.find(
-    #     classes["is_avaliable"][0], {"class": classes["is_avaliable"][-1]}
-    # )["style"]
-
-    # if "none" not in is_avaliable:
-    #     print(" Товар временно отсутствует!")
-    #     return False
 
     title = wspex_space(title_div.text)
     if title == '':
