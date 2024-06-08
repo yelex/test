@@ -40,15 +40,6 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     print(link)
     time.sleep(5)
     soup = BeautifulSoup(driver.page_source, "html.parser")
-    html = soup.prettify()  #bs is your BeautifulSoup object
-    with open("out.txt","w") as out:
-        for i in range(0, len(html)):
-            try:
-                out.write(html[i])
-            except Exception:
-                1+1
-
-    # soup = BeautifulSoup(driver.page_source, 'lxml')
 
     print(soup)
 
