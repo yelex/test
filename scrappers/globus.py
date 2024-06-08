@@ -7,6 +7,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 sys.path.insert(0, os.path.abspath("./"))
 
+from utils.ip import update_tor_ip
 from utils.tools import wspex_space
 from utils.constants import HEADERS_GLOBUS, TIMEOUT, PATH_CHROMEDRIVER
 from globals.global_state import Global
@@ -34,15 +35,21 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
     """
     driver = global_.webdriver
-    # options = Options()
-    # options.add_argument('--headless')
-    # options.add_argument('--no-sandbox')
-    # options.add_argument('--disable-dev-shm-usage')
-    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     driver.get(link)
+
     print(link)
     time.sleep(5)
-    soup = BeautifulSoup(driver.page_source, 'lxml')
+    soup = BeautifulSoup(driver.page_source, "html.parser")
+    html = soup.prettify()  #bs is your BeautifulSoup object
+    with open("out.txt","w") as out:
+        for i in range(0, len(html)):
+            try:
+                out.write(html[i])
+            except Exception:
+                1+1
+
+    # soup = BeautifulSoup(driver.page_source, 'lxml')
+
     print(soup)
 
     title_div = soup.findAll(classes["title"][0],
