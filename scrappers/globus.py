@@ -33,20 +33,17 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     Сделать сессию вовне
     Если ошибка - возвращать False, инициировать сессию с тор и возвращать сюда же
     """
-    # driver = global_.webdriver
-    service = Service(executable_path='./chromedrivers/chromedriver')
-    options = webdriver.ChromeOptions()
-    options.add_argument('--headless=new')
+    driver = global_.webdriver
+    # options = Options()
+    # options.add_argument('--headless')
     # options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
-    driver = webdriver.Chrome(service=service, options=options)
-    print(12312)
+    # options.add_argument('--disable-dev-shm-usage')
+    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     driver.get(link)
     print(link)
     time.sleep(5)
     soup = BeautifulSoup(driver.page_source, 'lxml')
     print(soup)
-
 
     title_div = soup.findAll(classes["title"][0],
                                      {"class": classes["title"][-1]})[-1]
