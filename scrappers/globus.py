@@ -17,7 +17,9 @@ import re
 classes = dict()
 
 
-classes["title"] = ["h1", "css-qs82cc"]
+# classes["title"] = ["h1", "css-qs82cc"]
+
+classes["title"] = ["li", "css-nl8icf"]
 classes["price_regular_rub"] = ["div", "css-10fcdyq"]
 classes["price_regular_kop"] = ["div", "css-1vx8352"]
 classes["price_old_rub"] = ["div", "css-19o902r"]
@@ -38,16 +40,18 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     driver.get(link)
 
     print(link)
-    time.sleep(5)
+    time.sleep(10)
     soup = BeautifulSoup(driver.page_source, "html.parser")
 
     title_div = soup.findAll(classes["title"][0],
-                                     {"class": classes["title"][-1]})[-1]
+                                     {"class": classes["title"][-1]})
     if not title_div:
         print("  Нет названия\n")
         return False
 
+    title_div = title_div[-1]
     title = wspex_space(title_div.text)
+
     if title == '':
         print("  Нет названия\n")
         return False
@@ -100,6 +104,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 
 if __name__ == "__main__":
     # link = 'https://online.globus.ru/products/muka-pshenichnaya-globus-khlebopekarnaya-2-kg/'
-    # link = 'https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/'
-    link = "https://online.globus.ru/products/tushka-utki-ramenskij-delikates-potroshyonaya-v-yablochno-medovom-souse-up-17-205-kg-278988_KG"
+    link = 'https://online.globus.ru/products/tushka-tsyplenka-broylera-latifa-okhlazhdennaya-potroshenaya-khalyal-1-upakovka-1-7-2-1-kg'
+    # link = "https://online.globus.ru/products/tushka-utki-ramenskij-delikates-potroshyonaya-v-yablochno-medovom-souse-up-17-205-kg-278988_KG"
+    # link = "https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/"
     print(get_data_from_link(link))
