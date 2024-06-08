@@ -28,6 +28,7 @@ logging.basicConfig(
 global_ = Global()
 urls_vprok = URLS.loc[URLS.site_link.str.contains("vprok"), "site_link"]
 urls_globus = URLS.loc[URLS.site_link.str.contains("globus"), "site_link"]
+print(urls_globus.values[42:43])
 
 print(DB_CONNECTION_STR)
 db_connection = create_engine(DB_CONNECTION_STR)

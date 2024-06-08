@@ -86,7 +86,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
         price_old_rub = price_text_old_rub_div.text
         price_old_kop = price_text_old_kop_div.text
 
-        price_old = float(price_old_rub + '.' + price_old_kop)
+        price_old = float(price_old_rub.replace(" ", "") + '.' + price_old_kop)
 
     else:
         price_old = -1.0
@@ -104,7 +104,7 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
 
 if __name__ == "__main__":
     # link = 'https://online.globus.ru/products/muka-pshenichnaya-globus-khlebopekarnaya-2-kg/'
-    link = 'https://online.globus.ru/products/tushka-tsyplenka-broylera-latifa-okhlazhdennaya-potroshenaya-khalyal-1-upakovka-1-7-2-1-kg'
+    link = 'https://online.globus.ru/products/semga-steyk-fish-more-zamorozhennyy-500-g'
     # link = "https://online.globus.ru/products/tushka-utki-ramenskij-delikates-potroshyonaya-v-yablochno-medovom-souse-up-17-205-kg-278988_KG"
     # link = "https://online.globus.ru/products/svinoy-okorok-svyshe-5-kg-1-upakovka-5-6-kg/"
     print(get_data_from_link(link))

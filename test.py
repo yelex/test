@@ -11,7 +11,7 @@ try:
         autocommit=True,
         auth_plugin='mysql_native_password'
     )
-    df = pd.read_sql(sql = 'select max(date) from parser_app_pricesraw',
+    df = pd.read_sql(sql = 'select max(date) from parser_app_categorytitles',
                     con=conn)
     print(df)
 except Error as e:
