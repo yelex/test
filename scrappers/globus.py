@@ -42,7 +42,8 @@ def get_data_from_link(link, global_=global_, headers=HEADERS_GLOBUS, timeout=TI
     print(link)
     time.sleep(10)
     soup = BeautifulSoup(driver.page_source, "html.parser")
-
+    
+    driver.close()
     title_div = soup.findAll(classes["title"][0],
                                      {"class": classes["title"][-1]})
     if not title_div:
